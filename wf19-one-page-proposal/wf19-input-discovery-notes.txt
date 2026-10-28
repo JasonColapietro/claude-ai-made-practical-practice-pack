@@ -1,0 +1,79 @@
+FERN & FIG FLORIST: DISCOVERY CALL NOTES
+Marcus Lee (my notes, typed up after the call)
+Call: Tuesday, October 6, 2026, about 45 min, video
+On the call: Rosa Whitfield (owner). Tess Whitfield (Rosa's sister, keeps the books) joined for the last 10 min.
+
+---
+
+BACKGROUND
+- Shop has been open 11 years. Walk-in shop plus local delivery (within about 10 miles of the shop).
+- Most orders still come by phone. Some come through the wire service they belong to. Rosa doesn't love the fees but "it brings in sympathy orders we wouldn't get otherwise." Not sure if they want to keep it.
+- I built their stopgap holiday ordering page in September (an order form bolted onto the old site). It works, but it's a form, not a store. Rosa wants the whole site redone now.
+- Current site built in 2019 on a template by Rosa's nephew (Owen). He's in college now and "doesn't really answer texts."
+- Site problems Rosa listed:
+  - menu doesn't open on phones (I checked: confirmed, the hamburger icon does nothing on my phone)
+  - photos load slowly (some are 6-8 MB each)
+  - she can't change the holiday hours herself, so the site said "Open Christmas Day" last year
+  - the only online ordering is my September holiday form: no payment, no delivery dates, someone has to call every customer back to take a card
+  - wedding inquiries come in through Instagram DMs and get lost
+
+WHAT THEY WANT (in Rosa's order, roughly)
+1. Works on phones. "Half our customers are standing in a hospital parking lot ordering flowers."
+2. Order online, pick a delivery date, pay. Same-day delivery if ordered by 1 pm. Around 20 arrangements to start, maybe more at holidays.
+3. Weddings & events page with a real gallery and an inquiry form that comes to Tess.
+4. Workshops page. They run a monthly class (wreaths in Dec, terrariums, spring bulbs). About 12 seats. Right now people sign up by calling. Want people to sign up and pay online.
+5. Be able to update hours, holiday closures and the homepage banner themselves.
+6. "Flower Club" subscription (weekly or every-other-week bouquet). Rosa is excited about this. Tess thinks it's too soon. Agreed on the call to treat it as "maybe phase 2." Don't price it into the main project.
+
+PAGES (my rough list from the call)
+- Home
+- Shop (arrangements)
+- Sympathy flowers (Rosa wants this separate from Shop, "people are not in the mood to scroll past birthday balloons")
+- Weddings & Events (gallery + inquiry form)
+- Workshops (class list + sign-up)
+- About
+- Delivery info & contact
+- FAQ
+- Flower Club (phase 2, not now)
+
+TIMING
+- Rosa: wants it live "before Valentine's Day, that's our biggest week."
+- Tess (last 10 min): "Valentine's would be great but Mother's Day is the one we can't miss."
+- They haven't picked a start date. I told them my next opening is Nov 30.
+
+BUDGET
+- Rosa on the call: "We were thinking around five thousand?"
+- See Rosa's email below, which says something different.
+
+CONTENT / UNKNOWNS
+- Photos: they have a lot of phone photos. Rosa mentioned "maybe hiring a photographer for the wedding stuff." No decision.
+- Copy: Rosa: "I can write some of it." Tess: "You said that last time." Unclear who writes what.
+- Domain: they think Owen registered it. Nobody's sure who has the login. Hosting is on Owen's account too, maybe.
+- Store platform: no preference. Rosa asked what I recommend. I said I'd lay out options, didn't commit.
+- Wire service: keep it or drop it? Open question, their call.
+- Who approves: Rosa owns the shop, but she won't sign anything Tess hasn't seen. Tess handles the money side.
+
+MY NOTES TO SELF
+- Don't promise Valentine's unless they give me content on day one.
+- Gallery page counts as a regular page on my rate sheet.
+- Ask about payment processing fees, they may not realize the store platform charges per sale.
+- They mentioned a competitor's site "with the pretty scrolling." Not a requirement, just a vibe.
+
+---
+
+FORWARDED EMAIL
+
+From: Rosa Whitfield <rosa@fernandfig.example.com>
+To: Marcus Lee <marcus@marcusleedesign.example.com>
+Date: Thursday, October 8, 2026, 9:14 PM
+Subject: website follow up!!
+
+Hi Marcus,
+
+Thanks again for the call on Tuesday. Tess and I talked it over at dinner. We'd hoped to stay under $6,000 all in, including the first year of whatever the monthly thing is. Is that realistic? If not, tell us what you'd cut.
+
+Also Tess wants to make sure we can do the class sign ups online, that's a must for her. And can we see a rough timeline? Valentine's would be amazing but honestly Mother's Day at the latest.
+
+We're around all next week if you have questions. Shop number is 555-0137 if email is slow, I'm better at the phone than email ha.
+
+Rosa

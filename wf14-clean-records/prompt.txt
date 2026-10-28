@@ -1,0 +1,24 @@
+I coordinate volunteers for a community garden with 40 plots. Attached is our volunteer sign-up list. Some people used an online form and some signed a paper sheet that was typed in later, so it's messy. I need a clean list I can sort and filter, and I need to trust that nothing was made up or lost.
+
+Use only the attached file. Clean the formatting. Never add, guess or remove information.
+
+Keep one row for every row in the original, in the same order. Do not merge or delete any rows, even ones that look like duplicates. Leave out the Timestamp column. Use these columns:
+- row: the original row number (the first person is 1).
+- first_name and last_name: normal capitals. Turn "Last, First" around. If only one name is given, put it in first_name. Keep initials as written.
+- email: lowercase, no spaces.
+- phone: written like 614-555-0123 when there are exactly 10 digits.
+- plot: a number from 1 to 40. Separate two plots with a semicolon. Write none if the person says they have no plot or are on the waitlist.
+- help_with: only these values: Watering, Compost, Tool shed, Events, Plant sale. Separate several with semicolons.
+- availability: only these values: Weekday mornings, Weekday evenings, Saturdays, Sundays. "Weekends" means Saturdays; Sundays. If the person's words add a detail, such as a time or an exception, copy that detail into notes.
+- For help_with and availability, if a word is plainly one of my values in another form, such as different capitals, a short form or "composting" for Compost, use my value.
+- notes: the person's original note, plus any detail moved from availability. Leave notes empty if there is nothing to put there.
+- check: anything I need to look at (see below).
+
+Rules for unknowns:
+- If a cell is blank, "?" or unclear, write unknown. Do not fill it in from another row.
+- If a value can't be cleaned without guessing, keep it exactly as written and add a short note to check, such as "check phone". This includes a phone with too few or too many digits, an email that looks incomplete or misspelled, a plot outside the allowed numbers, and help or availability words that don't match my values.
+- If two rows share a phone number, an email or a full name, add "possible duplicate of row N" to check on both rows.
+
+After the table, give me:
+1. Counts: rows in, rows out, unknown cells in each column, and rows with something in check.
+2. A "Questions for Lena" list: one line for each row with something in check, saying what I need to confirm and with whom.

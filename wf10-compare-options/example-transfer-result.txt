@@ -1,0 +1,67 @@
+Prompt used (the chapter's template with the three bracketed parts replaced as the transfer section says):
+"I need to choose one of three after-school programs for our 9-year-old daughter, Zara. [...] 2. Monthly cost. Price 5 days a week for one month, counted the way my needs file says from each proposal, item by item. [...]"
+Files attached: wf10-transfer-okafor-needs.txt, wf10-transfer-denver-programs.txt
+
+---
+
+Here's the comparison, using only your needs file and the program details you copied.
+
+## 1. Must-haves
+
+| Must-have | Pinecrest Kids Club | Bright Peaks Learning Lab | Trailhead Kids Adventure Club |
+|---|---|---|---|
+| 1. Open until at least 6:00 p.m. | Yes. "dismissal to 6:00 p.m." (exactly 6:00, so very little margin) | Yes. "3:00 to 6:30 p.m." | No. "We run until 5:45 p.m." |
+| 2. Safe trip from school | Yes. "Staff walk kids from Aspen Hollow" | Yes. Vans collect students from Aspen Hollow | Yes. "runs right at Aspen Hollow" |
+| 3. Spot starting week of April 5, 5 days | Unclear. "full for the rest of this school year," waitlist of 9 families; spots "usually open up in March" | Unclear, leaning yes. "We currently have space in our 3rd to 5th grade group," but that's today, not April | Yes. "We do have room for a 4th grader starting in April" |
+| 4. Under $600 a month | Yes. $380 | Yes. $520 or $540 (see the price conflict) | Yes. $560 |
+
+## 2. Monthly cost (5 days a week, 20 school days)
+
+**Pinecrest:** $95 a week × 4 weeks = **$380.00 a month**. One-time registration $35 (once per school year), so the first month is $415.00.
+
+**Bright Peaks:** the flyer says **$520.00 a month**. The FAQ says $135 a week; × 4 weeks = **$540.00 a month**. Registration is $75 per family, one time. First month: $595.00 at the flyer price, $615.00 at the FAQ price.
+
+**Trailhead:** $28 a day × 20 days = **$560.00 a month**. Registration $40, so the first month is $600.00 (not under $600). Early-release days cost $15 extra each; the number of those days isn't in the files, so I left them out.
+
+## 3. Nice-to-haves
+
+| Nice-to-have | Pinecrest | Bright Peaks | Trailhead |
+|---|---|---|---|
+| Art or making things | Yes. Crafts | Yes. "hands-on art and STEM projects every afternoon" | Partly. Nature journaling, forts; art on bad-weather days |
+| Time outside | Yes. "outdoor play (weather permitting)" | Unclear. Not mentioned | Yes. "most afternoons outside" |
+| Homework help | Partly. A "quiet homework hour"; no mention of help | Yes. 30-minute block "with a certified teacher" | No. "optional... not a structured block" |
+| Kids from her new class | Unclear. Kids from Aspen Hollow and two other schools | Unclear. Kids from six schools, including Aspen Hollow | Unclear. It's at Aspen Hollow, but the email doesn't say who attends |
+
+## 4. Problems
+
+**Contradictions**
+- Bright Peaks lists two full-time prices: $520 a month on the flyer, $135 a week on the FAQ ($540 for 4 weeks). That's a $20 a month difference.
+
+**Conditions attached to prices**
+- Bright Peaks: "Enroll any Monday, space permitting." Holiday Camp is $65 a day.
+- Trailhead: minimum 3 days a week; early-release days are $15 extra.
+- Pinecrest: registration is per school year, so you may pay it again in the fall.
+
+**Things your needs file asks that the programs don't answer**
+- Holidays and early release are answered: Pinecrest is closed on both. Bright Peaks runs Holiday Camp on most holidays ($65 a day) and covers early release at no charge. Trailhead is closed on holidays and covers early release for $15.
+- None of the three says whether they want the registration fee before a spot is confirmed. (Pinecrest's waitlist itself is free.)
+- Pickup timing at Pinecrest: you get off at 5:30 and need about 25 minutes, so you'd arrive around 5:55 for a 6:00 close. None of the files mention a late-pickup policy.
+
+## 5. Bottom line
+
+Trailhead is out because it closes at 5:45 p.m., even though it has a spot and is at the school. Bright Peaks meets all four must-haves as written, at $520 or $540 a month, but you need to confirm the price and an April 5 start. Pinecrest is the cheapest at $380 a month and meets the hours and travel must-haves, but it is full with a waitlist of 9 families. Joining the waitlist is free, so you could do that while you confirm Bright Peaks.
+
+**Questions to send before you sign**
+
+Pinecrest
+- Where would Zara be on the waitlist, and when would you know about an April opening?
+- What happens if a parent arrives a few minutes after 6:00?
+
+Bright Peaks
+- Is full-time tuition $520 a month or $135 a week?
+- Can you hold a full-time spot for a 4th grader starting Monday, April 5, 2027?
+- Do you need the $75 registration before the spot is confirmed?
+- Do the kids get any time outside?
+
+Trailhead
+- (Only if your hours change) Do you ever stay open past 5:45 p.m.?

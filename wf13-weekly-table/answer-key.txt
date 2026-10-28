@@ -1,0 +1,87 @@
+WF13 ANSWER KEY: wf13-input-weekly-jobs.csv (week of Mon 10/12/2026 to Fri 10/16/2026)
+All figures computed with python3 -I from the CSV. Rules match prompt.txt.
+
+Lines in file (not counting header): 30
+Exact duplicate lines: H-1031 (counted once below)
+Unique jobs scheduled: 29
+Completed jobs: 27
+Lockout: 1 (H-1036 O'Brien, T. $148.50)
+Late cancel: 1 (H-1042 Vance, R. $50.00)
+Total billed, all unique rows: $6,039.00
+Total billed, completed jobs only: $5,840.50
+Paid: $4,205.50   Unpaid: $1,833.50 across 8 jobs
+Unpaid list:
+  H-1026  Fischer, A.            Completed   $215.00
+  H-1030  Jensen, T.             Completed   $305.00
+  H-1035  Nguyen, H.             Completed   $355.00
+  H-1036  O'Brien, T.            Lockout     $148.50
+  H-1042  Vance, R.              Late cancel $50.00
+  H-1044  Salt Line Architects   Completed   $195.00
+  H-1046  Zimmer, P.             Completed   $365.00
+  H-1049  Duarte, S.             Completed   $200.00
+
+Completed jobs by service type (count, billed):
+  Standard      14  $2,175.50
+  Deep           6  $1,720.00
+  Small office   4  $825.00
+  Move-out       3  $1,120.00
+  Total         27  $5,840.50
+  Plus non-completed charges: lockout fee line and late-cancel fee line listed above.
+
+By day (unique jobs scheduled, completed, billed incl. fees):
+  Mon  scheduled 6  completed 6  billed $1,159.50
+  Tue  scheduled 6  completed 6  billed $1,299.50
+  Wed  scheduled 6  completed 5  billed $1,334.50
+  Thu  scheduled 6  completed 5  billed $1,121.00
+  Fri  scheduled 5  completed 5  billed $1,124.50
+  Highest billed day: Wed $1,334.50. Lowest: Thu $1,121.00.
+
+Completed jobs with crew hours: 26 (missing hours: H-1043)
+Crew hours on those jobs: 155.5
+Billed on those jobs: $5,625.50
+Billed per crew hour: $36.18 (exact 36.1768)
+Average completed job: $216.31 (exact 216.3148)
+Completed one-time jobs: 16 ($4,135.00); recurring: 11 ($1,705.50)
+
+CHECK THESE (a good reply flags all four)
+1. H-1031 Kowalski, B.: the row appears twice, exactly the same. Count once.
+   (If it were counted twice: 30 jobs and $6,165.00 billed. Either figure in a reply means the duplicate was not caught.)
+2. H-1028 Hughes, D., Scarborough, Standard, 1,500 sq ft, one-time: charged $140.00. Price list: $140 plus the $15 Scarborough travel fee = $155.00.
+3. H-1041 Underwood, S., Falmouth, Deep, 1,400 sq ft: charged $240.00. Price list: deep clean from $260 (up to 1,500 sq ft).
+4. H-1043 Walsh, C.: completed, but crew_hours is blank. It is left out of billed per crew hour.
+
+NOT ERRORS (a reply may mention these, but should not call them mistakes)
+- H-1036 O'Brien, T. Lockout charged $148.50: matches policy (lockouts charged at full visit price; $165 standard less 10% recurring discount).
+- H-1042 Vance, R. Late cancel $50.00, no crew, 0 hours: matches policy. Note says cancelled 10/14 at 4pm for a 10/15 1:00 PM visit, inside 48 hours.
+- Small-office prices ($210, $180, $240, $195): quoted, not on the price list. The prompt says not to flag them.
+- Deep cleans over 1,500 sq ft: H-1023 (1,800 sq ft, $285.00), H-1048 (1,700 sq ft, $285.00), H-1034 (2,100 sq ft, $310.00). The facts file gives deep cleans "from $260 (up to 1,500 sq ft)" and states the $25-per-500 size step for STANDARD cleans only (WF21's answer key relies on that wording, so do not change the shared facts file). These prices fit the standard size step. A reply that lists them as "cannot confirm from the price list" is correct. A reply that calls them overcharges is wrong.
+- Every other row matches the price list: standard $140 up to 1,500 sq ft plus $25 per extra 500 sq ft (read as each started 500 sq ft; a reply should state that assumption), 10% off weekly or every-two-weeks standard cleans, move-out $320, fridge $35, cabinets $45, laundry $25 per load, $15 travel fee for Scarborough and Yarmouth.
+
+ROUNDING TOLERANCE
+Billed per crew hour $36.18 and average completed job $216.31 may appear as $36 and $216. Any other difference is an error.
+
+===================================================================
+TRANSFER: wf13-transfer-billable-hours.csv (Marcus Lee, September 2026), rules in wf13-transfer-prompt.txt
+Rows (not counting header): 36
+Total hours logged: 78
+Non-billable hours: 8.5 (6 rows)
+  2026-09-01 Admin Invoicing August 1.5h
+  2026-09-08 Admin Portfolio update 2h
+  2026-09-11 Fern & Fig Florist Fix checkout bug I caused 1.5h
+  2026-09-15 Admin Bookkeeping, receipts 1h
+  2026-09-22 Admin Sales call (prospect, Brightline Pilates) 1h
+  2026-09-30 Admin Invoicing September 1.5h
+Billable hours: 69.5
+Combined spelling variants: 'Coastline Kayak' -> Coastline Kayak Tours (2026-09-09); 'fern and fig' -> Fern & Fig Florist (2026-09-24)
+Billable hours and amount by client (amount excludes the row with no rate):
+  Fern & Fig Florist           11.25 h  $956.25  (rate $85)
+  Alder Street Dental          17.25 h  $1,638.75  (rate $95)
+  Coastline Kayak Tours           23 h  $1,955.00  (rate $85)
+  Ridgeline Yoga                 2.5 h  $200.00  (rate $80)
+  Mill Pond Bakery                 9 h  $487.50  (rate $75)
+  Hollis & Grant Bookkeeping     6.5 h  $585.00  (rate $90)
+  Total                         69.5 h  $5,822.50
+Row with blank rate: 2026-09-14 Mill Pond Bakery 'Menu page build' 2.5 h. At Mill Pond Bakery's usual $75/h it would add $187.50, making $6,010.00 total. Flag; do not fill in.
+Largest client by amount: Coastline Kayak Tours $1,955.00
+Share of logged hours that were billable: 89.1%
+Average billed rate across billable hours that have a rate: $86.90

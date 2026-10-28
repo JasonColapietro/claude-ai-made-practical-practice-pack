@@ -1,0 +1,143 @@
+ANSWER KEY: Workflow 22, Create and revise a useful Artifact
+Dates and prices computed with a python3 -I script. Do not edit by hand.
+
+=====================================================================
+PART A. Okafor moving checklist
+Files: wf22-input-move-notes.txt (first version),
+       wf22-input-mover-email.txt (revision)
+=====================================================================
+
+Rule used: each due date is counted back (or forward) from the loading day.
+"N weeks before" = N x 7 days. "Thursday before" / "Friday before" = the
+Thursday / Friday of the same week as the Saturday loading day. "Day we arrive"
+= the Tuesday after loading (the notes say: drive out Sunday, 3 days of
+driving, arrive Tuesday). "Friday of our first week there" = the Friday after
+arrival.
+
+FIRST VERSION: LOADING DAY Sat Apr 17, 2027
+  Request school records for Chidi and Zara                6 weeks before loading           Sat Mar 6, 2027
+  Start sorting / donating kids' rooms                     about 5 weeks before             Sat Mar 13, 2027
+  Order boxes and tape                                     4 weeks before                   Sat Mar 20, 2027
+  Book both hotels, Sun + Mon nights (Tunde)               3 weeks before                   Sat Mar 27, 2027
+  Set up mail forwarding                                   2 weeks before                   Sat Apr 3, 2027
+  Call to schedule Columbus electric + internet shutoff    10 days before                   Wed Apr 7, 2027
+  Set up Denver electric + internet                        10 days before                   Wed Apr 7, 2027
+  Get both cars serviced (Tunde)                           1 week before                    Sat Apr 10, 2027
+  Pack the first-night box                                 Thursday before loading          Thu Apr 15, 2027
+  Zara's last day at school                                Friday before loading            Fri Apr 16, 2027
+  Return the internet modem                                Friday before loading            Fri Apr 16, 2027
+  Defrost and clean the freezer                            day before loading               Fri Apr 16, 2027
+  LOADING DAY                                                                               Sat Apr 17, 2027
+  Drive out (day 1 of 3)                                   day after loading                Sun Apr 18, 2027
+  Arrive Denver; pick up apartment keys                    day we arrive (Tuesday)          Tue Apr 20, 2027
+  Be at apartment for furniture delivery window            3 to 5 days after loading        Tue Apr 20, 2027 to Thu Apr 22, 2027
+  Enroll kids at Denver schools                            by Friday of first week there    Fri Apr 23, 2027
+  Columbus service shutoff date (day after loading):   Sun Apr 18, 2027
+  Denver service start date (arrival day):             Tue Apr 20, 2027
+
+REVISED VERSION (after wf22-input-mover-email.txt): LOADING DAY Sat Apr 24, 2027
+  Request school records for Chidi and Zara                6 weeks before loading           Sat Mar 13, 2027
+  Start sorting / donating kids' rooms                     about 5 weeks before             Sat Mar 20, 2027
+  Order boxes and tape                                     4 weeks before                   Sat Mar 27, 2027
+  Book both hotels, Sun + Mon nights (Tunde)               3 weeks before                   Sat Apr 3, 2027
+  Set up mail forwarding                                   2 weeks before                   Sat Apr 10, 2027
+  Call to schedule Columbus electric + internet shutoff    10 days before                   Wed Apr 14, 2027
+  Set up Denver electric + internet                        10 days before                   Wed Apr 14, 2027
+  Get both cars serviced (Tunde)                           1 week before                    Sat Apr 17, 2027
+  Pack the first-night box                                 Thursday before loading          Thu Apr 22, 2027
+  Zara's last day at school                                Friday before loading            Fri Apr 23, 2027
+  Return the internet modem                                Friday before loading            Fri Apr 23, 2027
+  Defrost and clean the freezer                            day before loading               Fri Apr 23, 2027
+  LOADING DAY                                                                               Sat Apr 24, 2027
+  Drive out (day 1 of 3)                                   day after loading                Sun Apr 25, 2027
+  Arrive Denver; pick up apartment keys                    day we arrive (Tuesday)          Tue Apr 27, 2027
+  Be at apartment for furniture delivery window            3 to 5 days after loading        Tue Apr 27, 2027 to Thu Apr 29, 2027
+  Enroll kids at Denver schools                            by Friday of first week there    Fri Apr 30, 2027
+  Columbus service shutoff date (day after loading):   Sun Apr 25, 2027
+  Denver service start date (arrival day):             Tue Apr 27, 2027
+  NEW TASK: Arrange curb space / check street parking permit, at least 1 week before: Sat Apr 17, 2027
+
+FIXED: Written notice to Columbus landlord (by)   Fri Mar 26, 2027
+FIXED: Denver lease starts                        Thu Apr 15, 2027
+FIXED: Columbus lease ends                        Fri Apr 30, 2027
+FIXED: Tunde starts at Denver office              Mon May 3, 2027
+
+FIXED DATES (must NOT move in the revision)
+- Written notice to the Columbus landlord: by Friday, March 26, 2027.
+- Denver lease starts: Thursday, April 15, 2027.
+- Columbus lease ends: Friday, April 30, 2027.
+- Tunde starts at the Denver office: Monday, May 3, 2027.
+- "Pick movers" is DONE (Feb 12) and starts ticked in both versions.
+These match the Okafor facts in practice-pack/wf21-claude-project/
+wf21-transfer-denver-move-facts.txt.
+
+NEEDS A DATE (no timing in the notes; a good result does not invent one)
+- Colorado driver's licenses + register both cars ("CHECK THE DEADLINES!!")
+- Find a new pediatrician in Denver
+- Cancel Chidi's soccer league? (ask coach)
+- "Tell her teacher by mid March": vague. Accept either "Needs a date" or an
+  interpreted date around March 15, 2027, as long as it is listed under
+  "timing I had to interpret".
+
+TASK COUNT
+- The TO DO list has 20 lines. A result may split the Zara line into two
+  (last day at school + tell her teacher), giving 21. Either is fine if the
+  "X of N done" counter matches the rows shown. Starting state: 1 done.
+- The revision adds one task: arrange curb space for the truck / check
+  whether the street needs a temporary parking permit, due at least one week
+  before loading = Saturday, April 17, 2027. New count: 21 (or 22).
+
+TIMING A GOOD RESULT LISTS AS INTERPRETED
+- "about 5 wks out" (sorting): treated as 5 weeks.
+- "3 to 5 days after loading" (furniture): a range, Tue to Thu.
+- "the day we arrive": Tuesday, from the big-dates section.
+- "Thursday before" / "Friday before": the days just before Saturday loading.
+- "by the Friday of our first week there": the Friday after arrival.
+- "mid March" (Zara's teacher), if dated at all.
+- "call them 10 days ahead" (both utility calls): the table above counts 10
+  days before LOADING (Wed Apr 7; revised Wed Apr 14). Counting 10 days
+  before each service date is also correct if listed as interpreted:
+  Columbus shutoff call Thu Apr 8 (revised Thu Apr 15), Denver setup call
+  Sat Apr 10 (revised Sat Apr 17). Either reading moves 7 days in the revision.
+- Big-dates lines a result may also turn into tasks: "Set the walk-through
+  time with Gary" (Needs a date) and "Columbus house empty and cleaned" (fixed,
+  Fri Apr 30, 2027). The count may then be 22 (23 after the revision).
+
+REVISION CHECK
+- Every date computed from loading day moves exactly 7 days later.
+- The four fixed dates above do not move.
+- The curb-space task appears with Sat Apr 17, 2027.
+- The new loading day (Saturday, April 24, 2027) shows at the top.
+- Boxes ticked before the revision are still ticked (where ticks are saved).
+
+=====================================================================
+PART B. Transfer: Harbor & Home one-page estimate for Helen Marsh
+Files: wf22-transfer-estimate-request.txt, harbor-home-business-facts.txt
+=====================================================================
+Square feet: 2000 -> size add-on: 1 extra 500-sq-ft step(s) x $25 = $25
+Deep clean (from $260 up to 1,500 sq ft) + $25 = $285
+Inside fridge add-on: $35
+FIRST VISIT TOTAL: $320
+Standard clean (from $140 up to 1,500 sq ft) + $25 = $165
+Recurring discount 10% (every two weeks): $165 x 0.90 = $148.50
+EACH REGULAR VISIT: $148.50
+Travel fee: $0 (Cape Elizabeth is in the regular service area)
+Minimum visit $120: both visits are above it
+
+Note: the facts file lists the "$25 per extra 500 sq ft" rule on the standard
+clean line. Dana's own emails (harbor-home-voice-sample.txt) apply it to deep
+cleans too: 1,800 sq ft deep clean "starts at $285". This key follows Dana's
+practice. A result that flags this assumption is better, not worse.
+
+The estimate sheet should also say:
+- Carpet shampooing: not offered (facts file, "What we do not do").
+- Litter box: not offered ("No pet waste cleanup").
+- Pet-safe products: yes, on request. Default products are fragrance-free.
+- Walk-through: not needed. Video walk-through is only for first visits to
+  homes over 2,500 sq ft; this home is about 2,000 sq ft.
+- Payment by card or bank transfer after each visit. No cash.
+- Cancellation: free up to 48 hours before; $50 inside 48 hours.
+- Prices are "from" prices; Fridays are a preference, not a confirmed slot.
+
+Should NOT appear: a travel fee, a carpet or litter-box price, a discount on
+the first deep clean, any availability date Dana has not given.

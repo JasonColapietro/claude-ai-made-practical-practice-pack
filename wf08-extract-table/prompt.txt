@@ -1,0 +1,17 @@
+I'm comparing quotes from [FIVE MOVING COMPANIES] for [OUR FAMILY'S MOVE FROM COLUMBUS, OHIO TO DENVER, COLORADO]. The attached files are the quote emails. Pull the details into one table so I can compare them side by side.
+
+Use only the attached files. Do not use outside information about these companies or about typical costs.
+
+Make a table with one row per company and these columns:
+Company | Estimate type | Price as stated | Estimated weight | Packing | Pickup date | Delivery date or window | Deposit | Protection included | Possible extra fees | Quote valid until
+
+Rules for filling it in:
+- Copy prices, dates and amounts exactly as the email states them.
+- If a detail is missing, write "Not stated." Do not guess.
+- If a quote lists charges but no total, write "No total stated." You may add up the charges, but label the sum "(my addition)."
+- If an email includes a correction or a later reply, use the latest figure and say so.
+- If one email gives two different figures for the same thing, show both and write "CONFLICT."
+
+Below the table, give me:
+1. Every "Not stated" and "CONFLICT" item, written as a question I can send to that company.
+2. Anything that makes two quotes hard to compare directly.

@@ -1,0 +1,73 @@
+**1. How the week went**
+
+You completed 27 jobs from Monday, October 12 to Friday, October 16, and billed $6,039.00 in total: $5,840.50 from completed jobs plus $198.50 from one lockout and one late cancel. Standard cleans were the bulk of the work (14 jobs, $2,175.50), but deep and move-out cleans brought in nearly as much from far fewer visits. Eight charges totaling $1,833.50 are still unpaid, about 30% of the week. Completed jobs with hours recorded earned $36.18 per crew hour. Two prices don't match your price list and one job is missing its hours, so look at "Check these" before you rely on the totals.
+
+**2. By service type (completed jobs only)**
+
+| Service | Completed jobs | Money billed |
+|---|---|---|
+| Standard | 14 | $2,175.50 |
+| Deep | 6 | $1,720.00 |
+| Move-out | 3 | $1,120.00 |
+| Small office | 4 | $825.00 |
+| **Total** | **27** | **$5,840.50** |
+
+- Lockout: H-1036, O'Brien, T., Wed, $148.50
+- Late cancel: H-1042, Vance, R., Thu, $50.00
+
+Completed jobs plus these two charges = $6,039.00 billed.
+
+**3. By day**
+
+| Day | Jobs scheduled | Jobs completed | Money billed |
+|---|---|---|---|
+| Mon 10/12 | 6 | 6 | $1,159.50 |
+| Tue 10/13 | 6 | 6 | $1,299.50 |
+| Wed 10/14 | 6 | 5 | $1,334.50 |
+| Thu 10/15 | 6 | 5 | $1,121.00 |
+| Fri 10/16 | 5 | 5 | $1,124.50 |
+| **Total** | **29** | **27** | **$6,039.00** |
+
+Wednesday's missing completion is the O'Brien lockout. Thursday's is the Vance late cancel.
+
+**4. Unpaid**
+
+| Job ID | Client | Amount |
+|---|---|---|
+| H-1026 | Fischer, A. | $215.00 |
+| H-1030 | Jensen, T. | $305.00 |
+| H-1035 | Nguyen, H. | $355.00 |
+| H-1036 | O'Brien, T. (lockout) | $148.50 |
+| H-1042 | Vance, R. (late cancel) | $50.00 |
+| H-1044 | Salt Line Architects | $195.00 |
+| H-1046 | Zimmer, P. | $365.00 |
+| H-1049 | Duarte, S. | $200.00 |
+| **Unpaid total** | | **$1,833.50** |
+
+Paid this week: $4,205.50.
+
+**5. Money billed per crew hour**
+
+- Completed jobs with hours filled in: 26
+- Money billed on those jobs: $5,625.50
+- Crew hours on those jobs: 155.5
+- **Money billed per crew hour: $36.18**
+
+Left out: H-1043 (Walsh, C., $215.00), because the crew_hours cell is blank. The lockout and late cancel are also left out because they are not completed jobs.
+
+**6. Check these**
+
+- **H-1028 (Hughes, D., Scarborough):** billed $140.00. Your price list says a standard clean up to 1,500 sq ft is $140, and Scarborough visits add a $15 travel fee, so $155.00. The travel fee looks missing.
+- **H-1041 (Underwood, S., Deep, 1,400 sq ft):** billed $240.00. Your price list says deep cleans start at $260 up to 1,500 sq ft. This is $20 under.
+- **H-1043 (Walsh, C.):** crew_hours is blank. The price ($215.00) matches the list.
+- **H-1023 (Deep, 1,800 sq ft, $285.00), H-1048 (Deep, 1,700 sq ft, $285.00), H-1034 (Deep, 2,100 sq ft, $310.00):** your price list gives deep cleans "from $260 (up to 1,500 sq ft)" but no rate for larger homes. These amounts fit the standard clean's $25-per-500-sq-ft rule, but I can't confirm that from the list.
+- **H-1031 (Kowalski, B.):** this row appears twice, word for word. I counted it once.
+
+Also worth a look, though not a price problem: H-1042's note says "rebook?", so the Vance visit may still need a new date.
+
+**What I assumed**
+
+- "Add $25 per extra 500 sq ft" means each started 500 sq ft over 1,500. So 1,600 sq ft adds $25 and 2,300 sq ft adds $50. Several standard prices only match this way (for example H-1029 and H-1026).
+- The 10% recurring discount applies to the whole standard clean price, including the size charge.
+- crew_hours is the total hours recorded for the job, not hours per cleaner. I used the number as written.
+- "Jobs scheduled" counts every row for that day, including the lockout and late cancel, with the duplicate counted once.

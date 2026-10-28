@@ -1,0 +1,57 @@
+I compared both files section by section. Version 2 has 17 changes that affect meaning, plus one interaction between sections that is worth a question, and a handful of cosmetic edits. The biggest pattern: the client added work, pushed more of the payment to the end, and removed most of the protections you had if they run late.
+
+1. CHANGES THAT AFFECT MEANING (most important to you first)
+
+| Section | Version 1 says | Version 2 says | What this means for me |
+|---|---|---|---|
+| 3.4 | "The target launch date is January 22, 2027, provided Client meets the feedback deadlines in Section 4. If Client's feedback or materials arrive late, the launch date moves back..." | "The launch date is January 22, 2027. If the site is not launched by that date, Designer will credit Client 5% of the Project Fee for each full week of delay." | The date is now fixed even if the client is the one causing the delay, and you pay for every week it slips: 5% of $4,350 is $217.50 per week. There is no cap on the credit. This is the change I would discuss first. |
+| 4.4 (deleted) | "If Client feedback or Client Materials are delayed more than 15 business days past the deadlines above, the Project will be paused." | (Removed. No replacement.) | You lose the right to pause and reschedule when the client goes quiet. Combined with 3.4, a slow client could now cost you money instead of moving the date. |
+| 4.2 | "within 5 business days" | "within 10 business days" | The client gets twice as long to send feedback on each deliverable. With several review rounds, this can add weeks to the schedule, while 3.4 now holds you to the original launch date. |
+| 2.1 | "the following 7 pages" (no Private Events page) | "the following 8 pages: ... Private Events ..." | One extra page. Note that Section 6.1 still prices "one additional page ($300)" on top of a 6-page redesign, which covers 7 pages. The eighth page is unpaid as written. |
+| 2.6 (new) and old 2.6 | Exclusions included "migration of blog posts or other content from the current site" | "Designer will build a blog section and move the 12 existing blog posts from the current site into it, with their photos." | New work: a blog section plus moving 12 posts with photos. It was excluded before and is now included, with no change to the fee in 6.1. |
+| 6.2 | "(a) 50% ($2,175) as a deposit ... (c) 25% ($1,087.50) due at launch." | "(a) 25% ($1,087.50) as a deposit ... (c) 50% ($2,175) due at launch." | Your deposit is cut in half and half the fee now waits until launch. If the project stalls before launch, you have been paid much less for the work done. The middle payment (b) is unchanged. |
+| 6.3 | "Invoices are due within 15 days ... (net 15)." | "Invoices are due within 45 days ... (net 45)." | You wait three times as long to be paid on every invoice. |
+| 6.4 | "Any balance more than 30 days overdue will incur a late fee of 1.5% per month..." | (Late fee sentence removed. Only the right to pause work remains.) | No penalty for paying late. You can still pause work after 30 days overdue. Unsure point: with net 45, an invoice is not even due until day 45, so it is unclear when the 30-day "overdue" clock starts in practice. |
+| 9.1 | "Upon receipt of full payment of the Project Fee and any approved expenses, Client will own the final site design..." | "Upon delivery of each deliverable, Client will own the final site design..." | The client owns the design as soon as you hand it over, even if they have not paid. In Version 1, ownership was your leverage for getting paid. |
+| 12.2 | "Client will pay for all work completed up to the end date. The deposit is non-refundable." | "Client will pay for work completed up to the end date at Designer's hourly rate of $90 per hour, less any amounts already paid." | The non-refundable deposit is gone. Unsure point: "less any amounts already paid" could be read to mean you refund part of the deposit if your hours come to less than it. Ask what they intend. |
+| 14.1 | "Each Party will defend and hold harmless the other Party ... For Client, this includes Client Materials." | "Designer will defend and hold harmless Client against any third-party claim arising from the website, including its design, code and content." | This used to protect both sides. Now only you protect the client, and it covers "content," which includes text and photos the client supplies. If the client posts a photo they do not have rights to, this wording points the claim at you. |
+| 8.2 | "30 days of support ... Support does not include new features, new pages, or content updates." | "90 days of support ... and to make minor content updates requested by Client. Support does not include new features or new pages." | Three times as long, and it now includes content updates for free. "Minor" is not defined, so the amount of unpaid work is open-ended. |
+| 5.1 | "two (2) rounds of revisions on the page designs" | "three (3) rounds of revisions on the page designs" | One more free design round. The working-site round is unchanged at one. |
+| 5.2 (deleted) | "A round means one consolidated list of changes sent by Client at one time. Separate emails sent on different days count as separate rounds..." | (Removed.) | Without a definition of a round, the client could argue that many separate emails are all one round. This makes the revision limit in 5.1 harder to enforce. |
+| 10.2 (now 11.2) | "The site footer will include a small credit link reading 'Site by Marcus Lee Design.'" | "No credit link or designer name will appear on Client's site." | You lose the footer credit entirely. You can still show the site in your portfolio (11.1 is unchanged). |
+| 12.1 | "fourteen (14) days' written notice" | "seven (7) days' written notice" | Either side can end the agreement on one week's notice instead of two. Mostly helps the client walk away quickly. |
+| 16.1 | "the state in which Designer's principal place of business is located" | "the state in which Client's principal place of business is located" | If there is ever a dispute, the client's state law applies instead of yours. Unsure how much this matters: if you are both in the same state, it changes nothing. |
+| 3.4 / 13.3 (interaction) | 13.3 caps your liability at "the total fees Client has paid to Designer" | 13.3 is unchanged, but the new 3.4 credit has no limit of its own | I am not sure whether the 5% weekly credit counts as "liability" under 13.3. If it does not, delay credits could exceed what you have been paid. Worth raising with whoever reviews the contract. |
+
+Also worth noticing, though it did not change: Section 6.1 still says $4,350, priced for 7 pages. The client added an eighth page, a blog section, 12 migrated posts, one revision round, 60 extra support days with content updates, and longer payment terms, all at the same price.
+
+2. COSMETIC CHANGES (no change in meaning)
+
+- Header line: "Version 1. Sent by Designer to Client on October 19, 2026." became "Version 2. Returned by Client to Designer on October 26, 2026, with Client's edits."
+- The exclusions list moved from 2.6 to 2.7 to make room for the new blog section. (Removing blog migration from that list is a real change, covered in the table.)
+- Old 5.3 (additional revisions at $90 per hour, with a time estimate first) is now 5.2. The wording is identical.
+- Sections 10 and 11 swapped places: Confidentiality is now Section 10 and Portfolio Use is now Section 11. They were moved, not added or deleted. (The credit-link change inside Portfolio Use is covered in the table.)
+- In Confidentiality, "shall" became "will" in two sentences (now 10.1 and 10.2). Same meaning.
+- 12.4 now lists "Sections 9, 10, 13 and 14" instead of "9, 11, 13 and 14." This only follows the move of Confidentiality to Section 10. The same sections still survive the end of the agreement.
+
+3. SECTIONS THAT DID NOT CHANGE
+
+- Opening paragraph (the Parties)
+- 1.1 and 1.2 (effective date, contacts)
+- 2.2, 2.3, 2.4, 2.5 (mobile responsive, class sign-up, search setup, analytics and training)
+- 3.1, 3.2, 3.3 (start date, design and build timing)
+- 4.1 and 4.3 (Client Materials, Client accuracy)
+- 6.1, 6.2(b), 6.5, 6.6 (Project Fee, middle payment, payment methods, third-party fees)
+- 7.1 and 7.2 (expenses)
+- 8.1 and 8.3 (hosting, care plan)
+- 9.2 and 9.3 (Designer Tools, third-party items)
+- Portfolio Use 11.1 (formerly 10.1)
+- Confidentiality content, including the two-year term (now 10.3, formerly 11.3)
+- 12.3 (Designer ending the agreement)
+- 13.1, 13.2, 13.3 (warranties, as-is, liability cap)
+- 15.1 (independent contractor)
+- 16.2 (talk first)
+- 17.1 and 17.2 (entire agreement, changes in writing)
+- Signature block
+
+This is a plain-English comparison, not legal advice. Because several changes shift risk and money, it would be reasonable to have a lawyer look at 3.4, 9.1, 12.2 and 14.1 before you sign.

@@ -1,0 +1,5 @@
+You changed information, not just formatting. Go back to the original file and compare it with your table row by row.
+1. Undo every change that added information, such as digits added to a phone number, a guessed plot, or a value copied from another row. Put back what the person wrote and add a note to check.
+2. If you merged or removed any rows, put them back in their original order, and mark the matching rows "possible duplicate of row N" instead.
+3. Confirm that rows in equals rows out.
+Then show me only the rows you changed in this round, before and after.

@@ -1,0 +1,49 @@
+Here's the cleaned client list. All 20 rows are here in the original order. Nothing was merged, removed or filled in from another row.
+
+| row | client | street | town | phone | email | service | frequency | notes | check |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Maria Alvarez | 41 Pine St | Portland | 207-555-0150 | maria.alvarez@example.com | Standard | Weekly | key in lockbox, code changes monthly | possible duplicate of row 16 |
+| 2 | Linh Chen | 88 Sawyer St | South Portland | 207-555-0151 | lchen@example.com | Standard | Every 2 weeks | dog, keep back door shut | |
+| 3 | Rita Patel | 12 Bucknam Rd | Falmouth | 207-555-0152 | rita.patel@example.com | Deep | One-time | | |
+| 4 | Dunlap Insurance | 100 Commercial St | Portland | 207-555-0153 | office@dunlapins.example.com | Small office | Weekly | after 5:30 only. alarm code from Gail | |
+| 5 | Femi Okonjo | 9 Brook St | Westbrook | 555-0154 | femi.okonjo@example.com | Standard | unknown | first visit Oct | check phone (7 digits, no area code) |
+| 6 | Anne Fischer | 3 Shore Rd | Cape Elizabeth | 207-555-0155 | afischer@example | Standard | One-time | | check email (no ending such as .com) |
+| 7 | Bart Kowalski | 220 Main St | Westbrook | 207-555-0156 | bart.kowalski@example.com | Standard | biweekly | | check frequency |
+| 8 | Dan Hughes | 15 Black Point Rd | Scarborough | 207-555-0157 | dhughes@example.com | Standard | One-time | travel fee | |
+| 9 | Julie Moreau | 6 Ocean House Rd | Cape Elizabeth | 207-555-0158 | unknown | Deep | One-time | uses own products | |
+| 10 | Tom O'Brien | 77 Brackett St | Portland | 207-555-0159 | tom.obrien@example.com | Standard | Every 2 weeks | lockbox on side porch | |
+| 11 | Elsa Lindqvist | 54 Vesper St | Portland | 207-555-0160 | e.lindqvist@example.com | Standard | Weekly | | |
+| 12 | Kate Sullivan | 30 Island Ave | Peaks Island | 207-555-0161 | ksullivan@example.com | Deep | One-time | asked about spring | check town |
+| 13 | Gina Russo | 5 Bayview Ave | Yarmouth | 207-555-0162 | gina.russo@example.com | Standard | One-time | travel fee ok'd | |
+| 14 | Casco Tax Services | 400 Congress St | Portland | 207-555-0163 | admin@cascotax.example.com | Small office | Weekly | | |
+| 15 | Ken Ito | 28 Woodville Rd | Falmouth | 207-555-0164 | ken.ito@example.com | Standard | Weekly | | |
+| 16 | Maria Alvarez | 41 Pine St. | Portland | 207-555-0150 | maria.alvarez@example.com | Standard | Weekly | | possible duplicate of row 1 |
+| 17 | Hoa Nguyen | 61 Cottage Rd | South Portland | 207-555-0165 | hoa.nguyen@example.com | Move-out | One-time | empty unit | |
+| 18 | Paul Whitcomb | 19 Elm St | Gorham | 207-555-0166 | paul.whitcomb@example.com | Deep | One-time | | check town |
+| 19 | Quynh Tran | 140 Allen Ave | Portland | 207-555-01677 | quynh.tran@example.com | Standard | Weekly | | check phone (11 digits) |
+| 20 | Helen Pratt | 7 Lunt Rd | Falmouth | 207-555-0168 | hpratt@example.com | Standard | monthly | prefers Fridays | check frequency |
+
+**1. Counts**
+
+- Rows in: 20. Rows out: 20.
+- Unknown cells: client 0, street 0, town 0, phone 0, email 1 (row 9), service 0, frequency 1 (row 5), notes 0. That's 2 in all.
+- Rows with something in check: 9 (rows 1, 5, 6, 7, 12, 16, 18, 19, 20).
+
+**2. Questions for Dana**
+
+- Row 1, Maria Alvarez: same name, phone and email as row 16. Is this one client entered twice? If so, keep row 1, which has the lockbox note.
+- Row 5, Femi Okonjo: phone "555-0154" has no area code, and visit frequency is blank. Confirm both.
+- Row 6, Anne Fischer: email "afischer@example" is missing its ending. Confirm the full address.
+- Row 7, Bart Kowalski: "biweekly" can mean twice a week or every two weeks. Confirm which.
+- Row 12, Kate Sullivan: Peaks Island isn't one of your towns. Confirm whether you serve her address.
+- Row 16, Maria Alvarez: possible duplicate of row 1 (see above).
+- Row 18, Paul Whitcomb: Gorham isn't one of your towns. Confirm whether you serve his address.
+- Row 19, Quynh Tran: phone "207-555-01677" has one digit too many. Confirm the right number.
+- Row 20, Helen Pratt: "monthly" isn't one of your frequencies. Decide how to list her, or add Monthly to your list.
+
+**How I read a few things**
+
+- "S. Portland" and "So. Portland" became South Portland. "Cape E." became Cape Elizabeth. "portland" became Portland.
+- "every two weeks" and "every 2 wks" became Every 2 weeks. "one time" and "one-time" became One-time. "Move out" became Move-out.
+- Streets are as written, so row 16 keeps "41 Pine St." with the period.
+- Julie Moreau's email was blank, so it says unknown. I did not borrow an address from anywhere else.

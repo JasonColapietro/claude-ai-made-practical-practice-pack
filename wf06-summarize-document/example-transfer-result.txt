@@ -1,0 +1,64 @@
+Lease summary: 2215 Larkspur Street, Unit 4B, Denver
+
+1. Overview
+- Who: Ada and Tunde Okafor (tenants, each fully responsible), with Chidi and Zara as approved occupants; landlord Larkspur Flats LLC, managed by Pinewood Row Property Management. [Heading]
+- What: a private home, Unit 4B, with one parking space (Space 14) included. [7.2, 8.1]
+- How long: April 15, 2027 to April 14, 2028. [Section 1.1]
+- How much: $2,650 rent plus a $95 water/sewer/trash charge, so $2,745 a month. [Sections 2.1, 3.2]
+- How it ends: written notice at least 60 days before April 14, 2028, or it rolls into month to month at $2,800. Leaving early costs a $5,300 fee plus rent through 60 days' notice. [Sections 14.1, 14.2, 15.1]
+
+2. Key dates and deadlines
+| Date or deadline | What happens | Section |
+|---|---|---|
+| Before April 15, 2027 | Pay all move-in charges and show proof of renters insurance | 1.2, 5, 12 |
+| Before April 15, 2027 | Electricity, gas and internet in your names | 3.1 |
+| April 15, 2027 | Lease starts; keys released (up to 2 days earlier only if the landlord agrees in writing) | 1.1, 1.2 |
+| April 22, 2027 (7 days after start) | Return the move-in condition report | 18 |
+| 1st of each month | Rent and utility charge due | 2.1, 3.2 |
+| 7th of each month, 11:59 p.m. | After this, $50 late fee | 4.1 |
+| February 14, 2028 | Last day to give move-out notice (60 days before April 14, 2028) | 14.1 |
+| April 14, 2028 | Lease ends | 1.1 |
+
+3. Money
+| Item | Amount | Section |
+|---|---|---|
+| Rent | $2,650/month | 2.1 |
+| Water, sewer, trash | $95/month (can change once a year on 60 days' notice) | 3.2, 3.3 |
+| Security deposit | $2,650 (refundable, minus lawful deductions) | 6.1 to 6.3 |
+| Lease administration fee | $200, not refundable | 5(d) |
+| Late fee | $50 | 4.1 |
+| Returned payment | $25 | 4.2 |
+| Second parking space | $75/month, if available | 8.2 |
+| Month-to-month rent after the Term | $2,800/month | 14.2 |
+| Early termination fee | $5,300 (two months' rent) | 15.1 |
+| Carpet cleaning at move-out | your cost, or deducted from the deposit | 16.3 |
+
+4. Who must do what
+We must: pay on time through the portal, by certified check or money order (no cash) [2.2]; carry renters insurance with at least $100,000 liability [12]; report repairs through the portal [10.1]; replace smoke detector batteries and furnace filters [10.4]; get written consent before painting, shelves or lock changes [11]; give a forwarding address at move-out [6.4]; have carpets professionally cleaned and keep the receipt [16.3].
+The landlord must: keep the unit safe and fit to live in [10.3]; give 24 hours' notice before entering, except emergencies [13]; return the deposit with a written list of deductions within 30 days after move-out and key return [6.2]; not raise rent during the Term [2.3].
+
+5. Things to watch
+- Missing the February 14, 2028 notice date means rent jumps to $2,800 month to month. [Sections 14.1, 14.2]
+- Leaving early is expensive: $5,300 plus rent through the 60-day notice period. [Section 15.1]
+- You are each liable for the full lease, not half. [Heading: "jointly and individually"]
+- Guests are limited to 14 nights in any 6 months without written approval, which matters if family visits after the move. [Section 7.1]
+- No pets at all without a Pet Addendum. [Section 9]
+- The water/sewer/trash charge can go up during the Term. [Section 3.3]
+
+6. Problems in the document
+- Late rent conflict: Section 4.1 charges a late fee only if rent isn't received "by 11:59 p.m. on the seventh (7th) day of the month," but Section 17.4 says "Rent received after the fifth (5th) of the month is late and may be reported to the resident ledger as a late payment." Ask which date applies before signing. [Sections 4.1, 17.4]
+- Missing addendum: Section 8.2 refers to "the Parking Addendum (Addendum C)," but Section 20 lists only "Addendum A (Lead-Based Paint Disclosure) and Addendum B (Move-In Condition Report form)." The Pet Addendum in Section 9 isn't listed either. [Sections 8.2, 9, 20]
+
+7. Move-in costs (before keys)
+| Item | Amount | Section |
+|---|---|---|
+| First month's rent | $2,650 | 5(a) |
+| First month's utility charge | $95 | 5(b) |
+| Security deposit | $2,650 | 5(c) |
+| Lease administration fee | $200 | 5(d) |
+| Total | $5,595 | 5 |
+Also due before keys: proof of renters insurance. [Sections 1.2, 12]
+
+Not stated: whether the first month's rent is reduced for a mid-month start. The lease charges a full $2,650 and says nothing about prorating. [Section 5(a)]
+
+A lawyer or tenant advocate can tell you how the 5th-versus-7th late rule would be applied. This summary is not legal advice.

@@ -1,0 +1,16 @@
+date,client,project,task,hours,billable,rate,notes
+2026-10-05,Admin,,Invoicing September,1.5,No,,
+2026-10-05,Alder Street Dental,Booking page rebuild,Appointment form fixes,2.5,Yes,95,
+2026-10-05,Fern & Fig Florist,Holiday ordering page,Holiday product pages,3,Yes,85,
+2026-10-06,Coastline Kayak Tours,Tour booking redesign,Booking calendar layout,4,Yes,85,
+2026-10-06,Admin,,Proposal for Fern & Fig redesign,1.5,No,,"not billable, sales"
+2026-10-06,Ridgeline Yoga,Class schedule page,Schedule page build,2,Yes,80,
+2026-10-07,Alder St Dental,Booking page rebuild,Mobile testing,1.5,Yes,95,
+2026-10-07,Mill Pond Bakery,Menu refresh,Fall menu update,1,Yes,75,
+2026-10-07,Coastline Kayak Tours,Tour booking redesign,Client call + revisions,2.5,Yes,85,
+2026-10-08,Fern & Fig Florist,Holiday ordering page,Checkout testing,2,Yes,85,
+2026-10-08,Admin,,Portfolio post draft,1,No,,
+2026-10-08,Hollis & Grant Bookkeeping,Site maintenance,Plugin updates + backup,1.5,Yes,90,
+2026-10-09,Coastline Kayak Tours,Tour booking redesign,Launch prep,3,Yes,85,
+2026-10-09,Alder Street Dental,Booking page rebuild,Launch + handoff notes,2,Yes,95,
+2026-10-09,Admin,,Email + bookkeeping,1,No,,

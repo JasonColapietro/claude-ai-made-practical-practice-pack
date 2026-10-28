@@ -1,0 +1,62 @@
+PROMPT USED (the chapter prompt with the transfer lines swapped in):
+
+I'm an [OPERATIONS COORDINATOR AT A PHYSICAL THERAPY PRACTICE]. Our PTO policy was rewritten, and the changes are not marked. Compare the two attached files and tell me every difference, so I can explain them to staff before they ask.
+
+Files:
+- [wf07-transfer-pto-policy-old.txt] is the current policy (Version 1).
+- [wf07-transfer-pto-policy-new.txt] is the new policy (Version 2).
+Use only these two files.
+
+Work section by section, from the first section to the last. Compare every number, date, dollar amount, percentage, deadline and name. Also look for sentences that were added or deleted.
+
+Give me three things:
+1. A table of every change with these columns: Section | Version 1 says | Version 2 says | What this means for staff. Quote the exact words from each version, kept short. Put the changes staff will notice first.
+2. A short list of cosmetic changes that do not change the meaning, such as reworded sentences or renumbered sections.
+3. A list of the sections that did not change.
+
+Rules:
+- If a section was only moved or renumbered, say so. Do not report it as new or deleted.
+- If you are not sure whether a change matters, list it anyway and say why you are unsure.
+- Explain in plain English. Do not give legal advice.
+- Do not skip small changes. A single changed number counts.
+
+----------------------------------------------------------------
+RESULT
+
+I compared the two policies section by section. There are 13 changes that affect staff, plus one wording change that runs through the whole document. The headline for staff: sick time now has its own bank, but less PTO carries over, December time off is limited, and longer trips need more notice.
+
+1. CHANGES THAT AFFECT MEANING (the ones staff will notice first)
+
+| Section | Version 1 says | Version 2 says | What this means for staff |
+|---|---|---|---|
+| 6.1 | "carry over up to 40 hours of unused PTO" | "carry over up to 24 hours of unused PTO" | Staff can roll over 16 fewer hours into the next year. Anyone used to banking 40 hours will lose the extra 16 on January 1. |
+| 1.1 and 5.1 | "PTO covers vacation, personal days and sick days in one bank of hours." | "Sick time is now handled separately (see Section 5)." and "24 hours of paid sick time on January 1 of each year (prorated for team members hired during the year)" | Sick days no longer come out of PTO first. Everyone gets a separate 24 hours (3 eight-hour days) of sick time each January 1. It does not carry over and is not paid out when someone leaves. |
+| 5.3 (was 5.2) | "PTO is used for unplanned absences." | "Unplanned absences use sick time first, then PTO." | When someone calls out sick, the 24 sick hours are used before any PTO. Only after those are gone does PTO get used. |
+| 4.5 (new) | (No December rule.) | "From December 15 to December 31, no more than two team members per clinic may be on PTO on the same day. Requests for these dates received by October 1 are reviewed together." | Holiday time off is now limited to two people per clinic per day. Staff who want late-December days should request them by October 1. After that, it is first come, first served if spots remain. |
+| 4.2 | "at least 2 weeks before the first day off" | "at least 3 weeks before the first day off" | Requests for 3 or more days in a row need one more week of notice. The 48-hour guideline for 1 or 2 days is unchanged. |
+| 4.3 | "Requests are approved by the employee's clinic manager." | "Requests for 5 or more consecutive days also need approval from the Operations Coordinator." | Week-long trips need a second approval from you. Unsure point: the policy still says managers respond within 5 business days, but it does not say how long the Operations Coordinator has to respond. |
+| 2.2 | "after completing 60 days of employment" | "after completing 90 days of employment" | New hires wait 30 days longer before they can use PTO. They still earn it from day one. Unsure point: the policy does not say whether the 90-day wait also applies to the new sick time. |
+| 3.1 | "earn 4.62 hours of PTO each pay period. This equals about 120 hours (15 days) a year." | "(a) Less than 3 years of service: 4.62 hours ... (b) 3 or more years of service: 6.15 hours per pay period, about 160 hours (20 days) a year." | Full-time staff with 3 or more years of service earn 5 more days a year. Staff under 3 years earn the same as before. |
+| 3.2 | "in proportion to the hours they work, at the same rate as full-time employees" | "1 hour of PTO for every 30 hours worked" | Part-time staff now have a fixed rate. Unsure point: the old policy never gave a per-hour rate, so this cannot be compared exactly. As an estimate only: if a full-time pay period is 80 hours, 4.62 hours of PTO works out to about 1 hour per 17 hours worked, so 1 per 30 would be less. Check the actual rate payroll used before you tell part-time staff whether they earn more or less. |
+| 5.2 (was 5.1) | "at least 1 hour before their shift starts. A text message is not enough." | "must call or text their clinic manager at least 2 hours before their shift starts" | Staff now need to give 2 hours' notice instead of 1, but a text now counts. |
+| 8.1 | "are paid for all unused PTO in their final paycheck" | "are paid for unused PTO in their final paycheck, up to a maximum of 40 hours" | Payout when someone resigns with proper notice is now capped at 40 hours. Anything above that is lost. Sick time is never paid out (5.1). |
+| Header | "Effective January 1, 2025." | "Effective January 1, 2027." | The new rules start January 1, 2027. Unsure point: the December rule in 4.5 mentions an October 1 request date, but the policy does not say whether that applies to December 2026 requests, which fall under the old policy. |
+
+2. COSMETIC CHANGES (no change in meaning)
+
+- "Employees" and "employee's" became "team members" and "team member's" throughout, including in 2.1, 4.1, 4.4, 7.2, 8.2 and 9.1. Same people, same meaning.
+- Section 5's heading changed from "UNPLANNED ABSENCES" to "SICK TIME AND UNPLANNED ABSENCES" to fit the new sick time.
+- Old 5.3 (a provider's note after 3 or more consecutive sick days) is now 5.4. The wording is the same.
+
+3. SECTIONS THAT DID NOT CHANGE (apart from "team members")
+
+- 2.1 (who is eligible; per-diem and temporary staff still excluded)
+- 3.3 (no accrual on overtime or unpaid leave)
+- 4.1 (requests go through the scheduling system)
+- 4.4 (same dates approved in the order received)
+- 5.4, formerly 5.3 (provider's note after 3 sick days)
+- 7.1 and 7.2 (six paid holidays, substitute day within 30 days)
+- 8.2 (no payout with short notice or dismissal for cause)
+- 9.1 (questions go to the clinic manager or to you)
+
+This is a plain-English comparison of the two documents, not legal or HR compliance advice.

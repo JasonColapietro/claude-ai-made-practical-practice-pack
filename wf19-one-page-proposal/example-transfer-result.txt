@@ -1,0 +1,47 @@
+**Proposal: 4-Week Shared Staff Calendar Pilot at Westerville**
+To: Dr. Ellen Hart, Clinic Director
+From: Priya Shah, Operations Coordinator
+Date: October 26, 2026
+
+**The problem**
+Each clinic schedules staff in its own spreadsheet, emails a PDF on Friday (sometimes Saturday), and handles swaps by text. Swaps don't always get written down:
+- **September 14 and September 28:** Westerville had no one at the front desk in the morning. Both times a text swap was never recorded; a PT aide covered.
+- **October 9:** Grove City was short an aide while Dublin had an extra who could have floated.
+
+New hires also miss the Friday email. Combining the three schedules takes me about 2 hours every Monday (some weeks closer to 3). Managers say building their schedule takes "an hour or two" a week; Tom in Dublin says closer to three.
+
+**The proposal**
+Use the shared calendar that comes with our email system. Westerville gets its own staff calendar; Angela enters shifts there instead of a spreadsheet, and staff see shifts on their phones.
+
+**This calendar holds staff shifts only.** No patient appointments, no patient names, nothing clinical. Patient scheduling stays in our current system.
+
+**Time and cost**
+- Calendar: Raj in IT says it is included in what we already pay.
+- Part-time staff accounts (about 10 people across the clinics): **Not confirmed.** If they need upgraded accounts, there is a per-person monthly cost; the amount is unknown. Raj can confirm.
+- Swap approvals inside the calendar: **Not confirmed.** It may only allow the manager to edit the shift. Raj can confirm.
+- Setup: about 1 hour of Raj's time.
+- Training: 30 minutes at Westerville, plus possibly an extra hour with Angela.
+
+**Pilot plan**
+- Westerville only, 4 weeks, starting the week of November 16, because that is where the gaps happened.
+- Staff in scope: front desk, PT aides and physical therapists. Westerville has 15 on the September phone list (about 46 across all three clinics); HR to confirm.
+- Angela (Westerville manager) is on board.
+- If it works, Dublin and Grove City next. Those managers have not been asked yet.
+
+**Assumptions**
+1. The calendar is included in our current plan, per Raj.
+2. Part-time staff can use the calendar without an upgrade. (Not confirmed; Raj.)
+3. Staff are comfortable getting schedule notifications on personal phones. (Not confirmed; HR.)
+4. Staff counts match the September phone list until HR confirms.
+5. We decide before November 16 whether Westerville keeps its spreadsheet running side by side. (Not decided; double work for Angela.)
+
+**Decisions I need from you**
+1. Yes or no on a 4-week pilot at Westerville starting the week of November 16.
+2. OK to use about one hour of Raj's time to set up the calendar.
+
+---------------------------------------------------------------
+Notes for Priya (not for Dr. Hart)
+- Two numbers shown both ways, as asked: your Monday merge (about 2 hours, some weeks closer to 3) and manager scheduling time ("an hour or two," Tom says closer to three).
+- I did not state a cost for part-time upgrades or a total cost, because your notes don't give one.
+- The spreadsheet question in Assumption 5 is really a decision. If you want Dr. Hart to make it, move it into "Decisions I need from you."
+- Raj's two answers (part-time accounts and swap approvals) would ideally come back before you send this, so the page has fewer "Not confirmed" lines.

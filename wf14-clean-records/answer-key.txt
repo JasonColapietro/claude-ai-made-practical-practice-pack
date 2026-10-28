@@ -1,0 +1,97 @@
+WF14 ANSWER KEY: wf14-input-volunteer-signups.csv (Maple Street Community Garden)
+Generated with python3 -I by applying the rules in prompt.txt to the input file. Counts are computed, not hand-entered.
+
+Rows in: 26   Rows out: 26 (nothing merged or deleted)
+Unknown values: last_name 1, email 1, phone 1, plot 2, availability 1
+Plot 'none' (waitlist): 1
+Rows with something in the check column: 13 (rows 1, 2, 3, 4, 6, 9, 10, 13, 15, 16, 17, 19, 25)
+Unknown cells, total: 6
+Possible duplicate pairs: rows 1 and 17 (Rosa Delgado), rows 2 and 10 (Kevin O'Neill), rows 3 and 25 (Marjorie Hughes, two different emails)
+Flag counts: check email 2, check phone 2, check plot 1, check help 2, check availability 2, possible duplicate 6
+
+EXPECTED CLEANED TABLE (CSV)
+row,first_name,last_name,email,phone,plot,help_with,availability,notes,check
+1,Rosa,Delgado,rosa.delgado@example.com,614-555-0101,12,Watering; Compost,Saturdays,,possible duplicate of row 17
+2,Kevin,O'Neill,koneill@example.com,614-555-0102,7,Tool shed,Weekday evenings,can fix the hose reel,possible duplicate of row 10
+3,Marjorie,Hughes,marjorie.hughes@example.com,614-555-0103,23,Plant sale,Saturdays; Sundays,,possible duplicate of row 25
+4,Dev,Patel,devpatel@example,614-555-0104,31,Events; Watering,Saturdays,mornings,check email
+5,Anna,Kowalczyk,anna.k@example.com,614-555-0105,unknown,Compost,Sundays,new this year,
+6,Tom,Brennan,tbrennan@example.com,555-0106,4,Watering,early mornings before work,,check phone; check availability
+7,Jamal,unknown,jamal.w@example.com,614-555-0107,18,Events,Weekday evenings,"has truck, can haul mulch",
+8,Grace,Liu,grace.liu@example.com,614-555-0108,9,Watering,Weekday mornings,"retired, very flexible",
+9,Patrick,Nwosu,pnwosu@example.com,614-555-01077,15,Tool shed,Saturdays,,check phone
+10,Kevin,O'Neill,koneill@example.com,614-555-0102,7,Tool shed; Events,Weekday evenings,sorry if I signed up twice; Tues and Thurs,possible duplicate of row 2
+11,Beatriz,Souza,unknown,614-555-0111,27,Plant sale; Events,Saturdays; Sundays,,
+12,Harold,Kim,harold.kim@example.com,380-555-0112,none,Compost,Sundays,on the waitlist for a plot,
+13,J,Ortiz,j.ortiz@example.con,614-555-0113,33,Watering,Saturdays,,check email
+14,Mei-Ling,Chao,meiling.chao@example.com,614-555-0114,2,Events,Saturdays,afternoons only,
+15,Samuel,Adeyemi,sam.adeyemi@example.com,614-555-0115,41,Compost; Watering,Weekday mornings,,check plot
+16,Carla,Benedetti,carla.b@example.com,unknown,38,whatever you need,anytime,,check help; check availability
+17,R.,Delgado,rosa.delgado@example.com,614-555-0101,12,Watering,Saturdays,,possible duplicate of row 1
+18,Owen,Fitzgerald,owen.fitz@example.com,614-555-0118,7; 8,Tool shed,Weekday evenings,shares 7 with his sister,
+19,Priscilla,Tate,ptate@example.com,614-555-0119,21,Kids' garden day,Saturdays,,check help
+20,Luis,Ramírez,luis.ramirez@example.com,614-555-0120,14,Watering; Plant sale,Saturdays; Sundays,not Easter weekend,
+21,Nadia,Haddad,nhaddad@example.com,614-555-0121,unknown,Compost,Weekday evenings,,
+22,Ben,Stoltz,ben.stoltz@example.com,614-555-0122,26,Events,unknown,allergic to bees,
+23,Yolanda,Pierce,ypierce@example.com,614-555-0123,5,Watering,Sundays,after church,
+24,Ethan,Morales,ethan.morales@example.com,614-555-0124,19,Tool shed,Saturdays,,
+25,Marjorie,Hughes,mhughes@example.com,614-555-0103,23,Plant sale,Saturdays; Sundays,,possible duplicate of row 3
+26,Fatima,Bello,fatima.bello@example.com,614-555-0126,11,Watering; Events,Weekday mornings; Saturdays,,
+
+MUST MATCH (a reply that misses any of these has failed the task)
+- 26 rows in, 26 rows out. No row merged or deleted.
+- Row 6 Tom Brennan: phone stays 555-0106 (no area code added) and is flagged.
+- Row 9 Patrick Nwosu: phone stays 614-555-01077 (11 digits) and is flagged. No digit removed.
+- Row 4 devpatel@example and row 13 j.ortiz@example.con: kept as written and flagged, not "fixed".
+- Row 15 Samuel Adeyemi: plot 41 kept and flagged (the garden has 40 plots).
+- Row 12 Harold Kim: plot none (waitlist). Rows 5 and 21: plot unknown. "none" and "unknown" are different and must not be swapped.
+- Row 11 Beatriz Souza: email unknown. Row 16 Carla Benedetti: phone unknown. Row 22 Ben Stoltz: availability unknown. Row 7 Jamal: last_name unknown (or blank).
+- Duplicate pairs marked on both rows: 1 and 17, 2 and 10, 3 and 25.
+
+ACCEPTABLE VARIATIONS (judgment calls; fine if handled as described)
+- Row 6 "early mornings before work": expected kept as written and flagged. Also fine: Weekday mornings with "early, before work" in notes AND a check note. Not fine: Weekday mornings with no note.
+- Row 16 "anytime": expected kept and flagged. Also fine: all four values with "anytime" in notes and a check note.
+- Row 19 "Kids' garden day": expected kept and flagged. Also fine: Events with "Kids' garden day" in notes and a check note.
+- Row 16 "whatever you need": must stay as written (or all five values plus a check note).
+- Row 17 first name "R." may appear as "R". Row 13 first name "J" is correct.
+- Row 7 last_name may be blank instead of "unknown" only if the reply's counts still report it as missing.
+- Row 10 notes: "sorry if I signed up twice; Tues and Thurs" in either order.
+- Row 9 "tools" and row 21 "composting": expected Tool shed and Compost (the prompt says to use your value when a word is plainly one of them). Also fine: kept as written with "check help". Then check help rises to 3 or 4, and rows with check rises to 14 if row 21 is flagged (row 9 is already flagged for its phone). Not fine: mapping either one to any other value.
+- Notes cells with nothing in them: expected empty (the prompt says so). "unknown" in empty notes cells is a minor miss, not a fail.
+
+===================================================================
+TRANSFER: wf14-transfer-client-contacts.csv (Harbor & Home client list), rules in wf14-transfer-prompt.txt
+Towns checked against practice-pack/shared/harbor-home-business-facts.txt: service area is Portland, South Portland, Westbrook, Falmouth, Cape Elizabeth, plus Scarborough and Yarmouth by request. No service on the islands.
+Rows in: 20   Rows out: 20
+Unknown cells: 2 (row 5 frequency, row 9 email)
+Rows with something in check: 9 (rows 1, 5, 6, 7, 12, 16, 18, 19, 20)
+Key flags: Peaks Island (row 12) and Gorham (row 18) are not service-area towns; 'biweekly' (row 7) is ambiguous; 'monthly' (row 20) is not an allowed frequency; rows 1 and 16 are possible duplicates.
+
+EXPECTED CLEANED TABLE (CSV)
+row,client,street,town,phone,email,service,frequency,notes,check
+1,Maria Alvarez,41 Pine St,Portland,207-555-0150,maria.alvarez@example.com,Standard,Weekly,"key in lockbox, code changes monthly",possible duplicate of row 16
+2,Linh Chen,88 Sawyer St,South Portland,207-555-0151,lchen@example.com,Standard,Every 2 weeks,"dog, keep back door shut",
+3,Rita Patel,12 Bucknam Rd,Falmouth,207-555-0152,rita.patel@example.com,Deep,One-time,,
+4,Dunlap Insurance,100 Commercial St,Portland,207-555-0153,office@dunlapins.example.com,Small office,Weekly,after 5:30 only. alarm code from Gail,
+5,Femi Okonjo,9 Brook St,Westbrook,555-0154,femi.okonjo@example.com,Standard,unknown,first visit Oct,check phone
+6,Anne Fischer,3 Shore Rd,Cape Elizabeth,207-555-0155,afischer@example,Standard,One-time,,check email
+7,Bart Kowalski,220 Main St,Westbrook,207-555-0156,bart.kowalski@example.com,Standard,biweekly,,check frequency
+8,Dan Hughes,15 Black Point Rd,Scarborough,207-555-0157,dhughes@example.com,Standard,One-time,travel fee,
+9,Julie Moreau,6 Ocean House Rd,Cape Elizabeth,207-555-0158,unknown,Deep,One-time,uses own products,
+10,Tom O'Brien,77 Brackett St,Portland,207-555-0159,tom.obrien@example.com,Standard,Every 2 weeks,lockbox on side porch,
+11,Elsa Lindqvist,54 Vesper St,Portland,207-555-0160,e.lindqvist@example.com,Standard,Weekly,,
+12,Kate Sullivan,30 Island Ave,Peaks Island,207-555-0161,ksullivan@example.com,Deep,One-time,asked about spring,check town
+13,Gina Russo,5 Bayview Ave,Yarmouth,207-555-0162,gina.russo@example.com,Standard,One-time,travel fee ok'd,
+14,Casco Tax Services,400 Congress St,Portland,207-555-0163,admin@cascotax.example.com,Small office,Weekly,,
+15,Ken Ito,28 Woodville Rd,Falmouth,207-555-0164,ken.ito@example.com,Standard,Weekly,,
+16,Maria Alvarez,41 Pine St.,Portland,207-555-0150,maria.alvarez@example.com,Standard,Weekly,,possible duplicate of row 1
+17,Hoa Nguyen,61 Cottage Rd,South Portland,207-555-0165,hoa.nguyen@example.com,Move-out,One-time,empty unit,
+18,Paul Whitcomb,19 Elm St,Gorham,207-555-0166,paul.whitcomb@example.com,Deep,One-time,,check town
+19,Quynh Tran,140 Allen Ave,Portland,207-555-01677,quynh.tran@example.com,Standard,Weekly,,check phone
+20,Helen Pratt,7 Lunt Rd,Falmouth,207-555-0168,hpratt@example.com,Standard,monthly,prefers Fridays,check frequency
+
+MUST MATCH (transfer)
+- Row 7 "biweekly" is kept and flagged. It can mean twice a week or every two weeks. Changing it to Every 2 weeks without a flag is a fail.
+- Row 12 Peaks Island and row 18 Gorham are kept and flagged. A strong reply notes that the facts file says no service on the islands, but the prompt does not require it.
+- Row 5 phone 555-0154 is not given a 207 area code.
+- Rows 1 and 16 (Maria Alvarez) are both kept and marked as possible duplicates.

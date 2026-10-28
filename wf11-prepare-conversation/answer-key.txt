@@ -1,0 +1,33 @@
+WF11 ANSWER KEY: numbers and inconsistencies in the practice files
+Computed with python3 from wf11-input-client-notes.txt and wf11-transfer-sam-notes.txt.
+
+MARCUS AND COASTLINE KAYAK TOURS
+  Care plan now: 6 x $65 = $390/month; x 12 = $4,680/year
+  Care plan at new rate: 6 x $80 = $480/month; x 12 = $5,760/year
+  Increase: $90/month; $1,080/year; 23.1% on the hourly rate
+  2026 extra hours so far: 14 x $65 = $910. The same 14 hours at $80 = $1,120 (+$210)
+  Option A (new rate from April 1, 2027): 2027 care plan = 3 x $390 + 9 x $480 = $5,490 (vs $5,760 from January; vs $4,680 in 2026)
+  Option B (5 hours x $80): $400/month, $10 more than now; $4,800/year
+  Floor ($75/hour, 6 hours): $450/month; $5,400/year
+  New rate vs standard rate: $90 - $80 = $10 below standard
+  INCONSISTENCY 1: call on Thursday, November 12, 2026; new rate starts Friday, January 01, 2027. That is 50 days, not the 60 days' notice his contract promises.
+    To give 60 days' notice for January 1, he needed to tell her by Monday, November 02, 2026.
+    For a 60-day notice from the call date, the earliest start is Monday, January 11, 2027.
+  INCONSISTENCY 2: 'with me 4 years' vs client since March 2021. By the call that is 5 years 8 months.
+  NOT IN THE NOTES (a good result does not invent these): any market or industry rate, what her nephew charges,
+    exact share of bookings through the site ('most' is all the notes say), her budget for 2027.
+  From the files, safe to use: bookings down about 15%, 11 rainy weekends, sunset paddles and gift cards, Alder Street Dental referral.
+
+SAM AND THE STORE SCHEDULE (transfer)
+  Now: 32 hours x $17.25 = $552.00/week
+  With opening shifts on Tue and Thu (7:00 a.m. to 3:00 p.m.): still 32 hours, $552.00/week
+  Floor: 24 hours x $17.25 = $414.00/week, a loss of $138.00/week
+  Class runs Tue Jan 12, 2027 to Thu Apr 29, 2027: 16 weeks, 32 class nights (Tue and Thu)
+  Floor over the whole term: 16 weeks x $138.00 = $2,208.00 less pay
+  DEADLINE PROBLEM: schedule posted Friday, December 18; written request due 2 weeks before = Friday, December 04, 2026.
+    Sam plans to talk on Saturday, December 05, which is 1 day after the deadline. Talk earlier and bring the request in writing.
+  The Sunday-close option replaces only ONE weekday shift, so it fixes only one class night.
+  The fallback (skip Tuesday class, watch a recording) depends on a recording Sam doubts exists. Flag it.
+  Tenure: Sam 14 months, Jordan 3 years (from the notes).
+  FLOOR GAP: the floor cuts only the Tuesday shift (24 hours). Thursday is still a 2:00 to 10:00 p.m. close, which clashes
+    with Thursday class. A good result may flag this; it is a real gap in Sam's notes.

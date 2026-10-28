@@ -1,0 +1,66 @@
+WF17 ANSWER KEY
+The calendar itself is not deterministic. The dates, time limits and rule checks below are. Dates and minute totals were computed with a short script (editorial/calc/wf17-answer-key-calc.py, python3 -I).
+
+MAIN (wf17-input-content-brief.txt)
+Post dates (Tuesday and Thursday, 4 weeks, 8 posts):
+  Week 1 (week of Monday, February 22): Tuesday, February 23 and Thursday, February 25
+  Week 2 (week of Monday, March 1): Tuesday, March 2 and Thursday, March 4
+  Week 3 (week of Monday, March 8): Tuesday, March 9 and Thursday, March 11
+  Week 4 (week of Monday, March 15): Tuesday, March 16 and Thursday, March 18
+Launch date March 1, 2027 is a Monday; it falls in week 2.
+First post date on which the package can be booked: Tuesday, March 2.
+
+Weekly budget 60 minutes; scheduling 5 minutes per week.
+Every possible pair of post types for one week:
+  existing photo (20) + existing photo (20) + scheduling (5) = 45 -> FITS
+  existing photo (20) + meet the team (30) + scheduling (5) = 55 -> FITS
+  existing photo (20) + new photo (35) + scheduling (5) = 60 -> FITS
+  meet the team (30) + meet the team (30) + scheduling (5) = 65 -> OVER by 5
+  meet the team (30) + new photo (35) + scheduling (5) = 70 -> OVER by 10
+  new photo (35) + new photo (35) + scheduling (5) = 75 -> OVER by 15
+Rule that follows: every week needs at least one post that uses an existing photo (20 minutes).
+Most posts allowed per week that need new work: one (a new-photo post OR a meet-the-team post, not both).
+
+TRANSFER (wf17-transfer-portfolio-brief.txt)
+Post dates (Wednesdays, 6 posts):
+  Week 1: Wednesday, January 13, 2027
+  Week 2: Wednesday, January 20, 2027
+  Week 3: Wednesday, January 27, 2027
+  Week 4: Wednesday, February 3, 2027
+  Week 5: Wednesday, February 10, 2027
+  Week 6: Wednesday, February 17, 2027
+Weekly budget 45 minutes; copying to blog 2 minutes.
+  before-and-after (20) + blog copy (2) = 22 -> FITS
+  process (30) + blog copy (2) = 32 -> FITS
+  full case study (50) + blog copy (2) = 52 -> OVER by 7
+
+RULE CHECKS FOR THE MAIN CALENDAR (wf17-input-content-brief.txt)
+- Exactly 8 posts, on the 8 dates listed above.
+- Each week's total, including 5 minutes for scheduling, is 60 or less. A correct week is 45, 55 or 60.
+- Every week includes at least one post that uses an existing photo (photos 1 to 9).
+- No video post. No giveaway or contest.
+- Week 1 posts may say the package is "coming March 1" but must not invite bookings for it. The first post that can invite bookings is Tuesday, March 2.
+- "Meet the team" posts feature only Sarah or Miguel (the only cleaners who said yes).
+- Mrs. Patel's review is not quoted, or is flagged as needing her permission first.
+- No client names anywhere.
+- The "worst fridge" post, if used, uses photo 5 or a generic photo, never a real client's fridge, and does not name or describe an identifiable client.
+- If photo 7 (team photo, December 2025) is used, the plan flags that Dev left in January and is in the photo.
+- Photos 4 and 5 are inside a rental; the landlord gave written OK, so they are allowed.
+- Facts used, if any, match exactly: $380 package up to 1,500 sq ft (move-out clean plus inside fridge and inside cabinets), launches March 1, empty homes only; 10% off standard cleans booked weekly or every two weeks; fragrance-free by default; pet-safe on request; 24-hour guarantee, fixed at no charge; 7 cleaners, employees not contractors; insured and bonded.
+- No other prices or offers.
+
+LIKELY "LEFT OUT" LIST (a good result includes most of these with reasons)
+- Video walkthrough: no video, takes 3 hours.
+- Spring giveaway: brief rules out contests.
+- Mrs. Patel's review: needs her permission first (or flagged rather than left out).
+- Meet-the-team posts for cleaners other than Sarah and Miguel: they have not agreed.
+- 48-hour cancellation reminder: optional; Dana called it boring. Either choice is fine.
+
+TRANSFER RULE CHECKS (wf17-transfer-portfolio-brief.txt)
+- Exactly 6 posts, on the 6 Wednesdays listed above.
+- No week over 45 minutes including 2 minutes for the blog copy.
+- A full case study (52 minutes with the blog copy) does not appear as one week's post. It is split across two weeks or replaced.
+- No Alder Street Dental post, or one clearly marked "only if they say yes in writing" with a named backup post.
+- No numbers for Coastline Kayak Tours bookings and no traffic or device percentages.
+- The Fern & Fig post mentions the online ordering page.
+- No price figures in a "what a redesign costs" post (Marcus quotes every job separately), or the idea is left out.

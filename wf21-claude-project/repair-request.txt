@@ -1,0 +1,13 @@
+WORKFLOW 21 REPAIR REQUEST
+Use this when the draft ignores the project's files: for example it quotes a full price for the 2,800 sq ft deep clean, offers carpet shampooing, accepts cash, or confirms the week of November 16.
+
+First, look at the chat. If the project name does not appear with it, the chat was started outside the project. Go back to the project page and start the chat there. If the chat is inside the project, send this:
+
+------------------------------------------------------------
+Check your draft against the business facts file in this project, line by line.
+1. Remove any price, service, payment option or date that is not written in that file.
+2. Do not work out a price from the example emails in the voice sample file. Where an exact price is missing, write "CHECK:" and what's missing.
+3. If the customer asked for something the facts file says we don't do, say so plainly in one sentence.
+4. List every CHECK item under the draft.
+Keep it under 175 words and sign off "Dana".
+------------------------------------------------------------

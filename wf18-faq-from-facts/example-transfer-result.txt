@@ -1,0 +1,78 @@
+Here's a new-patient FAQ built only from the front desk facts sheet. Parking and cash differ by clinic, so I answered those clinic by clinic. Medical questions are in their own section at the end, unanswered.
+
+# New patient FAQ
+
+## Booking your first visit
+
+**Can I just book online?**
+Not for your first visit. New patients book by phone at 614-555-0180. Online booking is for returning patients only. [Source: SCHEDULING]
+
+**How long is the first appointment?**
+Plan on about 60 minutes for your first visit, which is your evaluation. Follow-up visits take about 45 minutes. [Source: SCHEDULING]
+
+**How early should I get there? The email said 15 minutes.**
+Please arrive 10 minutes early for your first visit, or 20 minutes early if you're filling out paper forms. The confirmation email still says 15 minutes, but 10 is correct. [Source: SCHEDULING]
+
+**If I start at one clinic, can I switch to another later?**
+Yes. You can be seen at any of our three clinics, and you can switch clinics later. [Source: SCHEDULING]
+
+**Are you open Saturday?**
+Our Westerville clinic is open Saturday, 8 a.m. to noon. Dublin and Grove City are open Monday to Friday. [Source: HOURS]
+
+## Forms and what to bring
+
+**Can I fill out the forms when I get there?**
+Yes. Paper forms are available at the front desk. If you use them, please arrive 20 minutes early. [Source: FORMS AND WHAT TO BRING; SCHEDULING]
+
+**What should I wear?**
+Wear or bring clothes you can move in comfortably. Shorts are helpful if you're coming in for a knee, hip or ankle. [Source: FORMS AND WHAT TO BRING]
+
+**Do I need a referral from my doctor?**
+Bring a referral or prescription if your insurance requires one. Our front desk checks your benefits before your first visit. [Source: FORMS AND WHAT TO BRING; INSURANCE AND PAYMENT]
+
+## Insurance and payment
+
+**Do you take my insurance?**
+We bill your insurance for you. Before your first visit, the front desk checks your benefits and tells you what you can expect to owe. [Source: INSURANCE AND PAYMENT]
+
+**How much is it if I don't have insurance?**
+The self-pay rate is $150 for the evaluation and $110 for each follow-up visit. [Source: INSURANCE AND PAYMENT]
+
+**Can I pay cash?**
+Cash is accepted at Dublin and Westerville, but not at Grove City. All three clinics take cards and checks. [Source: INSURANCE AND PAYMENT]
+
+## Parking and getting in
+
+**Where do I park?**
+- Dublin: free parking in the front lot, with overflow parking behind the building.
+- Westerville: free parking in the lot we share with the bank. Use a space marked "Northfield PT" or the rows farthest from the bank.
+- Grove City: free parking in the shopping-center lot, with two accessible spaces right outside our door.
+[Source: OUR CLINICS]
+
+**Is the Westerville office wheelchair accessible? It's upstairs, right?**
+Yes. Westerville is on the 2nd floor, with an elevator just inside the main door. All three clinics have step-free access. [Source: OUR CLINICS; LANGUAGE AND ACCESS]
+
+**Is there someone who speaks Spanish?**
+Phone interpreters are available at no charge. Just ask when you book. [Source: LANGUAGE AND ACCESS]
+
+# Ask your therapist
+
+These are medical questions, so the FAQ doesn't answer them. Your therapist can help at your visit.
+- "Is it OK to take my pain medicine before I come in?"
+- "Should I use ice or heat on my knee before the evaluation?"
+- "Will it hurt?"
+- "How many visits will I need?"
+
+# Questions I could not answer from the facts
+
+Not answered at all (left out of the FAQ):
+- "Can I bring my kid with me? I don't have a sitter." The facts don't cover children at visits.
+- "What happens if I'm running a few minutes late?" The facts cover late cancellations and missed visits, not arriving late.
+
+Only partly answered:
+- "Do I need a referral from my doctor?" The FAQ says to bring one if your insurance requires it. The facts don't say how a patient finds out whether theirs does. Saying "call us" may be fine, since the front desk checks benefits, but confirm.
+- "Do you take my insurance? I have a plan through my husband's work." The facts say you bill insurance and check benefits. There's no list of plans you accept.
+- "Is there someone who speaks Spanish?" Phone interpreters are covered. The facts don't say whether any staff speak Spanish.
+- "Where do I park? The bank lot says customers only." The facts tell patients which spaces to use, but don't address the "customers only" sign. You may want a line saying patients are allowed in that lot, if that's true.
+
+Also worth fixing: the booking confirmation email still says "15 minutes early." Your facts sheet says IT is fixing it. Until then, patients will keep asking.

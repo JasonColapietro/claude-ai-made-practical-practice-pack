@@ -1,0 +1,63 @@
+ANSWER KEY: WORKFLOW 2, REWRITE A DIFFICULT EMAIL
+The rewrite's wording will differ. These are the facts it must get right and the things it must remove or flag. Counts and totals were computed with a script from the practice files.
+
+PRACTICE RUN: Priya Shah to Greg Novak, Lakeshore Linen Service
+(wf02-input-angry-draft.txt and wf02-input-delivery-log.txt)
+
+Facts from the log (the log wins over the draft)
+- Schedule: Monday and Thursday mornings before 9:00 a.m., all three clinics. 8 delivery days from Oct 1 to Oct 26 = 24 scheduled clinic deliveries.
+- Problem deliveries: 5 in total.
+  - Missed on the scheduled day: 3
+    - Mon Oct 5, Grove City (truck breakdown; delivered Tue Oct 6, 8:30 a.m.)
+    - Mon Oct 19, Westerville (never made up; email to Greg at 9:05 a.m. got no reply)
+    - Thu Oct 22, Westerville (ticket LL-48213, "route driver out sick"; delivered Fri Oct 23, 11:50 a.m.)
+  - Short: 1. Thu Oct 15, Dublin: 40 bath towels instead of 120; the other 80 never arrived.
+  - Late: 1. Mon Oct 26, Grove City: arrived 1:30 p.m., about 4.5 hours late, no call ahead.
+
+Draft claims that must be corrected or removed
+1. "FIFTH missed delivery": wrong as stated. There were 5 problem deliveries, of which 3 were missed, 1 short and 1 late.
+2. "Nobody at Lakeshore ever calls back": wrong. Greg called back on Oct 5. Accurate version: the Oct 19 email has had no reply.
+3. "Westerville clinic had NO clean linens at all": overstated. On Oct 19 the front desk borrowed linens from Dublin and used paper table covers.
+4. "cancel a whole afternoon of patients": overstated. The log says 3 afternoon appointments were rescheduled.
+5. "Per our contract we are owed a refund": not supported. Priya has not reread the contract and does not know if it says credit or refund. Must be flagged, and the rewrite should ask for a credit without citing the contract.
+6. "if this happens one more time we are done with Lakeshore": Priya needs Dr. Hart's (clinic director) OK before discussing ending the contract. Must be removed and flagged as an authority issue.
+7. "telling every practice manager I know to stay away": a threat. Must be removed.
+8. "your customer service line is useless" and "you guys": tone. Remove.
+
+The three requests (from the log's notes)
+1. Credit for the missed and short deliveries.
+2. A written plan to prevent repeats.
+3. A backup contact who answers when Greg does not.
+Reply date: Friday, October 30, 2026.
+Optional: the draft asks for "a call from someone above you." This is Priya's own request and may stay, phrased calmly.
+
+TRANSFER RUN: Ada Okafor to Gary Lutz, landlord
+(wf02-transfer-angry-draft.txt, wf02-transfer-landlord-letter.txt, wf02-transfer-move-in-notes.txt)
+
+Charges in the landlord's letter
+- Living room carpet replacement: $850.00
+- Repaint all interior walls (5 rooms and hallway): $1,200.00
+- Replace 4 blinds at $45.00 each: $180.00
+- Professional cleaning: $275.00
+- Garage oil stain removal: $150.00
+- Total: $2,655.00. Deposit held: $2,100.00. Balance the letter says would be due: $555.00.
+- The letter calls these estimates and says a final itemized statement comes after move-out.
+
+What the documents support
+- Carpet: the signed move-in checklist notes wear in the traffic path and a 4-inch stain near the front window, carpet about 2015. Ada's draft says it was "already destroyed": overstated. Use the checklist wording.
+- Paint: checklist notes "nail holes" in bedrooms and "scuffs" in the hallway; walls never repainted in six years. Zara's crayon marks are the family's.
+- Blinds: 2 were bent at move-in (living room, kitchen). 2 were broken by Chidi. Fair share: 2 x $45 = $90.
+- Cleaning: inspection was done while the family still lived there; they plan to clean before returning keys.
+- Garage oil stain: the family's car. Ada's notes call it fair; they may try to clean it first.
+- "We've never damaged anything": wrong. Must be removed (blinds, oil stain, crayon).
+
+If Ada's requests were all granted
+- Accepted charges: 2 blinds ($90) + oil stain ($150) = $240. Deposit returned: $1,860.
+- If they clean the oil stain themselves first: accepted charge $90. Deposit returned: $2,010.
+- Disputed total: $2,415 (carpet $850 + paint $1,200 + 2 pre-existing blinds $90 + cleaning $275).
+
+Must be removed or flagged
+- "trying to steal": accusation, remove.
+- "take you to court": threat, remove. Any legal rule on deposits must be flagged for Ada to check, not stated.
+- "leaving reviews everywhere": threat, remove.
+- Lease terms (end date, key return, cleaning clause) are not in the material: flag.

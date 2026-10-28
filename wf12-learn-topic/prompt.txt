@@ -1,0 +1,18 @@
+=== TURN 1: copy everything between this line and the TURN 2 line. Paste it, then paste wf12-input-course-notes.txt right after "My notes:" ===
+
+I'm learning debits and credits for an evening bookkeeping class. I still get stuck on why a debit to Cash means more cash when my bank statement says a debit is money out.
+
+Teach me using my class notes below. Use the same terms and rules as my notes, so what you say matches my class. If my notes contain a mistake, point it out.
+
+1. Explain the main idea in under 150 words, in plain language, for someone who has never taken accounting.
+2. Clear up my sticking point in one short paragraph.
+3. Walk through one worked example that is not in my practice set.
+4. Stop there. Don't answer my practice set. I'll try it myself and send you my answers next.
+
+My notes:
+
+=== TURN 2: copy everything below this line after you've tried the practice set. Paste your answers (or wf12-input-sam-answers.txt) right after "My answers:" ===
+
+Here are my answers to the practice set. Mark each one Right or Wrong. For each wrong one, give the correct answer and explain the rule I missed in one or two sentences, pointing to the rule in my notes. Then give me 3 new practice questions like the ones I got wrong, without the answers.
+
+My answers:

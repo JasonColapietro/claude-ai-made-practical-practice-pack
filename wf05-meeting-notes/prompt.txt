@@ -1,0 +1,11 @@
+I uploaded my rough notes from [MEETING: our November clinic managers meeting]. Turn them into a recap for [AUDIENCE: the people who attended].
+
+Use only the uploaded notes. If something is unclear, say so. Do not fill it in.
+
+Give me three sections:
+
+1. Decisions. One line each. Mark a decision "Conditional" if it still depends on something, and say what. If a decision was made after someone left, say who was not there.
+2. Tasks. A table with these columns: Task, Owner, Due date, Notes item. Spell out names (write "Dr. Hart," not "EH"). If no one took a task, write "No owner." If the due date is vague, such as "this week" or "end of month," copy those words and add "(confirm)." If there is no date, write "None given." In Notes item, give the topic number from my notes.
+3. Open questions. Anything left undecided, anything that changed during the meeting, and any [EARLIER ITEMS: October action item] the notes leave unfinished or unclear.
+
+Plain words. No summary paragraph at the top.

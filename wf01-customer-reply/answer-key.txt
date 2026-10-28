@@ -1,0 +1,70 @@
+ANSWER KEY: WORKFLOW 1, ANSWER A CUSTOMER INQUIRY
+These are the facts a correct reply must get right. Wording will differ. Prices were computed from wf01-input-business-facts.txt with a script, not by hand.
+
+PRACTICE RUN: Karen Ashby, Scarborough (wf01-input-inquiry-email.txt)
+
+Q1. Deep clean price
+- Rule in the facts: deep clean from $260 up to 1,500 sq ft. The "add $25 per extra 500 sq ft" step is printed on the STANDARD clean line only. The facts do not say whether it applies to deep cleans. (Tested October 2026: a cold run quoted "starts at $260" and put the larger-home price in a [CHECK], which is correct.)
+- Best handling: "starts at $260 for up to 1,500 sq ft," plus a [CHECK] for the price at Karen's size.
+- Also acceptable, if the reply says it used the standard clean's size rule and flags it: about 2,000 sq ft from $285 ($260 + one $25 step); about 2,100 sq ft (with finished basement) from $310 if every started 500 sq ft counts as a step. The facts also do not say how partial steps are counted.
+- Wrong: $285 or $310 stated as the deep clean price with no flag.
+- Scarborough is served by request with a $15 travel fee per visit. The reply must mention it.
+- Prices are "from" prices. A reply that states a fixed total without "from" or "starts at" is overstating.
+Q1b. Windows
+- Deep clean includes interior windows.
+- Exterior windows are not offered. The reply must say no to the outside windows.
+Q2. Dog
+- Pet-safe products are used on request. Default products are fragrance-free.
+- No pet waste cleanup (fur is not pet waste, so the reply does not need to raise this unless it is careful).
+Q3. Carpet shampooing
+- Not offered. The reply must say no.
+Q4. Cash
+- No cash. Payment by card or bank transfer after each visit.
+Q5. Every-other-week cleaning
+- 10% off standard cleans booked weekly or every two weeks.
+- Standard clean for about 2,000 sq ft: from $165, so from $148.50 after the 10% discount.
+- About 2,100 sq ft: from $190, so from $171.00 after the discount (same partial-step caveat as Q1).
+- The $15 Scarborough travel fee applies per visit. The facts do not say whether the discount applies to the travel fee. With the fee added undiscounted: from $163.50 (2,000 sq ft) or $186.00 (2,100 sq ft). A reply should not state a combined figure without flagging this.
+- The discount applies to standard cleans, not to the first deep clean.
+Q6. Week of November 16, mornings, not Wednesday
+- The facts contain no schedule or availability. The reply must not offer specific days or times. Correct handling: [CHECK: open dates].
+Insurance
+- Yes, insured and bonded (general liability and bonding). Certificate available on request.
+
+Other facts a reply may use correctly
+- Home is under 2,500 sq ft, so no video walk-through is required.
+- Cancellation: free up to 48 hours before; $50 inside 48 hours.
+- Guarantee: tell us within 24 hours if something was missed and the team returns at no charge.
+- Phone 207-555-0142; office hours Monday to Friday, 8:00 a.m. to 5:00 p.m.
+
+Common errors to watch for
+- Offering specific dates or times (not in the facts).
+- Saying yes to exterior windows or carpet shampooing.
+- Forgetting the $15 travel fee.
+- Applying the 10% discount to the deep clean.
+- Using an exclamation point or signing off with anything other than "Dana".
+
+TRANSFER RUN: Corinne Walsh, Blue Heron Pottery (wf01-transfer-inquiry-email.txt with wf01-transfer-marcus-services.txt)
+The services sheet repeats Marcus's rate sheet from Workflow 19 (wf19-input-rate-sheet.txt) word for word, plus a short section on how projects start and what he does not do.
+
+Q1. Cost and spreading the payments
+- She lists 7 pages: 6 included in the base price plus 1 extra page.
+- Website redesign up to 6 pages $3,600 + 1 extra page $300 + class sign-up with online payment $450 = $4,350.
+- Not included: the sign-up or payment service's own fees, hosting and domain, payment processing fees, photos.
+- Payment schedule: 50% deposit ($2,175.00), 25% at design approval ($1,087.50), 25% at launch ($1,087.50). This is the honest answer to "spread out the payments." There is no other payment plan in the facts.
+- Optional care plan: $85 a month, 12-month minimum.
+- Exact price comes in the written proposal after the discovery call. A good reply says "about" or gives the build-up.
+Q2. Writing the page text
+- Yes: copywriting is $125 per page. All 7 pages = $875, which would bring the build to $5,225 (deposit $2,612.50, then $1,306.25 and $1,306.25).
+Q3. Logo
+- Not offered. He can work with an existing logo file or refer a designer.
+Q4. Live before January 9
+- Next start date: Monday, November 30, 2026. Sites under 12 pages take 6 to 8 weeks from the start date (no online store here, so no extra 2 weeks).
+- Earliest launch: Monday, January 11, 2027 to Monday, January 25, 2027, and only if the deposit, text and photos are all in on November 30.
+- So January 9 is not realistic on these facts. A correct reply says so plainly. It must not promise January 9 or invent a rush option.
+- Class sign-up with online payment is an add-on, not an online store, so the "add 2 weeks" rule does not apply. A reply that adds 2 weeks is a small error.
+Q5. Hosting
+- Separate. She pays hosting and domain renewal directly to the provider. Marcus sets it up and can recommend options. He does not resell hosting.
+Also relevant
+- She wants to update the site herself: the base price includes a 1-hour training call for hours, banners and simple text.
+- Next step: free 30-minute discovery call. She offered Thursday after 1 p.m. Marcus's calendar for calls is not in the facts, so the reply should not confirm a time without a [CHECK].

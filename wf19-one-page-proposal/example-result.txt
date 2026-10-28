@@ -1,0 +1,117 @@
+**Proposal: New Website for Fern & Fig Florist**
+Prepared for Rosa and Tess Whitfield by Marcus Lee
+
+**1. What you told me**
+Half your customers shop from their phones, but your menu doesn't work on phones, photos load slowly, and every online order needs a callback to take a card. You want a site where people can order and pay with a delivery date, sign up for workshops, and send wedding inquiries straight to Tess, and you want to update hours and banners yourselves.
+
+**2. What I'll build**
+- 8 mobile-friendly pages: Home, Shop, Sympathy Flowers, Weddings & Events (gallery + inquiry form to Tess), Workshops, About, Delivery Info & Contact, FAQ
+- Online store: about 20 arrangements, delivery-date picker, delivery zones, checkout
+- Workshop sign-up with online payment
+- Faster photos, basic search setup, 2 rounds of revisions, and a 1-hour training call so you can change hours, closures and the banner
+
+**3. Cost**
+
+| Item | Price |
+|---|---|
+| Website redesign (up to 6 pages) | $3,600 |
+| 2 additional pages | $600 |
+| Online store setup | $1,200 |
+| Workshop sign-up with online payment | $450 |
+| **Build total** | **$5,850** |
+| Care plan, 12 months (required minimum) | $1,020 |
+| **First-year total** | **$6,870** |
+
+**Budget check:** On the call Rosa mentioned about $5,000; your October 8 email said under $6,000 including the first year of the care plan. This plan is $870 over $6,000. I can send options that fit.
+
+**Not included yet:** Flower Club subscription (phase 2, not priced). Paid by you directly: store platform subscription, hosting and domain renewal, payment processing fees per sale, and any photographer.
+
+**4. Timeline**
+- Start: Monday, November 30, 2026
+- Earliest launch: Monday, January 25, 2027; latest expected: Monday, February 8, 2027
+- Depends on: your deposit plus all page text and photos by November 30. Late content moves launch by the same amount.
+
+Rosa hoped for Valentine's Day; Tess said Mother's Day (May 9, 2027) can't be missed. Mother's Day is safe. Valentine's works only if content is ready on day one.
+
+**5. Assumptions**
+1. You write the page text and supply photos (copywriting and photo editing are not included).
+2. The store starts with 25 products or fewer.
+3. The Sympathy page is a separate page from Shop.
+4. Flower Club is not part of this project.
+5. You choose the store platform from options I send.
+6. You can recover the domain and hosting logins from Owen.
+
+**6. What I need from you**
+- A yes from both of you and the 50% deposit to hold November 30
+- Page text and photos by November 30
+- Domain and hosting logins
+- Your store platform choice
+- A decision on keeping the wire service
+
+**7. Next step**
+Reply with a go-ahead and I'll send store platform options and the deposit invoice.
+
+---------------------------------------------------------------
+**For Marcus only: the math**
+
+Pages: 8 pages (Home, Shop, Sympathy, Weddings & Events, Workshops, About, Delivery & Contact, FAQ). Flower Club excluded. Base covers 6, so 2 extra.
+- Base redesign: $3,600 (rate sheet, up to 6 pages)
+- Extra pages: 2 x $300 = $600 (Weddings gallery + inquiry form counts as one page, per rate sheet)
+- Online store: $1,200 (20 arrangements is under the 25-product limit, so no $300 extra block)
+- Class sign-up with payment: $450
+- Build total: $3,600 + $600 + $1,200 + $450 = $5,850
+- Care plan: $85 x 12 months (12-month minimum) = $1,020
+- First-year total: $5,850 + $1,020 = $6,870
+
+Budget gaps:
+- vs. $6,000 all in (Rosa's email): $6,870 - $6,000 = $870 over
+- vs. about $5,000 (Rosa on the call): build alone $5,850 - $5,000 = $850 over; first year $6,870 - $5,000 = $1,870 over
+
+Payment schedule (on the $5,850 build): 50% deposit = $2,925; 25% at design approval = $1,462.50; 25% at launch = $1,462.50. The care plan is billed separately at $85 a month.
+
+Timeline:
+- Start: Monday, November 30, 2026 (your next opening)
+- Under 12 pages: 6 to 8 weeks, plus 2 weeks for the online store = 8 to 10 weeks
+- Nov 30 + 8 weeks = Monday, January 25, 2027 (earliest launch)
+- Nov 30 + 10 weeks = Monday, February 8, 2027 (latest expected)
+- Valentine's Day 2027 is Sunday, February 14. The latest date leaves 6 days, which is why Valentine's depends on content arriving on day one.
+- Mother's Day 2027 is Sunday, May 9, about 13 weeks after the latest expected launch.
+
+Things worth knowing before you send:
+- Your notes say "Don't promise Valentine's unless they give me content on day one." The proposal says Valentine's is possible only with content on day one, which matches.
+- I did not list a payment processing fee figure because your rate sheet has none. You wanted to raise it with them; it is in "Not included yet."
+- Copywriting ($125/page) and photo editing ($40/hour) are priced on your rate sheet but nobody agreed to them. I left them out and made it Assumption 1. If Rosa does not write the text, 8 pages x $125 = $1,000 more.
+
+
+=================================================================
+FOLLOW-UP REPLY (after: "Rosa asked what I'd cut to stay under $6,000 all in, including the first year of the care plan...")
+=================================================================
+
+Here are three ways to get under $6,000 for the first year, using only your rate sheet prices. Workshop sign-up ($450) stays in all three.
+
+**Option A: Skip the care plan for now**
+- Keeps: all 8 pages, online store, workshop sign-up
+- Build: $3,600 + $600 + $1,200 + $450 = $5,850
+- Care plan: $0
+- **First-year total: $5,850** ($150 under)
+- They give up: monthly updates, weekly backups, uptime checks and the hour of small edits each month. If something breaks, they pay for the fix as it comes up. The care plan is optional on your rate sheet, so this is allowed. They can add it later, but it carries a 12-month minimum when they do.
+
+**Option B: Six pages and no care plan**
+- Merge FAQ into Delivery Info & Contact, and fold About into Home. That leaves Home, Shop, Sympathy Flowers, Weddings & Events, Workshops, Delivery Info & Contact (6 pages, all covered by the base package)
+- Build: $3,600 + $1,200 + $450 = $5,250
+- Care plan: $0
+- **First-year total: $5,250** ($750 under)
+- They give up: a separate FAQ and About page, plus everything in Option A. The $750 left over could pay for copywriting on 6 pages (6 x $125 = $750) if Rosa doesn't get to the text, which would land exactly at $6,000.
+
+**Option C: Keep the care plan, drop the online store for now**
+- Keeps: all 8 pages, workshop sign-up, care plan
+- Build: $3,600 + $600 + $450 = $4,650
+- Care plan: $85 x 12 = $1,020
+- **First-year total: $5,670** ($330 under)
+- They give up: ordering and paying online with a delivery date. That was Rosa's number 2 priority, so people would keep calling in orders (or using your September holiday form, with the callbacks). The store could be added later at $1,200. This option also takes 2 weeks off the timeline (6 to 8 weeks instead of 8 to 10), so earliest launch would be Monday, January 11, 2027.
+
+**What does not work:** keeping all 8 pages, the store and the care plan costs $6,870 no matter what. Keeping the store and the care plan with only 6 pages is still $6,270 ($3,600 + $1,200 + $450 + $1,020), $270 over.
+
+**About the $5,000 figure from the call:** none of these three gets there. The only rate-sheet combination under $5,000 that keeps workshop sign-up and the store is not possible ($3,600 + $1,200 + $450 = $5,250 is the floor). Under $5,000 means dropping the store (for example, Option C without the care plan: $4,650). Worth asking Rosa and Tess which number is the real ceiling.
+
+My suggestion to put in front of them: Option A if the store matters most (it was near the top of Rosa's list), Option C if they'd rather have backup and support while they get used to the new site.

@@ -1,0 +1,43 @@
+WF16 ANSWER KEY: FACT CHECK FOR THE THREE DRAFTS
+(The drafts themselves are not deterministic. These facts are. Use this list to check any result.)
+
+FACTS THAT MAY APPEAR (must match exactly if used)
+- Package: move-out clean + inside fridge + inside cabinets.
+- Price: $380, up to 1,500 sq ft.
+- Savings, if mentioned: $20. (Separate prices: $320 + $35 + $45 = $400. $400 - $380 = $20.)
+- Launch date: March 1. (Not "first week of March," not "early March.")
+- Empty homes only. Furniture and boxes out.
+- Landlords and property managers may book it for a tenant, same price.
+- Guarantee: tell us within 24 hours if something was missed; we return and fix it at no charge.
+- Booking: 207-555-0142 or hello@harborhome.example.com.
+- Advice (not a rule): book at least a week ahead for late May and late August.
+- Payment: card or bank transfer after the visit. No cash.
+- Service area: Portland, South Portland, Westbrook, Falmouth, Cape Elizabeth. Scarborough and Yarmouth by request with a $15 travel fee. No islands.
+- Homes over 1,500 sq ft: "call us for a quote." No price.
+- Email signed "Dana". No exclamation points in any draft.
+
+MUST NOT APPEAR IN ANY DRAFT
+- 10% off, "first 20 bookings," or any launch discount.
+- $390 (rejected price).
+- $25 per extra 500 sq ft applied to the package (not decided for this package).
+- Inside oven as part of the package.
+- Any promise that the clean gets a renter's deposit back.
+- The client list size (about 310) or Renee's name or the Brackett St building.
+
+GOOD "CHECK BEFORE POSTING" ITEMS (any of these shows the check worked)
+- Price for homes over 1,500 sq ft is not set; drafts say to call for a quote.
+- Notes mention "first week of March" and March 1; drafts use March 1.
+- Whether the package can be booked before March 1 for a later date is not stated.
+- Whether the package applies to houses as well as apartments is not stated (notes say "renters").
+- Likely reader question not answered: how long the clean takes, whether the renter must be present, how to give the team access.
+
+STRUCTURE CHECK
+- Email: subject line, 120 to 180 words, signed "Dana".
+- Social post: 40 to 70 words, one next step, two hashtags or fewer.
+- Flyer: headline of 8 words or fewer, four short lines or fewer, phone and email.
+- No sentence repeated across drafts. Three different opening lines.
+
+TRANSFER (wf16-transfer-plant-sale-notes.txt)
+Must match if used: Saturday, May 8, 9 a.m. to 1 p.m.; 1180 Maple Street, Columbus; alley-side gate; tomatoes $3 each or 4 for $10; peppers $3; herbs $2; perennial divisions $5; goal $1,500; shifts 8:30 to 11 and 11 to 1:30; 6 volunteers needed; lena@maplestreetgarden.example.com; 614-555-0163; everyone welcome, no plot needed.
+Must not appear: a rain date; last year's total; a firm compost price ($4 and $5 conflict, so it is flagged or left out); a promise that cards are accepted.
+Only the email asks for volunteers.

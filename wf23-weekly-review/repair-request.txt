@@ -1,0 +1,5 @@
+Some numbers don't match my file. Recount from the CSV, one step at a time:
+1. List the job IDs with status Completed, and count them.
+2. Add up the price column for every row, and show a subtotal for each status.
+3. List the job IDs where payment says Unpaid, with the total. Put any blank payment cell on its own line.
+Then redo the Numbers table and tell me which numbers changed.

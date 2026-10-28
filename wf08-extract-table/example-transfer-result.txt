@@ -1,0 +1,60 @@
+PROMPT USED (the chapter prompt with the transfer lines swapped in):
+
+I'm entering [OCTOBER SUPPLIER INVOICES FOR MY CLEANING BUSINESS] before I pay them. The attached file holds four invoices. Pull the details into one table, one row per invoice.
+
+Use only the attached files. Do not use outside information about these companies or about typical costs.
+
+Make a table with one row per company and these columns:
+Supplier | Invoice number | Invoice date | Terms | Due date | Subtotal | Tax | Shipping | Total due
+
+Rules for filling it in:
+- Copy prices, dates and amounts exactly as the email states them.
+- If a detail is missing, write "Not stated." Do not guess.
+- If a quote lists charges but no total, write "No total stated." You may add up the charges, but label the sum "(my addition)."
+- If an email includes a correction or a later reply, use the latest figure and say so.
+- If one email gives two different figures for the same thing, show both and write "CONFLICT."
+- For each invoice, add up the line items and compare the sum with the printed subtotal. Also check that the due date matches the terms. Flag any difference, with both figures.
+
+Below the table, give me:
+1. Every "Not stated" and "CONFLICT" item, written as a question I can send to that company.
+2. Anything that makes two quotes hard to compare directly.
+
+----------------------------------------------------------------
+RESULT
+
+Here are the four October invoices, one row each. Amounts and dates are copied exactly as printed. One invoice has an arithmetic problem and a due-date problem, flagged below the table.
+
+| Supplier | Invoice number | Invoice date | Terms | Due date | Subtotal | Tax | Shipping | Total due |
+|---|---|---|---|---|---|---|---|---|
+| Casco Bay Janitorial Supply | INV-30417 | October 2, 2026 | Net 30 | November 1, 2026 | $464.10 | $25.53 (5.5%) | $0 ("Free shipping on orders over $250") | $489.63 |
+| Pine State Paper Co. | 7781 | 10/05/2026 | Due on receipt | Not stated (terms say "Due on receipt") | $240.70 | $13.24 (5.5%) | $18.00 (listed as "Delivery") | $271.94 |
+| Northeast Green Clean Products | NGC-0915 | October 9, 2026 | Net 15 | October 23, 2026 (FLAG: Net 15 from October 9 is October 24, 2026) | $287.15 (FLAG: line items add to $287.30) | $15.79 (5.5%) | $9.95 | $312.89 |
+| Casco Bay Janitorial Supply | INV-30552 | October 16, 2026 | Net 30 | November 15, 2026 | $64.40 (includes a -$44.00 return credit) | $3.54 (5.5%) | $12.50 ("order under $250") | $80.44 |
+
+Total of the four printed totals: $1,154.90 (my addition).
+
+CHECKS: LINE ITEMS VS SUBTOTAL, AND DUE DATE VS TERMS
+
+- INV-30417: line items $174.00 + $112.50 + $89.60 + $88.00 = $464.10. Matches the subtotal. Net 30 from October 2 is November 1. Matches.
+- 7781: line items $157.00 + $83.70 = $240.70. Matches. No due date printed; "Due on receipt" means it is due now.
+- NGC-0915: two problems.
+  - Line items $142.80 + $65.00 + $79.50 = $287.30, but the printed subtotal is $287.15. That is $0.15 less than the items. The tax ($15.79) and total ($312.89) were figured from the lower $287.15, so the invoice is slightly undercharged. Using $287.30, tax at 5.5% would be $15.80 and the total $313.05 (my calculation).
+  - Net 15 from October 9, 2026 is October 24, 2026. The invoice prints October 23, 2026, one day earlier. Either date has already passed, so this one may be overdue.
+- INV-30552: line items $64.00 + $44.40 - $44.00 = $64.40. Matches. The -$44.00 is a return credit for 2 HEPA vacuum bag packs from INV-30417, already taken off this invoice. Do not deduct it again from INV-30417. Net 30 from October 16 is November 15. Matches.
+
+The tax on every invoice equals 5.5% of its printed subtotal, and every printed total equals subtotal plus tax plus shipping.
+
+1. QUESTIONS TO SEND
+
+Northeast Green Clean Products (invoice NGC-0915)
+- Your line items add to $287.30, but the subtotal shows $287.15. Which figure is correct, and will you send a corrected invoice?
+- With Net 15 terms from October 9, the due date would be October 24, but the invoice shows October 23. Which date do you use?
+
+Pine State Paper Co. (invoice 7781)
+- The invoice says "Due on receipt" with no due date. Is there a date you need payment by?
+
+2. THINGS THAT MAKE THESE HARD TO COMPARE DIRECTLY
+
+- Pine State writes its date as 10/05/2026. The others spell out the month.
+- Shipping is labeled three ways: free shipping (INV-30417), "Delivery" (7781) and "Shipping" (NGC-0915 and INV-30552).
+- INV-30552 includes a credit for goods from INV-30417, so the two Casco Bay invoices are linked. Pay each as printed; the credit is already applied.

@@ -1,0 +1,18 @@
+Write my weekly review for [MY FREELANCE WEB DESIGN BUSINESS] for [OCTOBER 5 TO 9, 2026]. It's for me. I read it on Friday afternoon and use it to choose next week's priorities.
+
+Use only: the attached time log and my attached Friday notes. Last week's top 3 are at the top of the notes. Count from the rows. Don't estimate.
+
+Counting rules:
+- An hour is billable only if the billable column says Yes. Amount is hours times the rate on that row.
+- If a client name is a spelling variant of another, combine them and say so.
+
+Sections, in this order:
+1. Numbers: total hours logged, billable hours and amount by client, and non-billable hours.
+2. Last week's top 3: Done, Partly or Not done for each, with the line from my notes that shows it.
+3. Needs a decision: one line each, with the client name if there is one.
+4. Schedule: deadlines or dates that moved.
+5. Top 3 for next week: one sentence each, each tied to something in this week's files.
+
+Under [400] words, not counting the table. Plain words, no exclamation points.
+
+Check: if something isn't in the files, write "Not in my notes" instead of guessing.

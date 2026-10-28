@@ -1,0 +1,1 @@
+Check your weekly totals. For each week, add the minutes for both posts plus 5 minutes for scheduling, and show the sum. If any week is over 60 minutes, swap one of its posts for a post that uses a photo from my list (20 minutes), then show the new total. Keep the move-out launch posts in the same weeks.

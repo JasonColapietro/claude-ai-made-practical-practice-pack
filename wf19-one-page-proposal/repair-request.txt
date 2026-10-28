@@ -1,0 +1,10 @@
+WORKFLOW 19 REPAIR REQUEST
+Use this when the proposal promises a launch date as if it were certain (for example "Your new site will be live before Valentine's Day"), or when the assumptions behind the price and the date are missing or buried in paragraphs.
+
+------------------------------------------------------------
+This proposal promises more than my notes support. Fix it:
+1. In Timeline, give the earliest launch as a range, and write right under it exactly what that range depends on (deposit date, when I get their text and photos, and anything else from my notes).
+2. Move every assumption into section 5 as its own numbered line. Include who writes the page text, who supplies photos, who has the domain login, which store platform, and whether they keep the wire service.
+3. Remove any sentence that promises a result or a date I can't control.
+Keep it under 450 words. Change nothing in the cost table unless a number is wrong, and if you change one, tell me which and why.
+------------------------------------------------------------

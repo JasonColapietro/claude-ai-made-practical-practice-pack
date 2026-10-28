@@ -1,0 +1,52 @@
+Subject: October delivery problems at Northfield Physical Therapy: requests by Oct 30
+
+Greg,
+
+Five of Lakeshore's October deliveries to our clinics were missed, short or late, and I need your help putting this right.
+
+What happened:
+- Mon, Oct 5, Grove City: no delivery (truck breakdown). Delivered Tue, Oct 6, at 8:30 a.m.
+- Thu, Oct 15, Dublin: 40 bath towels instead of 120. The other 80 never arrived.
+- Mon, Oct 19, Westerville: no delivery, and it was never made up. My 9:05 a.m. email to you that day has not been answered. Staff borrowed linens from Dublin, and we rescheduled 3 afternoon appointments because two treatment rooms could not be turned over.
+- Thu, Oct 22, Westerville: no delivery (driver out sick; customer service ticket LL-48213). Delivered Fri, Oct 23, at 11:50 a.m.
+- Mon, Oct 26, Grove City: arrived at 1:30 p.m. instead of before 9:00 a.m., with no call ahead.
+
+Please reply by Friday, October 30, with:
+1. A credit on our next invoice for the missed and short deliveries.
+2. A written plan for how Lakeshore will keep our Monday and Thursday deliveries on schedule.
+3. The name and phone number of a backup contact who will respond when you are not available.
+
+We have paid every invoice on time, and we want this account to work. I'm happy to talk through any of this by phone.
+
+Priya Shah
+Operations Coordinator
+Northfield Physical Therapy
+614-555-0131
+
+---
+
+Facts I changed from your draft to match the log
+1. "The FIFTH missed delivery this month": the log shows 3 missed deliveries, 1 short and 1 late. Five problem deliveries in total, not five missed.
+2. "Last Monday our Westerville clinic had NO clean linens": last Monday (Oct 26) Westerville was on time. The Westerville miss was Monday, Oct 19, and staff borrowed linens from Dublin, so "no clean linens at all" overstates it.
+3. "We had to cancel a whole afternoon of patients": the log says 3 afternoon appointments were rescheduled, not canceled.
+4. "Nobody at Lakeshore ever calls back": Greg called back on Oct 5, and customer service gave you a ticket on Oct 22. The one unanswered message is your Oct 19 email.
+5. "Spending their mornings calling around to borrow towels": the log records borrowing once, on Oct 19. I described only that day.
+
+Requests that depend on information you didn't give me
+1. The credit. Your notes say you haven't reread the contract and aren't sure whether it promises a credit, a refund or neither. I asked for a credit as a request, not as something the contract owes you. Check the missed-delivery section before sending.
+2. Whether the late Oct 26 delivery should count toward the credit. The log doesn't say what the contract treats as late.
+
+Things in your draft you may not have the authority to say
+1. "If this happens one more time we are done with Lakeshore." Your notes say you need Dr. Hart's OK before talking about ending the contract, so I left it out.
+2. "I will be telling every practice manager I know to stay away from you." This reads as a threat and could cause trouble for Northfield if Greg forwards the email. Left out.
+3. "I need a call from someone above you by Friday." You can ask for this, but your notes list a backup contact, not an escalation. I asked for the backup contact. Add the escalation back if you want it.
+
+===== Follow-up message (prompt-follow-up.txt), same chat =====
+
+Subject lines
+1. Missed and short October deliveries: credit, plan and contact by Oct 30
+2. Northfield Physical Therapy: five October delivery problems and three requests
+3. Request for a delivery credit and a written plan, Northfield PT
+
+Voicemail version
+Hi Greg, this is Priya Shah, operations coordinator at Northfield Physical Therapy, calling about five missed, short or late linen deliveries to our clinics in October. I've sent you an email with the dates, and I need a credit, a written plan and a backup contact by Friday, October 30, so please call me back at 614-555-0131 or reply to that email.

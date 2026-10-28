@@ -1,0 +1,125 @@
+ANSWER KEY: Workflow 23, Run a repeatable weekly review
+All numbers computed with a python3 -I script from wf23-input-jobs-oct5-9.csv
+and wf23-transfer-hours.csv. Do not edit by hand.
+
+=====================================================================
+PART A. Harbor & Home, week of Monday, October 5 to Friday, October 9, 2026
+Files: wf23-input-jobs-oct5-9.csv, wf23-input-owner-notes.txt,
+       wf23-input-last-week-review.txt, harbor-home-business-facts.txt
+=====================================================================
+
+Rows in file: 28 (job IDs H-0993 to H-1020)
+
+COUNT AND MONEY BY STATUS (price column)
+  Completed     24 rows   $  4961.50   H-0993, H-0994, H-0995, H-0996, H-0997, H-0998, H-0999, H-1000, H-1001, H-1002, H-1003, H-1005, H-1006, H-1007, H-1009, H-1010, H-1011, H-1012, H-1014, H-1015, H-1016, H-1017, H-1019, H-1020
+  Cancelled      1 rows   $     0.00   H-1004
+  Lockout        1 rows   $   126.00   H-1008
+  Return visit   1 rows   $     0.00   H-1013
+  Late cancel    1 rows   $    50.00   H-1018
+  TOTAL         28 rows   $  5137.50
+
+Cleans completed (status Completed): 24
+Money billed this week (sum of price, all rows): $5137.50
+  of which from completed cleans: $4961.50
+Unpaid (payment = Unpaid): 5 rows, $1051.00  -> H-1000 Foster, G. $355.00, H-1007 Ferraro, L. $215.00, H-1008 Hale, P. $126.00, H-1016 Novak, E. $305.00, H-1018 Bishop, T. $50.00
+Payment blank with money owed: H-1020 Sutton, B. $190.00 (says paid by bank transfer, not showing yet)
+Paid: $3896.50
+Check: paid + unpaid + blank-with-money = $5137.50
+
+COMPLETED CLEANS BY SERVICE
+  Standard      16   $  2476.50
+  Deep           4   $  1160.00
+  Small office   1   $   210.00
+  Move-out       3   $  1115.00
+
+COMPLETED CLEANS BY DAY
+  Mon 10/05/2026   6   $  1239.50
+  Tue 10/06/2026   5   $   974.50
+  Wed 10/07/2026   5   $   952.00
+  Thu 10/08/2026   3   $   626.00
+  Fri 10/09/2026   5   $  1169.50
+
+PRICE CHECK AGAINST FACTS FILE (small office excluded; cancelled/return/late-cancel excluded)
+  MISMATCH H-0997 Becker, W.: charged $260.00, facts-file price $285.00
+  (all other priced rows match)
+
+Crew hours on completed cleans: 134.5
+Completed cleans per cleaner: Aisha 6, Ben 7, Jess 7, Kelly 9, Miguel 5, Sarah 8, Tomas 6
+Move-outs with Tomas: H-1000 10/06/2026, H-1012 10/08/2026
+
+WEEK OVER WEEK (last week from wf23-input-last-week-review.txt)
+  completed      this week 24   last week 24   change +0
+  billed         this week $5137.50   last week $5026.50   change +111.00
+  unpaid         this week $1051.00   last week $612.00   change +439.00
+  cancellations  this week 2   last week 1   change +1
+  lockouts       this week 1   last week 0   change +1
+  returns        this week 1   last week 0   change +1
+
+Counting rules the prompt sets:
+- A clean counts as completed only when status = Completed (24).
+- Money billed = sum of the price column for every row ($5,137.50). This
+  includes the $126.00 lockout (H-1008) and the $50.00 late-cancel fee (H-1018).
+- Cancelled (H-1004) and Return visit (H-1013) rows carry $0.00 and are not cleans.
+- "Cancellations" in the week-over-week line counts Cancelled + Late cancel (2).
+- H-1020 (Sutton, $190.00) has a blank payment cell. It is neither Paid nor
+  Unpaid. A good review lists it separately as "check Monday", per the notes.
+  If a review folds it into Unpaid, unpaid becomes $1,241.00; accept that only if
+  the review says so.
+
+LAST WEEK'S PRIORITIES (expected status)
+1. Fill the two open Thursday afternoon slots -> PARTLY. Gallo (H-1014) filled
+   one; the other stayed open. Odum wants November and is not yet booked.
+2. Call back all three office leads -> DONE (all three reached a quote or a
+   walk-through). Casco Tax Services: yes, weekly Tuesdays 6 p.m. from Oct 13,
+   $180. Fore River Design: yes, every other Wednesday from Oct 14, $240. Salt
+   Line Architects: walk-through Oct 8, quoted $195 one-time for Oct 15, waiting.
+3. Reorder microfiber cloths and fragrance-free spray -> PARTLY. Cloths ordered
+   (2 cases). Spray not ordered; 4 bottles left.
+
+PROBLEMS / DECISIONS A GOOD REVIEW RAISES (from the notes)
+- Hale lockout (H-1008, $126.00 unpaid): client texted the office Tuesday
+  9:40 p.m.; nobody saw it. Decision for Dana: waive or keep the fee.
+- Becker deep clean (H-0997) billed $260.00; facts file gives $285.00 for
+  1,600 sq ft ($260 + $25). Dana's note says check what was charged.
+- Oven missing from the deep clean checklist card (cause of H-1013 return visit).
+- Ben wants Fridays off from November: Friday crews need rework.
+- Tomas: two move-outs this week (H-1000 Tue, H-1012 Thu); sore back.
+- Van inspection due end of October, not booked.
+- Odum needs a November date booked.
+- Sutton payment (H-1020) to confirm Monday.
+
+A good "Top 3 for next week" ties each item to the material, for example:
+order the fragrance-free spray; decide on the Hale fee and fix the checklist
+card; rework Friday crews for November (or book Odum / fill the open Thursday
+slot). Any three are acceptable if each is tied to something in the files.
+
+Should NOT appear: the move-out package price or launch details beyond what
+the notes say; any invented figure for Salt Line's answer; a price raise
+recommendation (the notes say "look at numbers first").
+
+=====================================================================
+PART B. Transfer: Marcus Lee, week of October 5 to 9, 2026
+Files: wf23-transfer-hours.csv, wf23-transfer-notes.txt
+=====================================================================
+Total hours logged: 30.0
+Billable hours by client ("Alder St Dental" combined into Alder Street Dental):
+  Coastline Kayak Tours         9.5 h x $85 = $807.50
+  Alder Street Dental           6.0 h x $95 = $570.00
+  Fern & Fig Florist            5.0 h x $85 = $425.00
+  Ridgeline Yoga                2.0 h x $80 = $160.00
+  Hollis & Grant Bookkeeping    1.5 h x $90 = $135.00
+  Mill Pond Bakery              1.0 h x $75 = $75.00
+Billable total: 25.0 h, $2172.50
+Non-billable (Admin): 5.0 h
+Coastline share of all hours logged: 31.7%; of billable hours: 38.0%
+
+Last week's priorities (expected status):
+1. Launch Alder Street Dental booking page -> DONE (launched Friday). Final invoice not sent.
+2. Send Fern & Fig the redesign proposal -> NOT DONE (written, not sent).
+3. Write one portfolio post -> PARTLY (draft about half done).
+
+Open items a good review raises: Alder final invoice not sent; Ridgeline
+September invoice unpaid (sent Oct 1, net 15, so due Oct 16; it is not overdue
+on Oct 9, so a good review says "due Oct 16", not "overdue"); Coastline launch moved to
+Oct 23; unanswered Sudsy Paws inquiry from Wednesday; laptop battery.
+"Felt like all week on Coastline": the hours say 9.5 of 30.0 logged (about a third).

@@ -1,0 +1,97 @@
+WORKFLOW 5 ANSWER KEY
+Extraction from the practice notes. Wording will differ; the facts, owners and dates must match. "Notes item" is the topic number in the notes (0 = the "Oct items check" block, or "Jan to-do check" in the transfer).
+
+=====================================================================
+MAIN INPUT: wf05-input-managers-meeting-notes.txt
+Meeting: Thursday, November 12, 2026, 8:04 to 9:07 a.m.
+Present: Dr. Hart (EH, left 8:46), Tom, Angela (video), Marisol (covering for Kevin), Priya
+=====================================================================
+
+DECISIONS (9)
+D1. Shop around for cleaning: get two more quotes. (Item 1)
+D2. Do NOT send Kestrel the non-renewal notice yet. Final call by Nov 25, before the Dec 1 deadline. Conditional on the quotes. (Item 1)
+D3. Holiday hours: all three clinics closed Thanksgiving and the day after. Dec 24: all close at noon. Dec 31: Dublin and Westerville close at 3; Grove City open until 5. The Grove City Dec 31 hours are Conditional (confirm with Kevin; the notes do not say who confirms). (Item 2)
+D4. Grove City lends Nikki to Westerville Tuesday and Thursday mornings starting Dec 1. (Item 3)
+D5. Temp agency approved if no hire by Jan 15. (Item 3)
+D6. Frost Line Snow Removal for this winter: approved in principle only. Conditional: Dr. Hart wants to see the contract first. ($85 per visit vs. $110 now.) (Item 4)
+D7. Late openings: Dr. Hart makes the call by 6 a.m. and texts managers; managers text their staff. (Item 4)
+D8. Supply ordering: one order a month on the first business day, trial in December and January, review in February. Made AFTER Dr. Hart left at 8:46, so she was not there. (Item 5)
+D9. Shared calendar and FAQ binder moved to the December meeting. (Items 6 and 7)
+
+TASKS (14)
+#   Task                                                   Owner            Due date                        Item
+T1  Get two more cleaning quotes                           Tom              11/24 (Nov 24)                  1
+T2  Draft the Kestrel non-renewal letter so it is ready    Priya            None given (final call 11/25)   1
+T3  Sign the non-renewal letter if needed                  Dr. Hart         None given (notice due by 12/1) 1
+T4  Check what kind of notice the contract requires        Priya            None given                      1
+T5  Ask Kevin how Kestrel has done at Grove City           Marisol          None given                      1
+T6  Tell patients the holiday hours                        Front desks (each clinic)  11/20 (Nov 20)        2
+T7  Update the holiday phone message template              Angela           11/16 (Nov 16)                  2 (carried from October)
+T8  Confirm Grove City's Dec 31 hours with Kevin           Marisol, or "No owner" (the notes do not say who confirms)   None given   2
+T9  Write the Westerville front desk job posting           Angela           "this week" (confirm)           3
+T10 Post the job on the job sites                          Priya            "this week" (confirm)           3
+T11 Cover the Westerville front desk Monday 11/30          Angela           11/30 (Nov 30)                  3
+T12 Send the Frost Line contract to Dr. Hart               Tom              "end of month" (confirm)        4
+T13 Look into why Grove City spends the most on paper goods No owner        None given                      5
+T14 Bring the new-patient FAQ binder to the December meeting Angela         December meeting                7
+
+Acceptable variations: T3 and T14 may appear as decisions instead of tasks. T6 owner may read "front desk staff" or "each clinic's front desk." Lending Nikki (D4) may also appear as a task for Marisol.
+
+MUST BE TRUE
+- "this week" and "end of month" are copied, with "(confirm)", not turned into dates.
+- T13 says "No owner."
+- D6 (Frost Line) is marked Conditional.
+- D8 notes Dr. Hart had left.
+
+OPEN QUESTIONS (expected)
+Q1. Kevin's Grove City badge reader (October item): status unknown, Marisol didn't know.
+Q2. Grove City Dec 31 hours: open until 5 is not confirmed with Kevin.
+Q3. Who looks into Grove City's paper-goods spending (no owner).
+Q4. Changed during the meeting: Dr. Hart first wanted to send the Kestrel non-renewal notice now, to be safe; the group then decided not to send it yet.
+Q5. Frost Line is not final until Dr. Hart reviews the contract.
+Q6. How Kestrel has done at Grove City (waiting on Kevin).
+Strong results also catch: Nikki covers only Tuesday and Thursday mornings from Dec 1, so Westerville's front desk has no named cover on Mondays, Wednesdays and Fridays after Nov 30, or on afternoons.
+
+MUST NOT APPEAR
+- Any exact date for "this week" or "end of month."
+- A name for the Grove City paper-goods task.
+- Any statement that Kevin's badge reader was fixed.
+
+=====================================================================
+TRANSFER INPUT: wf05-transfer-garden-committee-notes.txt
+Meeting: Thursday, February 18, 2027, 7:00 to 8:40 p.m., library meeting room
+Present: Lena, Rosa, Hal, Maria; Greg arrived 7:25
+=====================================================================
+
+DECISIONS
+D1. Plot fees stay at $25, due April 1. (Item 2)
+D2. Hardship waivers capped at 5 this year (3 given last year). (Item 2)
+D3. Plant sale on the second Saturday in May (5/8). (Item 4)
+D4. Plant sale prices same as last year except tomatoes go to $4. (Item 4)
+D5. Plant sale proceeds split 50/50 between the tools fund and the water bill (Hal agreed after objecting). (Item 4)
+D6. Rain barrels: no decision. If they go ahead, budget is $300 maximum (Conditional). (Item 5)
+D7. Next meeting Thursday 3/18, same place.
+Items 1 and 2 were likely discussed before Greg arrived at 7:25; a careful result may say Greg was not there for them, or that the notes do not say.
+
+TASKS
+T1  Fix the flyer date and reprint                           Rosa       None given                   1
+T2  Bring coffee to the kickoff                              Hal        Kickoff (3/6)                1
+T3  Bring donuts                                             No owner   Kickoff (3/6)                1
+T4  Confirm the library room booking (rain plan)             Lena       None given                   1
+T5  Send the plot fee reminder email                         Hal        "mid March" (confirm)        2
+T6  Decide whether to be the new watering lead               Maria      3/1 (March 1)                3
+T7  Write up how he ran the watering schedule                Greg       "before he goes" (confirm)   3
+T8  Check whether a city permit is needed for sidewalk tables Rosa      None given                   4
+T9  Read the Ohio rain barrel guidance                       Lena       None given                   5
+T10 Change the tool shed lock combination                    No owner   "after kickoff" (confirm)    6
+T11 Fix or toss the 2 broken shovels                         Greg (unclear: "or we toss them")  "before he moves" (confirm)  6
+
+OPEN QUESTIONS
+Q1. Maria reached 4 of the 6 waitlist people; 2 still to reach (January item).
+Q2. City water turn-on date: still waiting (January item).
+Q3. Greg's north-side hose reel: status unknown (January item).
+Q4. New watering lead not settled (Maria by 3/1).
+Q5. Who changes the shed lock combination; who brings donuts.
+Q6. Whether a sidewalk permit is needed for the plant sale.
+Q7. Broken shovels: fix or toss is not decided.
+Q8. Rain barrels: undecided.

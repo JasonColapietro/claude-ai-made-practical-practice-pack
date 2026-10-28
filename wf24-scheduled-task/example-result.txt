@@ -1,0 +1,27 @@
+[One run of the "Monday job summary" scheduled prompt, as it would run on Monday, November 2, 2026, reading wf24-input-week-schedule.csv.]
+
+Monday job summary: week of November 2, 2026
+
+Jobs by day
+- Mon, Nov 2: 5 jobs
+- Tue, Nov 3: 6 jobs
+- Wed, Nov 4: 6 jobs
+- Thu, Nov 5: 5 jobs
+- Fri, Nov 6: 4 jobs
+
+Fix before 8 a.m.
+- H-1103, Whitfield, J. (Mon): first visit, 2,800 sq ft, no video walk-through noted.
+- H-1107, Rowe, A. and H-1108, Hughes, D. (Tue): Kelly is on both. H-1107 runs 9:00 to 1:00; H-1108 starts at 11:00.
+- H-1113, Pratt, N. (Wed): Peaks Island. We don't serve the islands.
+- H-1115, Quinlan, J. (Wed): no crew. Notes say Miguel is out and the job needs cover.
+- H-1121, Keane, M. (Thu): no crew.
+- H-1122, Back Cove Chiropractic (Thu): small office at 4:30 p.m. Evenings only, after 5:30.
+- H-1108, Hughes, D. (Scarborough) and H-1120, Russo, G. (Yarmouth): the file has no price column, so I can't confirm the $15 travel fee.
+
+First visits
+- H-1103, Whitfield, J.
+- H-1110, Garrison, P. (walk-through done 10/29)
+- H-1113, Pratt, N.
+- H-1121, Keane, M.
+- H-1122, Back Cove Chiropractic
+- H-1125, Marsh, H.

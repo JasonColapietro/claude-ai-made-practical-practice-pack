@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" font-family="Helvetica, Arial, sans-serif">
+<rect width="1600" height="1000" fill="#ffffff"/>
+<text x="60" y="70" font-size="40" font-weight="700" fill="#1a1a1a">Bayside Bakery: operating expenses by category</text>
+<text x="60" y="115" font-size="26" fill="#444">Third quarter (July to September). Total expenses: $57,750</text>
+<line x1="300.0" y1="160" x2="300.0" y2="825" stroke="#888" stroke-width="2"/>
+<text x="300.0" y="859" font-size="22" text-anchor="middle" fill="#333">$0</text>
+<line x1="500.0" y1="160" x2="500.0" y2="825" stroke="#ddd" stroke-width="1"/>
+<text x="500.0" y="859" font-size="22" text-anchor="middle" fill="#333">$5,000</text>
+<line x1="700.0" y1="160" x2="700.0" y2="825" stroke="#ddd" stroke-width="1"/>
+<text x="700.0" y="859" font-size="22" text-anchor="middle" fill="#333">$10,000</text>
+<line x1="900.0" y1="160" x2="900.0" y2="825" stroke="#ddd" stroke-width="1"/>
+<text x="900.0" y="859" font-size="22" text-anchor="middle" fill="#333">$15,000</text>
+<line x1="1100.0" y1="160" x2="1100.0" y2="825" stroke="#ddd" stroke-width="1"/>
+<text x="1100.0" y="859" font-size="22" text-anchor="middle" fill="#333">$20,000</text>
+<line x1="1300.0" y1="160" x2="1300.0" y2="825" stroke="#ddd" stroke-width="1"/>
+<text x="1300.0" y="859" font-size="22" text-anchor="middle" fill="#333">$25,000</text>
+<text x="820.0" y="905" font-size="24" text-anchor="middle" fill="#333">Dollars spent in the quarter</text>
+<text x="284" y="209.6" font-size="24" text-anchor="end" fill="#1a1a1a">Wages</text>
+<rect x="300" y="175.8" width="984.0" height="51.5" fill="#2E6DB4"/>
+<text x="1296.0" y="209.6" font-size="22" fill="#1a1a1a">$24,600 (43%)</text>
+<text x="284" y="292.7" font-size="24" text-anchor="end" fill="#1a1a1a">Ingredients</text>
+<rect x="300" y="258.9" width="736.0" height="51.5" fill="#2E6DB4"/>
+<text x="1048.0" y="292.7" font-size="22" fill="#1a1a1a">$18,400 (32%)</text>
+<text x="284" y="375.8" font-size="24" text-anchor="end" fill="#1a1a1a">Rent</text>
+<rect x="300" y="342.0" width="288.0" height="51.5" fill="#2E6DB4"/>
+<text x="600.0" y="375.8" font-size="22" fill="#1a1a1a">$7,200 (12%)</text>
+<text x="284" y="458.9" font-size="24" text-anchor="end" fill="#1a1a1a">Utilities</text>
+<rect x="300" y="425.2" width="86.0" height="51.5" fill="#2E6DB4"/>
+<text x="398.0" y="458.9" font-size="22" fill="#1a1a1a">$2,150 (4%)</text>
+<text x="284" y="542.1" font-size="24" text-anchor="end" fill="#1a1a1a">Packaging</text>
+<rect x="300" y="508.3" width="79.2" height="51.5" fill="#2E6DB4"/>
+<text x="391.2" y="542.1" font-size="22" fill="#1a1a1a">$1,980 (3%)</text>
+<text x="284" y="625.2" font-size="24" text-anchor="end" fill="#1a1a1a">Other</text>
+<rect x="300" y="591.4" width="52.4" height="51.5" fill="#2E6DB4"/>
+<text x="364.4" y="625.2" font-size="22" fill="#1a1a1a">$1,310 (2%)</text>
+<text x="284" y="708.3" font-size="24" text-anchor="end" fill="#1a1a1a">Marketing</text>
+<rect x="300" y="674.5" width="50.0" height="51.5" fill="#2E6DB4"/>
+<text x="362.0" y="708.3" font-size="22" fill="#1a1a1a">$1,250 (2%)</text>
+<text x="284" y="791.4" font-size="24" text-anchor="end" fill="#1a1a1a">Equipment repairs</text>
+<rect x="300" y="757.7" width="34.4" height="51.5" fill="#2E6DB4"/>
+<text x="346.4" y="791.4" font-size="22" fill="#1a1a1a">$860 (1%)</text>
+<text x="60" y="975" font-size="22" fill="#444">Module 4 practice set. Percentages are rounded to the nearest whole number.</text>
+</svg>

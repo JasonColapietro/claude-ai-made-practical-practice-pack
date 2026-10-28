@@ -1,0 +1,81 @@
+WORKFLOW 7 ANSWER KEY: COMPARE TWO VERSIONS
+Files: wf07-input-contract-v1.txt (sent by Marcus to Bramblewood Pottery Studio, October 19, 2026) and wf07-input-contract-v2.txt (returned by the client, October 26, 2026).
+Built from a line-by-line diff of the two files. Dollar figures computed with python3.
+
+A good result reports all 16 meaningful changes below, labels the cosmetic changes as cosmetic, and says the unchanged sections did not change. It must not report a change that is not on this list.
+
+MEANINGFUL CHANGES (v1 -> v2)
+
+1. Section 2.1, page count. v1: 7 pages. v2: 8 pages; "Private Events" page added. Project Fee not raised. (Section 6.1, unchanged, still prices the job as a 6-page redesign plus ONE additional page at $300. At that rate the eighth page would add another $300, for $4,650.)
+
+2. Section 2.6 (new in v2), blog migration. v2 adds: build a blog section and move the 12 existing blog posts, with photos. v1 listed "migration of blog posts or other content from the current site" as NOT included (v1 Section 2.6). v2 removes that item from the exclusions list (now Section 2.7). Project Fee not raised.
+
+3. Section 3.4, launch date. v1: "target launch date" of January 22, 2027, "provided Client meets the feedback deadlines"; date moves back if client is late. v2: firm launch date of January 22, 2027; Designer credits Client 5% of the Project Fee for each full week of delay. 5% of $4,350 = $217.50 per week. The protection for client delays is gone.
+
+4. Section 4.2, client feedback time. v1: 5 business days. v2: 10 business days. (Small number change inside a sentence. This is the one most often missed.)
+
+5. Section 4.4, pause clause. v1: project pauses if client is more than 15 business days late; Designer sets a new timeline. v2: clause deleted.
+
+6. Section 5.1, revision rounds. v1: two (2) rounds on page designs. v2: three (3) rounds. Working-site round unchanged at one (1).
+
+7. Section 5.2 (v1), definition of a "round." v1 defines a round as one consolidated list; separate emails on different days count as separate rounds. v2: definition deleted. (v1 5.3 becomes v2 5.2; the $90/hour text itself is unchanged.)
+
+8. Section 6.2, payment schedule. v1: 50% ($2,175) deposit at signing, 25% ($1,087.50) at design approval, 25% ($1,087.50) at launch. v2: 25% ($1,087.50) deposit, 25% ($1,087.50) at design approval, 50% ($2,175) at launch. Total still $4,350. Money received before launch: v1 $3,262.50, v2 $2,175.00. Item (b) is unchanged.
+
+9. Section 6.3, invoice terms. v1: net 15. v2: net 45. Combined with change 8, half the fee ($2,175) may arrive up to 45 days after launch.
+
+10. Section 6.4, late fee. v1: 1.5% per month on balances more than 30 days overdue. v2: late fee sentence deleted. The right to pause work when an invoice is more than 30 days overdue remains.
+
+11. Section 8.2, post-launch support. v1: 30 days, bug fixes only, content updates excluded. v2: 90 days, bug fixes plus "minor content updates requested by Client." "Minor" is not defined. (8.3, the optional $85 care plan, is unchanged.)
+
+12. Section 9.1, ownership. v1: client owns the design "upon receipt of full payment of the Project Fee and any approved expenses." v2: "upon delivery of each deliverable." Marcus loses ownership as leverage for payment.
+
+13. Portfolio Use (v1 Section 10, v2 Section 11). Portfolio display rights unchanged. v1 10.2: footer credit link "Site by Marcus Lee Design," removable by client after 12 months. v2 11.2: "No credit link or designer name will appear on Client's site."
+
+14. Section 12, termination. 12.1 notice: v1 fourteen (14) days, v2 seven (7) days. 12.2: v1 client pays for all work completed and "The deposit is non-refundable." v2 client pays for completed work at $90 per hour, less amounts already paid; the non-refundable deposit sentence is deleted.
+
+15. Section 14.1, indemnification. v1: mutual; each party covers claims from the materials it provided. v2: one-sided; Designer covers "any third-party claim arising from the website, including its design, code and content" (which includes Client Materials such as class prices and studio safety rules).
+
+16. Section 16.1, governing law. v1: state of Designer's principal place of business. v2: state of Client's principal place of business.
+
+(Changes 1 and 2 may be grouped as "scope," 8 and 9 as "payment," and 14 may be split in two. Count as complete if every item is present.)
+
+COSMETIC CHANGES (no change in meaning)
+C1. Confidentiality and Portfolio Use swapped order. Confidentiality is now Section 10, Portfolio Use is Section 11. Section 12.4 updated its cross-reference from 11 to 10 to match.
+C2. Confidentiality: "shall" changed to "will" three times. Text otherwise identical.
+C3. Header line changed from "Version 1. Sent by Designer..." to "Version 2. Returned by Client...".
+
+UNCHANGED SECTIONS
+1 (Parties and Effective Date), 7 (Expenses), 13 (Warranties and Limitation of Liability), 15 (Independent Contractor), 17 (Entire Agreement). Also unchanged: 2.2 to 2.5 (including the 1-hour training call), 3.1 to 3.3 (start date November 30, 2026), 4.1, 4.3, the working-site revision round, the $90 hourly rate, 6.1 ($4,350 and its breakdown), 6.2(b), 6.5, 6.6, 8.1, 8.3, 9.2, 9.3, 12.3, 16.2.
+
+ERRORS TO WATCH FOR IN CLAUDE'S RESULT
+- Missing change 4 (5 to 10 business days) or change 10 (late fee deletion).
+- Reporting the swapped Sections 10 and 11 as new or deleted content.
+- Saying the hourly rate changed (it did not; $90 in both).
+- Saying the Project Fee changed (it did not; $4,350 in both).
+
+========================================================
+TRANSFER ANSWER KEY: PTO POLICY (wf07-transfer-pto-policy-old.txt vs wf07-transfer-pto-policy-new.txt)
+Accrual figures computed with python3: 4.62 x 26 pay periods = 120.12 hours; 6.15 x 26 = 159.9 hours.
+
+MEANINGFUL CHANGES
+1. Header: effective date January 1, 2025 -> January 1, 2027.
+2. 1.1: PTO no longer covers sick days. Sick time is separate (new Section 5).
+3. 2.2: waiting period before using PTO 60 days -> 90 days.
+4. 3.1: one accrual rate (4.62 hours per pay period, about 120 hours a year) -> two tiers by service: under 3 years 4.62 (about 120 hours); 3 or more years 6.15 (about 160 hours, 20 days).
+5. 3.2: part-time "in proportion... at the same rate as full-time" -> 1 hour of PTO per 30 hours worked. (Whether this is more or less than before cannot be determined from the files, because the old rate per hour worked is not stated.)
+6. 4.2: notice for 3 or more consecutive days 2 weeks -> 3 weeks.
+7. 4.3: requests of 5 or more consecutive days now also need Operations Coordinator approval.
+8. 4.5 (new): December 15 to 31, at most two team members per clinic off per day; requests received by October 1 reviewed together.
+9. 5.1 (new): 24 hours of paid sick time each January 1, prorated for new hires, no carryover, no payout.
+10. 5.2: call-in time 1 hour -> 2 hours before shift; text message now allowed (old policy said a text was not enough).
+11. 5.3: unplanned absences use sick time first, then PTO (old: PTO only).
+12. 6.1: carryover cap 40 hours -> 24 hours.
+13. 8.1: payout at resignation, all unused PTO -> capped at 40 hours.
+
+COSMETIC
+- "employees" / "employee's" changed to "team members" / "team member's" throughout.
+- Section 5 heading "UNPLANNED ABSENCES" -> "SICK TIME AND UNPLANNED ABSENCES"; old 5.3 is now 5.4 with the same wording.
+
+UNCHANGED
+2.1, 3.3, 4.1, 4.4, 5.4 (old 5.3, provider note after 3 sick days), Section 7 (six holidays, substitute day), 8.2, 9.1.

@@ -1,0 +1,22 @@
+[Transfer test: one run of the "Sunday study check-in" prompt from wf24-transfer-prompt.txt, with wf24-transfer-study-plan.txt pasted in place of the last line, as it would run on Sunday, November 8, 2026.]
+
+Sunday study check-in: Monday, Nov 9 to Sunday, Nov 15, 2026
+
+What's due
+- Tuesday, Nov 10: Quiz 2 on chapters 5, 6 and 7, at the start of class, in person. (The announcement says this is not moved.)
+- Sunday, Nov 15: Discussion post 8, 250 words, by 11:59 p.m. online.
+
+Practice Set 8 is no longer due this week. The Nov 6 announcement moved it to Tuesday, Nov 17, at the start of class.
+
+Class topics
+- Tuesday, Nov 10 and Thursday, Nov 12, 6:30 to 9:00 p.m., Room 114: Chapter 8, the adjusted trial balance and financial statements.
+
+Practice questions (chapter 8)
+1. After adjusting entries are posted, what does the adjusted trial balance show, and why is it prepared before the financial statements?
+2. Which financial statement is prepared first from the adjusted trial balance, and why does the next statement depend on it?
+3. An adjusted trial balance shows Service Revenue $9,000, Rent Expense $1,200, Wages Expense $3,000 and Supplies Expense $300. What is net income?
+
+Answers
+1. It lists every account balance after the adjustments, and total debits should equal total credits. It's prepared first so the statements use up-to-date balances.
+2. The income statement. Its net income (or loss) flows into the statement of owner's equity, which then feeds the balance sheet.
+3. $9,000 minus $4,500 in expenses = $4,500 net income.

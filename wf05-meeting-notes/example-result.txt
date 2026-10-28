@@ -1,0 +1,89 @@
+November clinic managers meeting, 11/12: recap
+
+Present: Dr. Hart, Tom, Angela (video), Marisol (for Kevin), Priya. Kevin was not there for any of it. Dr. Hart left at 8:46, before items 5 to 7.
+
+1. Decisions
+
+- Kestrel cleaning: shop around and get 2 more quotes. (#1)
+- Kestrel non-renewal notice: do not send it yet. This changed during the meeting (see Open questions). Conditional: wait for the 2 quotes, then make the final call by 11/25 so there is still time before the 12/1 notice deadline. If we go that way, Dr. Hart will sign the letter. (#1)
+- Holiday hours: all 3 clinics closed Thanksgiving and the day after. All clinics close at noon on Dec 24. On Dec 31, Dublin and Westerville close at 3. (#2)
+- Grove City on Dec 31: open until 5. Conditional: Marisol thinks Kevin wanted to stay open the full day. Confirm with Kevin. (#2)
+- Westerville coverage: Grove City lends Nikki on Tuesday and Thursday mornings starting 12/1. Angela covers Monday 11/30 herself. Kevin was not there to agree to lending his staff; Marisol spoke for Grove City. (#3)
+- Westerville job: post it this week. (#3)
+- Temp agency: approved by Dr. Hart. Conditional: only if there is no hire by 1/15. (#3)
+- Snow removal: switch to Frost Line Snow Removal this winter ($85 a visit vs. $110 now). Conditional: Dr. Hart said yes in principle but wants to see the contract first. (#4)
+- Late openings: Dr. Hart makes the call by 6 a.m. and texts the managers. Managers text their staff. (#4)
+- Supply ordering: one order a month, placed on the first business day. Try it in December and January, then look at it again in February. Made after Dr. Hart left. Kevin was also not there. (#5)
+- Shared calendar: moved to the December meeting. Made after Dr. Hart left. (#6)
+- New-patient FAQ binder: moved to the December meeting. Made after Dr. Hart left. (#7)
+
+2. Tasks
+
+| Task | Owner | Due date | Notes item |
+|---|---|---|---|
+| Get 2 more cleaning quotes | Tom | 11/24 | #1 |
+| Make the final call on sending the Kestrel non-renewal notice | No owner | 11/25 | #1 |
+| Draft the non-renewal letter so it is ready | Priya | None given | #1 |
+| Sign the non-renewal letter, if we go that way | Dr. Hart | None given | #1 |
+| Check what kind of notice the contract requires (certified mail?) | Priya | None given | #1 |
+| Ask Kevin how Kestrel has done at Grove City | Marisol | None given | #1 |
+| Tell patients the holiday hours | Front desks (no person named) | 11/20 | #2 |
+| Update the holiday phone message template (October item) | Angela | 11/16 | #2 |
+| Confirm Grove City's Dec 31 hours with Kevin | No owner | None given | #2 |
+| Cover the Westerville front desk on Monday 11/30 | Angela | 11/30 | #3 |
+| Cover Westerville on Tuesday and Thursday mornings | Nikki (lent by Grove City) | Starting 12/1 | #3 |
+| Write the Westerville job posting | Angela | this week (confirm) | #3 |
+| Post the job on the job sites | Priya | this week (confirm) | #3 |
+| Send Dr. Hart the Frost Line contract | Tom | end of month (confirm) | #4 |
+| Place the monthly supply order | No owner | First business day of each month, December and January | #5 |
+| Look again at the monthly ordering trial | No owner | February (confirm) | #5 |
+| Look into why Grove City spends the most on paper goods | No owner | None given | #5 |
+
+3. Open questions
+
+- Changed during the meeting: Dr. Hart first wanted to send Kestrel the non-renewal notice now, to be safe. The group then decided not to send it yet. Anyone who remembers the first version should hear the final one.
+- Grove City badge reader (October item): status unknown. Marisol didn't know. Kevin is the owner.
+- Who makes the final Kestrel call by 11/25? The notes say "final call by 11/25" but not whose call it is.
+- What kind of notice does the Kestrel contract need? Priya is checking, but if it is certified mail, that affects how early the letter has to go out before 12/1.
+- Grove City's Dec 31 hours are not settled. The notes say open until 5, but Kevin may want the full day. Front desks need the answer before they tell patients by 11/20.
+- The name of the person Grove City is lending changed during the meeting ("Nicole? no, Nikki"). Worth confirming before you put it in writing.
+- Westerville coverage after 12/1: Nikki covers Tuesday and Thursday mornings only. The notes don't say who covers the other days or the afternoons.
+- Did Kevin agree to lend Nikki? He wasn't at the meeting.
+- Grove City's view on Kestrel is missing. Marisol knew of no issues and will ask Kevin.
+- Supply ordering, the shared calendar move and the FAQ move were decided after Dr. Hart left at 8:46. She may need to hear about them.
+- "Someone should look at" Grove City's paper goods spending. No one took it.
+- Who places the monthly supply order? The notes give the day but not the person.
+
+----- Follow-up turn (followup-prompt.txt) -----
+
+Subject: Recap: November clinic managers meeting, 11/12
+
+Hi all,
+
+Decisions
+- Cleaning: we'll get 2 more quotes and hold the Kestrel non-renewal notice for now. Final call by 11/25.
+- Holiday hours: closed Thanksgiving and the day after. Close at noon Dec 24. Dublin and Westerville close at 3 on Dec 31. Grove City open until 5 (confirm with Kevin).
+- Westerville: Nikki covers Tuesday and Thursday mornings from 12/1. Temp agency if no hire by 1/15.
+- Snow: Frost Line, once Dr. Hart has seen the contract. Dr. Hart makes late-opening calls by 6 a.m.
+- Supplies: one monthly order on the first business day, as a December and January trial.
+- Shared calendar and FAQ binder move to December.
+
+Tasks
+Tom: 2 cleaning quotes by 11/24. Frost Line contract to Dr. Hart by end of month (confirm).
+Angela: phone message template by 11/16. Job posting this week (confirm). Cover the front desk 11/30.
+Priya: draft the non-renewal letter. Check what notice the contract requires. Post the job this week (confirm).
+Marisol: ask Kevin about Kestrel at Grove City.
+Dr. Hart: sign the non-renewal letter if needed.
+Front desks: tell patients the holiday hours by 11/20.
+
+Who can take these?
+- Confirm Grove City's Dec 31 hours with Kevin
+- Final Kestrel call by 11/25
+- Place the monthly supply order
+- Review the ordering trial in February (confirm)
+- Look into Grove City's paper-goods spending
+- Cover Westerville on other days and afternoons after 12/1
+- Grove City badge reader status
+
+Thanks,
+Priya

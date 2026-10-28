@@ -1,0 +1,15 @@
+I uploaded [DOCUMENT: our cleaning services agreement with Kestrel Commercial Cleaning]. Summarize it for [READER: our clinic director], who has to decide [DECISION: whether to renew it or look for a new vendor].
+
+Use only the uploaded document. After every point, put the section number it comes from in brackets, like [Section 4.2]. If you cannot point to a section, leave the point out.
+
+Shape:
+1. Overview: five lines covering who, what, how long, how much, and how it ends.
+2. Key dates and deadlines: a table with Date or deadline, What happens, Section.
+3. Money: every fee, charge and credit, with amounts, in a table.
+4. What we must do and what [OTHER PARTY: the vendor] must do, as two short lists.
+5. Things to watch: terms that could cost us money or catch us by surprise.
+6. Problems in the document: sections that conflict with each other, or that refer to a section that does not exist. Quote the exact words.
+
+Keep it to about one page. Use plain English. If you use a legal term, explain it in a few words.
+
+Check: Do not give legal advice. If a point needs a lawyer's opinion, say so in one line. If the document does not answer something a reader would expect, such as a start date or a price, say "Not stated."

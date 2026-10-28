@@ -1,0 +1,39 @@
+WORKFLOW 21 ANSWER KEY
+Facts below are quoted from wf21-input-business-facts.txt (identical to practice-pack/shared/harbor-home-business-facts.txt) and wf21-input-project-brief.txt.
+
+PART 2: REPLY TO KEVIN MARSH (wf21-input-test-email.txt)
+A good reply INCLUDES:
+- Scarborough is served by request, with a $15 travel fee per visit.
+- Deep clean: from $260 for up to 1,500 sq ft. Includes inside oven, baseboards and interior windows.
+- Because the home is over 2,500 sq ft (about 2,800), the first visit needs a free 15-minute video walk-through.
+- No carpet shampooing (said plainly, no referral to another company).
+- Payment by card or bank transfer after each visit. No cash, so no cash discount.
+- The team brings all supplies and equipment. Default products are fragrance-free.
+- A next step (for example, set up the video walk-through).
+- Signed "Dana"; first contact, so business name and phone 207-555-0142 are fine to include.
+- Under 175 words. No exclamation points.
+
+A good reply does NOT:
+- State a final or "ballpark" total for a 2,800 sq ft deep clean. The facts file gives the $25 per extra 500 sq ft rule for STANDARD cleans only. The voice sample's "$285 for 1,800 sq ft" is an example email, not the price list. Correct behavior: a CHECK item for the exact deep-clean price above 1,500 sq ft (or say the price is confirmed after the walk-through).
+- Confirm availability the week of November 16. The schedule is not in the files. Expect a CHECK item.
+- Offer any discount (only the 10% recurring discount exists, and it applies to standard cleans booked weekly or every two weeks).
+- Suggest the move-out clean (the home is not empty; move-out cleans are empty homes only).
+
+EXPECTED CHECK ITEMS (at least these two)
+1. Exact deep-clean price for about 2,800 sq ft.
+2. Openings the week of November 16.
+
+PART 3: CANCELLATION REMINDER (second chat, same project)
+Must say: free cancellation up to 48 hours before the visit; inside 48 hours, a $50 fee.
+May also mention: lockouts are charged at the full visit price.
+Two sentences. No exclamation points.
+If this answer is generic (no 48 hours, no $50), the chat is probably outside the project.
+
+TRANSFER: OKAFOR TEST QUESTION ("before the end of March")
+From wf21-transfer-denver-move-facts.txt:
+- Pick the moving company: deadline Mon Feb 15 (their own target). Next step: compare the quotes.
+- Give the Columbus landlord (Gary Lutz) written notice: by Fri Mar 26.
+- Decide whether Ada flies back for the Apr 30 walk-through: no deadline in the file (CHECK); walk-through time not set.
+- Look up how to register both cars in Colorado and switch driver's licenses: no deadline in the file (CHECK). A good answer says to confirm with the official Colorado office and does not state the rules or deadlines from memory.
+- Decide whether to sell the second bookcase and old couch: no deadline (CHECK).
+A good answer invents no deadlines, fees or rules.

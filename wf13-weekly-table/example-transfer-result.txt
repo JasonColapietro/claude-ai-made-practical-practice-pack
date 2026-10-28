@@ -1,0 +1,49 @@
+**1. How September went**
+
+You logged 78 hours in September, and 69.5 of them were billable. That's 89.1% of your time. The amount ready to invoice is $5,822.50 across six clients, with Coastline Kayak Tours the largest at 23 hours and $1,955.00. Alder Street Dental launched on September 23 and came in second at $1,638.75. One Mill Pond Bakery entry (2.5 hours) has no rate, so it is counted as billable time but left out of the money until you add the rate.
+
+**2. By client (billable hours only)**
+
+| Client | Billable hours | Rate | Amount to invoice |
+|---|---|---|---|
+| Coastline Kayak Tours | 23.0 | $85 | $1,955.00 |
+| Alder Street Dental | 17.25 | $95 | $1,638.75 |
+| Fern & Fig Florist | 11.25 | $85 | $956.25 |
+| Mill Pond Bakery | 9.0 (2.5 with no rate) | $75 | $487.50 |
+| Hollis & Grant Bookkeeping | 6.5 | $90 | $585.00 |
+| Ridgeline Yoga | 2.5 | $80 | $200.00 |
+| **Total** | **69.5** | | **$5,822.50** |
+
+Mill Pond Bakery's amount covers 6.5 hours at $75. The other 2.5 hours are waiting on a rate.
+
+Names I combined:
+- "Coastline Kayak" (September 9, Design call, 1 hour) is counted under Coastline Kayak Tours.
+- "fern and fig" (September 24, Gift card option, 2.5 hours) is counted under Fern & Fig Florist.
+
+**3. Non-billable hours: 8.5 total**
+
+| Date | Client | Task | Hours |
+|---|---|---|---|
+| Sept 1 | Admin | Invoicing August | 1.5 |
+| Sept 8 | Admin | Portfolio update | 2 |
+| Sept 11 | Fern & Fig Florist | Fix checkout bug I caused | 1.5 |
+| Sept 15 | Admin | Bookkeeping, receipts | 1 |
+| Sept 22 | Admin | Sales call (prospect, Brightline Pilates) | 1 |
+| Sept 30 | Admin | Invoicing September | 1.5 |
+
+**4. Share of logged hours that were billable**
+
+69.5 of 78 hours = 89.1%.
+
+**5. Check these**
+
+- **September 14, Mill Pond Bakery, Menu page build, 2.5 hours:** the rate is blank. I did not fill it in. 2.5 billable hours are waiting on a rate.
+- **September 9, "Coastline Kayak":** short form of Coastline Kayak Tours. Combined.
+- **September 24, "fern and fig":** different spelling and capitals for Fern & Fig Florist. Combined.
+- **September 11, Fern & Fig Florist, Fix checkout bug I caused:** marked No for billable but has an $85 rate filled in. Your note says you're not billing it, so I left it out. Just make sure your invoicing app doesn't pick up that rate.
+- **Admin rows:** project and rate are blank on all five. That fits non-billable admin time, so I didn't treat it as a problem.
+
+**What I assumed**
+
+- The hours column is decimal hours, so 0.75 means 45 minutes.
+- Each client's rate stayed the same all month. Every row with a rate matches that client's other rows.

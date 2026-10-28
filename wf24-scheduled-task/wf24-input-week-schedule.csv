@@ -1,0 +1,27 @@
+job_id,date,day,start,est_hours,client,town,service,sq_ft,frequency,first_visit,crew,notes
+H-1101,11/02/2026,Mon,9:00 AM,3.0,"Alvarez, M.",Portland,Standard,1200,Weekly,no,Sarah + Ben,
+H-1102,11/02/2026,Mon,9:00 AM,3.0,"Harmon, J.",South Portland,Standard,1600,Every 2 weeks,no,Kelly + Jess,
+H-1103,11/02/2026,Mon,9:00 AM,5.0,"Whitfield, J.",Cape Elizabeth,Deep,2800,One-time,yes,Aisha + Tomas,"new client, booked by phone 10/30"
+H-1104,11/02/2026,Mon,1:00 PM,2.5,"Pruitt, L.",Westbrook,Standard,1100,One-time,no,Sarah + Ben,
+H-1105,11/02/2026,Mon,6:00 PM,2.5,Dunlap Insurance,Portland,Small office,,Weekly,no,Miguel + Jess,
+H-1106,11/03/2026,Tue,9:00 AM,3.0,"Ito, K.",Falmouth,Standard,1600,Weekly,no,Sarah + Miguel,
+H-1107,11/03/2026,Tue,9:00 AM,4.0,"Rowe, A.",Portland,Deep,1400,One-time,no,Kelly + Jess,pet-safe products
+H-1108,11/03/2026,Tue,11:00 AM,3.0,"Hughes, D.",Scarborough,Standard,1500,One-time,no,Ben + Kelly,
+H-1109,11/03/2026,Tue,1:00 PM,2.5,"Brennan, C.",Portland,Standard,1100,Every 2 weeks,no,Sarah + Miguel,
+H-1110,11/03/2026,Tue,1:00 PM,5.0,"Garrison, P.",Portland,Move-out,2700,One-time,yes,Aisha + Tomas,"video walk-through done 10/29, empty unit"
+H-1111,11/03/2026,Tue,6:00 PM,2.0,Casco Tax Services,Portland,Small office,,Weekly,no,Aisha + Tomas,
+H-1112,11/04/2026,Wed,9:00 AM,2.5,"Lindqvist, E.",Portland,Standard,900,Weekly,no,Sarah + Ben,
+H-1113,11/04/2026,Wed,9:00 AM,4.5,"Pratt, N.",Peaks Island,Standard,1300,One-time,yes,Kelly + Jess,ferry at 8:15
+H-1114,11/04/2026,Wed,9:00 AM,4.0,"Daley, R.",South Portland,Move-out,1300,One-time,no,Aisha + Tomas,empty unit
+H-1115,11/04/2026,Wed,9:00 AM,5.0,"Quinlan, J.",Westbrook,Deep,1700,One-time,no,,"Miguel out Wed + Thu, needs cover"
+H-1116,11/04/2026,Wed,1:00 PM,2.5,"Hale, P.",Portland,Standard,1500,Every 2 weeks,no,Sarah + Ben,"lockbox code changed, see office"
+H-1117,11/04/2026,Wed,1:00 PM,2.0,"Ortiz, F.",Portland,Standard,800,Every 2 weeks,no,Aisha + Tomas,
+H-1118,11/05/2026,Thu,8:30 AM,4.0,"Lowry, D.",South Portland,Standard,1600,One-time,no,Sarah + Dana,"Miguel out, Dana covering"
+H-1119,11/05/2026,Thu,9:00 AM,2.5,"Tran, Q.",Portland,Standard,1200,Weekly,no,Ben + Tomas,
+H-1120,11/05/2026,Thu,9:00 AM,3.5,"Russo, G.",Yarmouth,Standard,1300,One-time,no,Kelly + Jess,
+H-1121,11/05/2026,Thu,1:00 PM,3.0,"Keane, M.",Westbrook,Standard,1800,One-time,yes,,booked Wed from web form
+H-1122,11/05/2026,Thu,4:30 PM,2.5,Back Cove Chiropractic,Portland,Small office,,One-time,yes,Jess + Aisha,"after walk-through 10/27, quoted $165"
+H-1123,11/06/2026,Fri,9:00 AM,3.0,"Young, A.",Cape Elizabeth,Standard,1800,Weekly,no,Sarah + Jess,
+H-1124,11/06/2026,Fri,9:00 AM,2.5,"Price, H.",Westbrook,Standard,1000,Every 2 weeks,no,Kelly + Aisha,
+H-1125,11/06/2026,Fri,9:00 AM,5.0,"Marsh, H.",Cape Elizabeth,Deep,2000,One-time,yes,Miguel + Tomas,inside fridge; pet-safe products (cat)
+H-1126,11/06/2026,Fri,1:00 PM,3.0,"Vu, T.",Falmouth,Standard,1400,One-time,no,Sarah + Jess,

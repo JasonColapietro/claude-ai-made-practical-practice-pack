@@ -1,0 +1,60 @@
+WORKFLOW 20 ANSWER KEY
+Times and totals below were computed with a short script (editorial/calc/wf20-calc.py and wf20-transfer-calc.py) from the practice files. A good plan can place study blocks in many valid ways. Use this key to check the fixed items, the conflict, the deadlines and the totals.
+
+FIXED ITEMS (must match the notes exactly)
+Mon Nov 2   Shift 9:00 am to 3:00 pm (bus 8:40 to 9:00 and 3:00 to 3:20)
+Tue Nov 3   Off work. Class 6:30 to 9:00 pm (bus 6:05 to 6:30 and 9:00 to 9:25)
+Wed Nov 4   Shift 12:00 to 8:00 pm (bus 11:40 to 12:00 and 8:00 to 8:20)
+Thu Nov 5   Shift 4:00 to 10:00 pm as POSTED. Class 6:30 to 9:00 pm. CONFLICT.
+Fri Nov 6   Shift 9:00 am to 5:00 pm. Then straight to Abuela's (about 20 min). Eye appointment 5:45, done by about 7:00.
+Sat Nov 7   Shift 10:00 am to 6:00 pm (bus 9:40 to 10:00 and 6:00 to 6:20). Jordan's dinner 7:30 is optional.
+Sun Nov 8   Off work. Lunch at Mom's 12:00 to 3:00 (not skippable).
+Posted work hours this week: 36.
+
+THE CONFLICT (must be named, not solved)
+Thursday shift 4:00 to 10:00 pm overlaps class 6:30 to 9:00 pm by 2.5 hours.
+Open questions a good plan raises: has the manager answered; does emailing Practice Set 7 count as on time (late work loses 10%); Sam must email the instructor before missing class.
+A plan that silently drops the shift or silently skips class is wrong.
+
+STUDY TASKS AND DEADLINES
+Read Chapter 7 ............ 2 h ..... must come BEFORE Practice Set 7
+Practice Set 7 ............ 3 h ..... due Thu Nov 5 at 6:30 pm (start of class)
+Discussion post ........... 0.75 h .. due Sun Nov 8, 11:59 pm
+Quiz review, Ch 5 to 7 .... 3 h ..... quiz Tue Nov 10; spread out, not all Monday night
+TOTAL STUDY NEEDED: 8.75 hours.
+With the posted Thursday shift, Thursday study must end by 3:40 pm (bus leaves for work).
+
+RULES FROM "HOW I WORK BEST" A GOOD PLAN FOLLOWS
+- No study after 10:00 pm. Sleep about 11:30 pm to 7:00 am.
+- No block longer than 2 hours.
+- Thursday: no study before 9:00 am (Wednesday shift ends 8:00 pm, a closing shift).
+- Library opens 9:00 am weekdays, 10:00 am weekends; home is loud after 3:00 pm.
+- One evening with nothing planned (Tuesday and Thursday evenings have class; Sunday evening or Monday evening are natural choices).
+- Laundry and groceries, about 2 hours, before Monday Nov 9.
+
+OPEN TIME PER DAY, 7:00 am to 10:00 pm, after fixed items and travel (meals and chores NOT subtracted)
+Mon: 7:00 to 8:40 and 3:20 to 10:00 pm ............ 8 h 20 min
+Tue: 7:00 am to 6:05 pm and 9:25 to 10:00 pm ...... 11 h 40 min
+Wed: 7:00 to 11:40 am and 8:20 to 10:00 pm ........ 6 h 20 min
+Thu (posted): 7:00 am to 3:40 pm .................. 8 h 40 min (6 h 40 min usable, 9:00 to 3:40, after the closing-shift rule)
+Fri: 7:00 to 8:40 am, 5:20 to 5:45 pm (travel to appointment, leave empty), 7:00 to 10:00 pm ... 5 h 5 min
+Sat: 7:00 to 9:40 am and 6:20 to 10:00 pm ......... 6 h 20 min
+Sun: 7:00 am to noon and 3:00 to 10:00 pm ......... 12 h
+Total open: about 58 h 25 min. The week has room; the hard part is deadlines and the Thursday conflict, not total hours.
+
+FOLLOW-UP ANSWER (manager moves Thursday to 11:00 am to 4:00 pm)
+Thursday becomes: bus 10:40 to 11:00, shift 11:00 to 4:00, bus 4:00 to 4:20, open 4:20 to 6:05, bus 6:05 to 6:30, class 6:30 to 9:00, bus 9:00 to 9:25.
+Thursday usable study: 9:00 to 10:40 am and 4:20 to 6:05 pm (plus 9:25 to 10:00 pm, too late to be useful): 4 h in total.
+The conflict is gone and should be removed from the Conflicts list. Practice Set 7 is still due at 6:30 pm Thursday.
+Weekly work hours become 35.
+Days other than Thursday should not change unless a Thursday study block had to move.
+
+TRANSFER (Dana) CHECK FACTS
+Fixed: Mon payroll by noon (about 2 h); Tue 9:00 to 9:15 video walk-through (Hendersons, Falmouth, about 2,900 sq ft); Tue 6:00 pm office walk-through (about 45 min); Thu 8:30 to 12:30 covering Miguel's clean in South Portland with Sarah; Thu 10:00 supplier call (30 min); Fri done by 3:00.
+CONFLICT: Thursday 10:00 supplier call falls inside the 8:30 to 12:30 cleaning shift (full 30-minute overlap). Must be named.
+DECISION NEEDED: who covers Miguel's Wednesday deep clean in Westbrook, decided by Monday afternoon.
+ORDER: Hendersons quote after Tuesday 9:15 am; insurance office quote after Tuesday evening (so Wednesday or later).
+Flexible work total: 8 h 5 min (quotes 90 min, callbacks 150 min, invoices 75 min, schedule 60 min, supplies 30 min, social posts 60 min, Sarah conversation 20 min).
+Fixed work total: 7 h 30 min.
+Rules: calls back every day; nothing after 6:00 pm except Tuesday's walk-through; 30 minutes' rest after the Thursday cleaning shift (no office work 12:30 to 1:00); team schedule posted by Friday noon.
+Business facts consistent with practice-pack/shared/harbor-home-business-facts.txt: office hours 8 to 5 Monday to Friday; messages returned within one business day; homes over 2,500 sq ft get a free 15-minute video walk-through; small offices quoted after a free walk-through.

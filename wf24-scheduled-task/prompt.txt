@@ -1,0 +1,22 @@
+Set up a scheduled task for me.
+Name: Monday job summary
+When: every Monday at [6:30 A.M.], [EASTERN] time
+
+Job: each run, write a short summary of this week's cleaning jobs for [HARBOR & HOME CLEANING], so I can fix problems before the crews leave. It's for me only.
+
+Material: read one file, [wf24-input-week-schedule.csv] in my [HARBOR HOME MONDAY] folder. Check every job against these rules from my business facts:
+- We serve Portland, South Portland, Westbrook, Falmouth and Cape Elizabeth.
+- Scarborough and Yarmouth jobs carry a $15 travel fee per visit.
+- No service on the islands.
+- A first visit to a home over 2,500 sq ft needs a free 15-minute video walk-through, unless the notes say it's done.
+- Small-office cleans are evenings only, after 5:30 p.m.
+
+Shape:
+1. One line per day: weekday, date, number of jobs.
+2. "Fix before 8 a.m.": each problem with job ID, client and what's wrong. A problem is a broken rule, a job with no crew, or one person on two jobs at once (start time plus est_hours).
+3. "First visits": job ID and client for each.
+Under [200] words. No other advice.
+
+Check: if a value you need is blank, list that job under "Fix before 8 a.m." instead of guessing.
+
+Limits: read only. Don't change, move, rename or delete any file. Don't draft or send messages to anyone.

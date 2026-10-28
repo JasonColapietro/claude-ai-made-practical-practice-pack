@@ -1,0 +1,46 @@
+NOTES: SHARED STAFF CALENDAR IDEA
+Priya Shah, Operations Coordinator, Northfield Physical Therapy
+For: Dr. Ellen Hart, clinic director (she asked for "one page, by end of month")
+Drafted Monday, October 26, 2026
+
+---
+
+HOW STAFF SCHEDULING WORKS NOW
+- Three clinics: Dublin, Westerville, Grove City.
+- Each clinic manager builds the next week's staff schedule in their own spreadsheet. Three different spreadsheets, three different layouts.
+- Managers email a PDF of the schedule to their staff on Friday afternoon. Sometimes Saturday.
+- Shift swaps happen by text message. The manager is supposed to update the spreadsheet after a swap. This does not always happen.
+- I combine the three schedules by hand every Monday so I can see who could float between clinics. Takes me about 2 hours. (Some weeks closer to 3.)
+- Staff in scope: front desk, PT aides, physical therapists. About 46 people across the three clinics (Dublin 18, Westerville 15, Grove City 13). Need to confirm the count with HR, these are from the September phone list.
+
+PROBLEMS (from the last two months)
+- Westerville front desk had no one scheduled on two mornings in September (Sept 14 and Sept 28). Both times a swap was made by text and never written down. A PT aide covered the desk both times.
+- Grove City was short an aide on Oct 9 while Dublin had an extra aide who could have floated. Nobody knew.
+- New hires get the PDF but often miss the Friday email.
+- Managers say building the schedule takes them "an hour or two" each week. Tom (Dublin) said closer to three.
+
+THE IDEA
+- Use the shared calendar that already comes with our email system. Each clinic gets its own staff calendar. Everyone can see all three.
+- Managers enter shifts directly in the calendar instead of a spreadsheet.
+- Swaps: staff request the swap in the calendar, the manager approves. (Need to check if our calendar can do approvals or if it's just "manager edits the shift." Raj in IT would know.)
+- Staff see their shifts on their phones.
+- STAFF SHIFTS ONLY. No patient appointments, no patient names, nothing clinical. Patient scheduling stays in our current system. Dr. Hart will ask about this first.
+
+COST
+- Raj (IT) said the calendar is "included in what we already pay for." He wasn't sure if our part-time staff have full accounts or the basic kind. Ten or so part-timers. If they need upgraded accounts, there would be a cost per person per month. Don't know the amount yet.
+- Training: I'd run a 30-minute session at each clinic. Managers might need an extra hour with me.
+
+PILOT IDEA
+- Start with Westerville only, 4 weeks, since that's where the gaps happened.
+- If it works, Dublin and Grove City after that.
+- Westerville manager (Angela) is on board. Haven't asked the other two managers yet.
+
+THINGS I DON'T KNOW YET
+- Part-time account question (above).
+- Whether the calendar can do approvals for swaps.
+- Whether staff are OK getting schedule notifications on personal phones. Some might not be. HR question?
+- What happens to the spreadsheets during the pilot. Run both side by side? That's double work for Angela.
+
+WHAT I WANT FROM DR. HART
+- Yes/no on a 4-week pilot at Westerville starting the week of Nov 16.
+- OK to spend about an hour of Raj's time setting up the calendars.

@@ -1,0 +1,51 @@
+[Claude's reply in the chat, shown beside the artifact. The artifact itself is saved as wf22-example-artifact.html in this folder.]
+
+I've built your moving checklist as an artifact: "Columbus to Denver: moving checklist." Here's what's in it and the choices I made.
+
+What it does
+- Loading day (Saturday, April 17, 2027) appears once at the top. Every relative date is calculated from one line in the code, so if the date changes, you change one value and the whole list moves.
+- 22 tasks, one row each, with a tick box, the task, the due date with its weekday, and Tunde's name on the two tasks your notes give him (hotels, car service).
+- Sorted by due date and grouped by week. "Moving week" runs Sun, Apr 11 to Mon, Apr 19 (the week before loading plus the two driving days). "After we arrive" starts Tue, Apr 20.
+- "Pick movers" starts ticked, so the top reads "1 of 22 done."
+- A "Hide finished tasks" button, and a collapsible "Key dates" list: Denver lease starts Thu, Apr 15; Zara's last day Fri, Apr 16; drive out Sun, Apr 18; arrive Tue, Apr 20; furniture window Tue, Apr 20 to Thu, Apr 22; Columbus lease ends Fri, Apr 30; Tunde starts Mon, May 3.
+- Your ticks (and the hide setting) are saved, so they'll be there when you come back. One caveat: they save for whoever is using that copy of the artifact. If you and Tunde each open it on your own devices, you'll each have your own ticks.
+
+Calculated dates
+- Request school records: Sat, Mar 6
+- Start sorting the kids' rooms: Sat, Mar 13
+- Tell Zara's teacher: Mon, Mar 15
+- Order boxes and tape: Sat, Mar 20
+- Written notice to Gary: Fri, Mar 26 (fixed, as written)
+- Book both hotels (Tunde): Sat, Mar 27
+- Mail forwarding: Sat, Apr 3
+- Call to schedule the Columbus shutoff for Sun, Apr 18: Thu, Apr 8
+- Call to set up Denver electric and internet for Tue, Apr 20: Sat, Apr 10
+- Both cars serviced (Tunde): Sat, Apr 10
+- First-night box: Thu, Apr 15
+- Return the modem: Fri, Apr 16
+- Defrost the freezer: Fri, Apr 16
+- Pick up keys: Tue, Apr 20
+- Be at the apartment for furniture: Tue, Apr 20 to Thu, Apr 22
+- Enroll the kids: Fri, Apr 23
+- Columbus house empty and cleaned: Fri, Apr 30 (fixed)
+
+Needs a date (no timing in your notes, so I didn't invent one)
+- Set the walk-through time with Gary
+- Colorado driver's licenses and car registration (your notes say "CHECK THE DEADLINES," and I haven't looked them up)
+- Find a new pediatrician in Denver
+- Ask Chidi's coach about cancelling soccer
+
+Timing I had to interpret (also listed under the checklist)
+- School records, "allow 6 weeks": dated 6 weeks before loading day. If the 6 weeks count back from enrollment instead, it could be a week later.
+- Sorting, "about 5 wks out": exactly 5 weeks before loading.
+- Zara's teacher, "by mid March": I used Mon, Mar 15. It's fixed and won't move with loading day.
+- Both utility calls, "10 days ahead": 10 days before the date each service changes (the shutoff on Apr 18, the Denver start on Apr 20), not 10 days before loading.
+- Arrival: day after loading plus 3 days of driving, which matches "arrive Denver Tuesday."
+- Furniture: 3 to 5 days after loading. The task is dated on the first day of the window.
+- Enrollment, "the Friday of our first week there": the first Friday on or after arrival.
+
+Two things worth a second look
+- The modem goes back Friday, Apr 16, but the internet stays on until Sunday. You'll likely be without home internet for loading day.
+- Your Denver lease starts Apr 15, two days before loading, so you'll be paying both rents for about two weeks. That matches your notes; I just wanted it to be visible.
+
+If you'd like, I can add a notes field on each row, or a print-friendly version for the fridge.

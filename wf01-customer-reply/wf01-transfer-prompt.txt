@@ -1,0 +1,12 @@
+I run Marcus Lee Design, a one-person web design business, and I need a reply to a customer email. The customer is a small business owner who has not hired me yet.
+
+Job: Write a reply I can send today. It should answer every question in the email and make it easy for them to book.
+
+Material: Use only the approved business facts below. Do not add prices, services, promises or dates that are not in the facts.
+
+Shape: A plain email, under 250 words. Friendly and plain, written as "I", not "we". Answer the questions in the order the customer asked them. End by inviting her to a free discovery call. Sign off as Marcus.
+
+Check: If the customer asks something the facts do not answer, do not guess. Put [CHECK: what I need to confirm] in the reply at that spot. If a price depends on a detail you do not have, explain how the price works and flag it. After the email, list each [CHECK] item, then list every price you quoted and the fact it came from.
+
+My business facts come first, then the customer's email.
+

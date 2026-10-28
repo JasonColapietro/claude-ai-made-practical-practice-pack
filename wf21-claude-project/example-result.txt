@@ -1,0 +1,40 @@
+=================================================================
+TEST 1 (new chat inside the Harbor & Home project)
+Message: "Draft a reply to this email:" followed by wf21-input-test-email.txt
+=================================================================
+
+Hi Kevin,
+
+Thanks for reaching out, and good luck with the sale. We can do a deep clean at your Scarborough home before the photographer comes.
+
+Our deep clean starts at $260 for homes up to 1,500 square feet and includes inside the oven, baseboards and interior windows. For about 2,800 square feet, the price would be CHECK: deep clean price for 2,800 sq ft. Scarborough is by request, with a $15 travel fee per visit.
+
+Because your home is over 2,500 square feet, we start with a free 15-minute video walk-through before the first visit.
+
+To your other questions: we don't shampoo carpets. We take card or bank transfer after the visit, not cash, so the price is the same either way. And our team brings all supplies, with fragrance-free products by default.
+
+For the week of November 16, CHECK: openings before the photographer arrives.
+
+Dana
+Harbor & Home Cleaning
+207-555-0142
+
+---
+CHECK items
+1. Deep clean price for about 2,800 sq ft. The facts file gives $260 for up to 1,500 sq ft only. The "$25 per extra 500 sq ft" line is for standard cleans, so I didn't apply it to a deep clean.
+2. Openings the week of November 16 (or before). The schedule isn't in the project files, so I didn't offer dates.
+
+Also worth a look before sending:
+- I left out any price for the carpet, since we don't shampoo carpets, and didn't suggest anyone else.
+- I didn't mention a discount. Cash doesn't change the price, and the 10% recurring discount only applies to standard cleans booked weekly or every two weeks.
+- Kevin's home won't be empty, which is fine for a deep clean (only move-out cleans need an empty home).
+
+
+=================================================================
+TEST 2 (a different new chat inside the same project)
+Message: "Write a two-sentence reminder for clients about our cancellation policy."
+=================================================================
+
+Just a reminder: you can cancel for free up to 48 hours before your visit. Inside 48 hours there's a $50 fee, so please call us at 207-555-0142 as early as you can if your plans change.
+
+(No CHECK items. Both facts are in the business facts file.)

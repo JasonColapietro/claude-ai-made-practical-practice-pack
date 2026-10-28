@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Denver Move Checklist</title>
+<style>
+  :root {
+    --bg: #f7f5f1; --card: #ffffff; --ink: #1f2328; --muted: #5f6670;
+    --line: #e2ddd5; --accent: #2f6f5e; --accent-soft: #e3efeb; --warn: #9a5b00; --warn-soft: #fff4e0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #171a1d; --card: #20252a; --ink: #e8eaed; --muted: #a0a7b0;
+      --line: #343b42; --accent: #6fc3a8; --accent-soft: #1f3a33; --warn: #f0b45a; --warn-soft: #3a2e1a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .top { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin-bottom: 16px; }
+  .loading { font-size: 1.1rem; font-weight: 600; }
+  .loading span { color: var(--accent); }
+  .bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-top: 10px; }
+  .count { font-weight: 600; }
+  .progress { height: 8px; background: var(--line); border-radius: 99px; overflow: hidden; margin-top: 8px; }
+  .progress div { height: 100%; background: var(--accent); width: 0; transition: width .2s; }
+  button { font: inherit; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--accent);
+    background: var(--accent-soft); color: var(--ink); cursor: pointer; }
+  details.key { margin-top: 12px; color: var(--muted); }
+  details.key ul { margin: 6px 0 0; padding-left: 18px; }
+  section { margin-top: 18px; }
+  h2 { font-size: 1rem; margin: 0 0 6px; padding: 0 2px; display: flex; justify-content: space-between; gap: 8px; }
+  h2 small { color: var(--muted); font-weight: 400; }
+  .group { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .group.nodate { border-color: var(--warn); }
+  .group.nodate h2 { color: var(--warn); }
+  label.row { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: start;
+    padding: 12px 14px; border-top: 1px solid var(--line); cursor: pointer; }
+  label.row:first-child { border-top: 0; }
+  label.row input { width: 20px; height: 20px; margin: 2px 0 0; accent-color: var(--accent); }
+  .task { min-width: 0; }
+  .who { display: inline-block; font-size: .8rem; color: var(--muted); border: 1px solid var(--line); border-radius: 99px; padding: 0 8px; margin-left: 6px; }
+  .due { color: var(--muted); font-size: .9rem; text-align: right; white-space: nowrap; }
+  .done .task { text-decoration: line-through; color: var(--muted); }
+  .hide-done label.row.done { display: none; }
+  .empty-note { padding: 12px 14px; color: var(--muted); display: none; }
+  .hide-done .group.alldone .empty-note { display: block; }
+  .notes { margin-top: 26px; background: var(--warn-soft); border-radius: 12px; padding: 14px 16px; }
+  .notes h2 { color: var(--warn); }
+  .notes ul { margin: 6px 0 0; padding-left: 18px; }
+  .notes li { margin: 4px 0; }
+  .save { font-size: .85rem; color: var(--muted); margin-top: 8px; }
+  @media (max-width: 480px) {
+    label.row { grid-template-columns: 28px 1fr; }
+    .due { grid-column: 2; text-align: left; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Columbus to Denver: moving checklist</h1>
+  <p class="sub">For Ada and Tunde. Built from Ada's master list (updated Sun Feb 14, 2027).</p>
+
+  <div class="top">
+    <div class="loading">Loading day: <span id="loadingLabel"></span></div>
+    <div class="bar">
+      <div class="count" id="count"></div>
+      <button id="toggle" type="button" aria-pressed="false">Hide finished tasks</button>
+    </div>
+    <div class="progress" aria-hidden="true"><div id="progressFill"></div></div>
+    <details class="key">
+      <summary>Key dates (from the notes)</summary>
+      <ul id="keyDates"></ul>
+    </details>
+    <div class="save" id="saveNote"></div>
+  </div>
+
+  <div id="list"></div>
+
+  <div class="notes">
+    <h2>Timing I had to interpret</h2>
+    <ul id="interpretations"></ul>
+  </div>
+</main>
+
+<script>
+// ===== Change this one date and every calculated date moves with it. =====
+const LOADING_DAY = "2027-04-17";
+// ========================================================================
+
+const DAY = 86400000;
+function parse(iso) { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); }
+const L = parse(LOADING_DAY);
+const plus = (n) => new Date(L.getTime() + n * DAY);
+const fmt = (d) => d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
+const fmtLong = (d) => d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric", timeZone: "UTC" });
+// The Friday / Thursday "before loading" and "the Friday of our first week there"
+function weekdayBefore(target, dow) { let d = new Date(L.getTime() - DAY); while (d.getUTCDay() !== dow) d = new Date(d.getTime() - DAY); return d; }
+
+const ARRIVE = plus(3);          // drive out the day after loading, 3 days of driving
+const FURN_START = plus(3), FURN_END = plus(5);
+const FIXED = {
+  notice: parse("2027-03-26"),     // fixed in the notes
+  teacher: parse("2027-03-15"),    // "mid March"
+  leaseDenver: parse("2027-04-15"),
+  leaseEnd: parse("2027-04-30"),
+  workStart: parse("2027-05-03"),
+};
+function fridayOfArrivalWeek() { let d = ARRIVE; while (d.getUTCDay() !== 5) d = new Date(d.getTime() + DAY); return d; }
+
+// who: only when the notes name a person
+const TASKS = [
+  { id: "movers", text: "Pick movers (Buckeye Cross-Country, Est. #BX-20417)", due: parse("2027-02-12"), done: true },
+  { id: "records", text: "Request school records for Chidi and Zara (school says allow 6 weeks)", due: plus(-42) },
+  { id: "sort", text: "Start sorting and donating the kids' rooms", due: plus(-35) },
+  { id: "teacher", text: "Tell Zara's teacher her last day is Fri " + fmt(weekdayBefore(L, 5)).slice(5) + ", and ask what they need from us", due: FIXED.teacher },
+  { id: "boxes", text: "Order boxes and tape", due: plus(-28) },
+  { id: "notice", text: "Give Gary (Columbus landlord) written notice", due: FIXED.notice },
+  { id: "hotels", text: "Book both hotels (Sunday and Monday nights; one in Missouri, one in Kansas, with a pool)", due: plus(-21), who: "Tunde" },
+  { id: "mail", text: "Set up mail forwarding online with the post office", due: plus(-14) },
+  { id: "shutoff", text: "Call to schedule Columbus electric and internet shutoff for " + fmt(plus(1)), due: plus(1 - 10) },
+  { id: "setup", text: "Call to set up Denver electric and internet to start " + fmt(ARRIVE), due: new Date(ARRIVE.getTime() - 10 * DAY) },
+  { id: "cars", text: "Get both cars serviced before the drive", due: plus(-7), who: "Tunde" },
+  { id: "firstnight", text: "Pack the first-night box: sheets, towels, chargers, coffee, the cat's things", due: weekdayBefore(L, 4) },
+  { id: "modem", text: "Return the internet modem to the store", due: weekdayBefore(L, 5) },
+  { id: "freezer", text: "Defrost and clean the freezer", due: plus(-1) },
+  { id: "keys", text: "Pick up the Denver apartment keys", due: ARRIVE },
+  { id: "furniture", text: "Be at the apartment for the whole furniture window (" + fmt(FURN_START) + " to " + fmt(FURN_END) + ")", due: FURN_START },
+  { id: "enroll", text: "Enroll the kids at their Denver schools", due: fridayOfArrivalWeek() },
+  { id: "clean", text: "Columbus house empty and cleaned (lease ends)", due: FIXED.leaseEnd },
+  // No timing in the notes: these go to "Needs a date"
+  { id: "walkthrough", text: "Set the walk-through time with Gary", due: null },
+  { id: "dmv", text: "Colorado driver's licenses and register both cars (check the deadlines)", due: null },
+  { id: "pediatrician", text: "Find a new pediatrician in Denver", due: null },
+  { id: "soccer", text: "Ask Chidi's coach whether to cancel soccer (season ends in May)", due: null },
+];
+
+const KEY_DATES = [
+  ["Denver lease starts", FIXED.leaseDenver],
+  ["Zara's last day of school", weekdayBefore(L, 5)],
+  ["Loading day (crew arrives)", L],
+  ["Drive out (2 hotel nights)", plus(1)],
+  ["Arrive in Denver", ARRIVE],
+  ["Furniture window", null, fmt(FURN_START) + " to " + fmt(FURN_END)],
+  ["Columbus lease ends", FIXED.leaseEnd],
+  ["Tunde starts at the Denver office", FIXED.workStart],
+];
+
+const INTERPRETATIONS = [
+  "School records, \"allow 6 weeks\": I dated the request 6 weeks before loading day (" + fmt(plus(-42)) + "). If the 6 weeks count back from enrollment, it could be a week later.",
+  "Sorting the kids' rooms, \"about 5 wks out\": exactly 5 weeks before loading (" + fmt(plus(-35)) + ").",
+  "Telling Zara's teacher, \"by mid March\": I used " + fmt(FIXED.teacher) + ". This one is fixed, so it will not move if loading day changes.",
+  "Columbus shutoff, \"call them 10 days ahead\": 10 days before the shutoff date (" + fmt(plus(1)) + "), so " + fmt(plus(-9)) + ".",
+  "Denver setup, \"also 10 days ahead\": 10 days before the day you arrive (" + fmt(ARRIVE) + "), so " + fmt(new Date(ARRIVE.getTime() - 10 * DAY)) + ".",
+  "Arrival day: you leave the day after loading and drive 3 days, so I counted arrival as loading day plus 3 (" + fmt(ARRIVE) + "), which matches \"arrive Denver Tuesday\".",
+  "Furniture window, \"3 to 5 days after loading\": " + fmt(FURN_START) + " to " + fmt(FURN_END) + ". The task is dated on the first day.",
+  "Enrollment, \"by the Friday of our first week there\": the first Friday on or after arrival (" + fmt(fridayOfArrivalWeek()) + ").",
+  "\"House empty and cleaned\" by the lease end is a fixed date (" + fmt(FIXED.leaseEnd) + "), not calculated from loading day.",
+  "Worth a look: the notes return the modem the Friday before loading but keep the internet on until the day after. You may be without internet for a day or two.",
+];
+
+// ----- Saving ticks -----
+const STORE_KEY = "okafor-denver-move-ticks-v1";
+let ticks = {};
+TASKS.forEach(t => { if (t.done) ticks[t.id] = true; });
+let hideDone = false;
+const saveNote = document.getElementById("saveNote");
+
+async function loadState() {
+  try {
+    if (window.storage && window.storage.get) {
+      const r = await window.storage.get(STORE_KEY);
+      if (r && r.value) return JSON.parse(r.value);
+    }
+  } catch (e) { /* not stored yet, or storage unavailable */ }
+  try { const raw = localStorage.getItem(STORE_KEY); if (raw) return JSON.parse(raw); } catch (e) {}
+  return null;
+}
+async function saveState() {
+  const data = JSON.stringify({ ticks, hideDone });
+  let ok = false;
+  try { if (window.storage && window.storage.set) { await window.storage.set(STORE_KEY, data); ok = true; } } catch (e) {}
+  try { localStorage.setItem(STORE_KEY, data); ok = true; } catch (e) {}
+  saveNote.textContent = ok ? "Your ticks are saved on this device." : "Saving isn't available here, so ticks reset when you close the page.";
+}
+
+// ----- Grouping -----
+const MOVING_WEEK_START = new Date(L.getTime() - 6 * DAY); // the Sunday before a Saturday loading day
+function mondayOf(d) { const dow = (d.getUTCDay() + 6) % 7; return new Date(d.getTime() - dow * DAY); }
+function groupFor(t) {
+  if (!t.due) return { key: "zz-nodate", title: "Needs a date", cls: "nodate" };
+  if (t.due >= ARRIVE) return { key: "y-after", title: "After we arrive", note: "from " + fmt(ARRIVE) };
+  if (t.due >= MOVING_WEEK_START) return { key: "x-moving", title: "Moving week", note: fmt(MOVING_WEEK_START) + " to " + fmt(plus(2)) };
+  const m = mondayOf(t.due);
+  return { key: "w-" + m.toISOString().slice(0, 10), title: "Week of " + fmt(m) };
+}
+
+function render() {
+  document.getElementById("loadingLabel").textContent = fmtLong(L);
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  list.classList.toggle("hide-done", hideDone);
+  const sorted = [...TASKS].sort((a, b) => (a.due ? a.due.getTime() : Infinity) - (b.due ? b.due.getTime() : Infinity));
+  const groups = new Map();
+  sorted.forEach(t => { const g = groupFor(t); if (!groups.has(g.key)) groups.set(g.key, { ...g, items: [] }); groups.get(g.key).items.push(t); });
+  [...groups.values()].sort((a, b) => a.key.localeCompare(b.key)).forEach(g => {
+    const sec = document.createElement("section");
+    const h = document.createElement("h2");
+    h.innerHTML = "<span></span><small></small>";
+    h.firstChild.textContent = g.title; h.lastChild.textContent = g.note || "";
+    const box = document.createElement("div");
+    box.className = "group " + (g.cls || "");
+    if (g.items.every(t => ticks[t.id])) box.classList.add("alldone");
+    g.items.forEach(t => {
+      const row = document.createElement("label");
+      row.className = "row" + (ticks[t.id] ? " done" : "");
+      const cb = document.createElement("input");
+      cb.type = "checkbox"; cb.checked = !!ticks[t.id];
+      cb.addEventListener("change", () => { ticks[t.id] = cb.checked; saveState(); render(); });
+      const task = document.createElement("div"); task.className = "task"; task.textContent = t.text;
+      if (t.who) { const w = document.createElement("span"); w.className = "who"; w.textContent = t.who; task.appendChild(w); }
+      const due = document.createElement("div"); due.className = "due"; due.textContent = t.due ? fmt(t.due) : "No date yet";
+      row.append(cb, task, due);
+      box.appendChild(row);
+    });
+    const empty = document.createElement("div"); empty.className = "empty-note"; empty.textContent = "All done here.";
+    box.appendChild(empty);
+    sec.append(h, box);
+    list.appendChild(sec);
+  });
+  const doneCount = TASKS.filter(t => ticks[t.id]).length;
+  document.getElementById("count").textContent = doneCount + " of " + TASKS.length + " done";
+  document.getElementById("progressFill").style.width = (100 * doneCount / TASKS.length) + "%";
+  const btn = document.getElementById("toggle");
+  btn.textContent = hideDone ? "Show finished tasks" : "Hide finished tasks";
+  btn.setAttribute("aria-pressed", String(hideDone));
+}
+
+document.getElementById("toggle").addEventListener("click", () => { hideDone = !hideDone; saveState(); render(); });
+
+const keyUl = document.getElementById("keyDates");
+KEY_DATES.forEach(([label, d, text]) => { const li = document.createElement("li"); li.textContent = label + ": " + (text || fmt(d)); keyUl.appendChild(li); });
+const intUl = document.getElementById("interpretations");
+INTERPRETATIONS.forEach(s => { const li = document.createElement("li"); li.textContent = s; intUl.appendChild(li); });
+
+(async () => {
+  const saved = await loadState();
+  if (saved) { ticks = Object.assign(ticks, saved.ticks || {}); hideDone = !!saved.hideDone; }
+  render();
+  saveNote.textContent = "Your ticks are saved on this device.";
+})();
+</script>
+</body>
+</html>

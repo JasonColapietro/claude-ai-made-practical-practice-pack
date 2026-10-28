@@ -1,0 +1,45 @@
+Here are the five quotes side by side. Everything comes from the emails you attached. Where an email left something out, the cell says "Not stated."
+
+| Company | Estimate type | Price as stated | Estimated weight | Packing | Pickup date | Delivery date or window | Deposit | Protection included | Possible extra fees | Quote valid until |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Buckeye Cross-Country Movers | Binding | $7,450 | 7,800 lbs | Not included (you pack). Packing service available for an additional $1,150 including materials | April 16 or 17, 2027 (your choice) | April 20 to April 22, 2027 (dedicated truck) | $500; fully refundable if you cancel at least 14 days before pickup | Basic released value, $0.60 per pound per item. Full value protection up to $60,000 is $389 extra | Long carry $150 (truck more than 75 feet from Denver entrance); $95 per extra flight if no elevator and more than one flight. Appliance disconnect/connect not included | November 30, 2026 |
+| Rocky Ridge Relocation | Non-binding (final cost based on actual weight) | $6,280 ("Estimated cost") | 7,200 lbs | Kitchen pack included (their materials). Rest of the house: Not stated | 4/17/27 | 5 to 9 days after pickup | Not stated | Released value, 60 cents per lb per article. Full value: price Not stated ("ask me for pricing") | Long carry $175 if truck can't park within 75 ft in Denver (added in the October 13 correction; I used this later figure). Price rises if the shipment weighs more than 7,200 lbs | Not stated |
+| Great Plains Van Lines | Binding not-to-exceed | CONFLICT: $8,940 ("Not-to-exceed price" in the email) and $8,490 ("TOTAL" in the summary box) | 8,100 lbs | Full packing included, with all materials (packing day April 16, 2027); kitchen unpacking and debris removal included | Loading April 17, 2027 | Guaranteed April 22, 2027 ($100 per day if late) | 20% of the not-to-exceed price, due at booking; refundable if you cancel 30 or more days before packing date. Dollar amount Not stated (see CONFLICT) | Full value protection up to $50,000, included | Shuttle truck $425 if the trailer can't reach your building; stair carry $85 per flight beyond the first | November 15, 2026 |
+| Two Rivers Moving & Storage | Binding | No total stated. Linehaul $5,120; fuel surcharge $410; origin stair carry $0; packing materials $360. Sum: $5,890 (my addition). With the $425 shuttle, if needed: $6,315 (my addition) | 7,500 lbs | Packing materials only ($360, delivered 2 weeks before). Packing labor: Not stated | April 16 or 17, 2027 | 7 to 12 days after loading | $250 to reserve your date | Released value, 60 cents a pound. Full value protection $295 more for up to $55,000 | Destination shuttle $425 if a 53 ft trailer can't reach the building; storage in transit free for 30 days, then $3.10 per 100 lbs per month | Not stated (Dev offers to hold your April dates for a week without a deposit) |
+| Mile High Container Co. | Not stated (portable container quote, #MH-558213) | $4,180 (both containers, all transport, 30 days of use) | Not stated (2 x 16-foot containers) | Not included. You pack, load and unload. Partner crew in Columbus about $600 for 3 people for 4 hours (estimate only, booked directly) | Containers delivered to Columbus Saturday, April 3, 2027; pickup from Columbus by April 17, 2027 | Estimated 5 to 8 business days after pickup | $99, applied to your total | None included. Optional contents protection $45 per container per month, up to $25,000 per container | $189 per container for each additional 30 days; loading help (about $600 in Columbus); possible Denver street permit (cost Not stated) | 7 days from the email date (October 16, 2026) |
+
+1. QUESTIONS TO SEND EACH COMPANY
+
+Rocky Ridge Relocation (Shannon Teller)
+- Is a deposit required to book, and if so, how much and is it refundable?
+- How long is this estimate valid?
+- What does full value protection cost for our move?
+- Your quote includes a kitchen pack. Is packing for the rest of the house available, and at what price? Or are we packing everything except the kitchen?
+
+Great Plains Van Lines (Linda Harrow)
+- CONFLICT: your email lists the not-to-exceed price as $8,940, but the estimate summary at the bottom says TOTAL: $8,490. Which is correct?
+- What is the deposit in dollars? Your email says 20% of the not-to-exceed price, which depends on the answer above.
+
+Two Rivers Moving & Storage (Dev Patel)
+- Can you confirm the total price for our move? Your email lists the charges but no total.
+- Does the price include packing labor, or only the $360 in packing materials?
+- How long is this estimate valid?
+
+Mile High Container Co.
+- Is the $4,180 price fixed, or can it change? The quote does not say whether it is binding.
+- Is there any help available for unloading in Denver, and what does it cost?
+- If we need a City of Denver street permit, about what does it cost, and do you help arrange it?
+- Is any protection included at no charge, or only the optional $45 per container per month?
+
+Buckeye Cross-Country Movers had no "Not stated" or "CONFLICT" items.
+
+2. WHAT MAKES THESE QUOTES HARD TO COMPARE DIRECTLY
+
+- Different estimate types. Buckeye and Two Rivers are binding. Great Plains is binding not-to-exceed (it can go down, not up). Rocky Ridge is non-binding, so $6,280 can rise if the shipment weighs more. Mile High does not say.
+- Different weights from different surveys. The weights range from 7,200 lbs (Rocky Ridge, from an online form) to 8,100 lbs (Great Plains, from an in-home visit). Buckeye used a video survey. A low weight on a non-binding estimate can mean a higher final bill.
+- Packing is not the same. Great Plains packs everything. Rocky Ridge packs only the kitchen. Buckeye and Two Rivers expect you to pack (Two Rivers sells the materials). Mile High has you pack, load and unload yourselves.
+- Protection is not the same. Only Great Plains includes full value protection (up to $50,000). Buckeye adds it for $389 (up to $60,000) and Two Rivers for $295 (up to $55,000). Rocky Ridge did not give a price. Mile High's coverage is per container per month.
+- Delivery timing is not the same. Great Plains guarantees April 22 with a late payment. Buckeye gives a 3-day window. Rocky Ridge (5 to 9 days), Two Rivers (7 to 12 days) and Mile High (5 to 8 business days) count from pickup, so the dates depend on which pickup day you get.
+- Dedicated truck or shared. Buckeye says your things are the only load. Rocky Ridge says your shipment may share a truck. The others do not say.
+- Denver access is still unknown. Long carry, shuttle and stair fees from four companies depend on whether a truck can get close to the Denver building and how many flights there are. Until you know, the possible extra fees could change the order.
+- The quotes expire at different times. Mile High's price is held only 7 days from October 16, 2026. Great Plains is valid until November 15, 2026, and Buckeye until November 30, 2026. Rocky Ridge and Two Rivers do not say.

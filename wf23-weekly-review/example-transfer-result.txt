@@ -1,0 +1,45 @@
+[Transfer test, run cold on wf23-transfer-hours.csv and wf23-transfer-notes.txt with the prompt in wf23-transfer-prompt.txt.]
+
+Weekly review: October 5 to 9, 2026
+
+1. Numbers
+
+Total hours logged: 30.0. Billable: 25.0. Non-billable (Admin): 5.0.
+
+| Client | Billable hours | Rate | Amount |
+|---|---|---|---|
+| Coastline Kayak Tours | 9.5 | $85 | $807.50 |
+| Alder Street Dental | 6.0 | $95 | $570.00 |
+| Fern & Fig Florist | 5.0 | $85 | $425.00 |
+| Ridgeline Yoga | 2.0 | $80 | $160.00 |
+| Hollis & Grant Bookkeeping | 1.5 | $90 | $135.00 |
+| Mill Pond Bakery | 1.0 | $75 | $75.00 |
+| Total | 25.0 | | $2,172.50 |
+
+"Alder St Dental" (1.5 hours on Oct 7) is combined into Alder Street Dental.
+
+Non-billable: invoicing September 1.5, Fern & Fig proposal 1.5, portfolio post draft 1.0, email and bookkeeping 1.0.
+
+Your hunch about Coastline: 9.5 of 30.0 hours logged, about a third of the week (38% of billable hours). It was the biggest client, but not all week.
+
+2. Last week's top 3
+1. Launch the Alder Street Dental booking page: Done. "Alder launched Friday afternoon. Dr. Brandt happy."
+2. Send Fern & Fig the redesign proposal: Not done. "wrote it Tues, didn't send it."
+3. Write one portfolio post: Partly. "started a draft Thurs, about half done."
+
+3. Needs a decision
+- Fern & Fig: reread the pricing section and send the proposal, or set a date to.
+- Coastline: accept the launch move to Oct 23, which moves your invoice date.
+- Sudsy Paws: reply to the dog groomer's inquiry from Wednesday, or decline.
+- Laptop battery: when and where to replace it before the Coastline launch. Cost: Not in my notes.
+
+4. Schedule
+- Coastline launch moved from Oct 16 to Oct 23.
+- Ridgeline's September invoice was sent Oct 1, net 15, so it's due Oct 16. Not overdue yet.
+- Alder's final invoice is not sent.
+- Mill Pond paid September.
+
+5. Top 3 for next week
+1. Send Alder Street Dental's final invoice, since the page launched Friday.
+2. Send the Fern & Fig proposal, which has been written since Tuesday.
+3. Reply to Sudsy Paws, whose inquiry has waited since Wednesday.

@@ -1,0 +1,18 @@
+job_id,date,day,start,est_hours,client,town,service,sq_ft,frequency,first_visit,crew,notes
+H-1077,10/26/2026,Mon,9:00 AM,3.0,"Alvarez, M.",Portland,Standard,1200,Weekly,no,Sarah + Ben,
+H-1078,10/26/2026,Mon,9:00 AM,3.0,"Chen, L.",South Portland,Standard,1900,Every 2 weeks,no,Miguel + Jess,"dog in back room, keep door shut"
+H-1079,10/26/2026,Mon,9:00 AM,4.5,"Lowell, B.",Falmouth,Deep,1700,One-time,no,Aisha + Tomas,
+H-1080,10/26/2026,Mon,6:00 PM,2.5,Dunlap Insurance,Portland,Small office,,Weekly,no,Miguel + Jess,
+H-1081,10/27/2026,Tue,9:00 AM,3.0,"Ito, K.",Falmouth,Standard,1600,Weekly,no,Sarah + Miguel,
+H-1082,10/27/2026,Tue,1:00 PM,2.5,"Kowalski, B.",Westbrook,Standard,1000,Every 2 weeks,no,Sarah + Miguel,
+H-1083,10/27/2026,Tue,1:00 PM,4.0,"Easton, J.",Portland,Move-out,1500,One-time,no,Aisha + Tomas,empty unit
+H-1084,10/27/2026,Tue,6:00 PM,2.0,Casco Tax Services,Portland,Small office,,Weekly,no,Aisha + Tomas,
+H-1085,10/28/2026,Wed,9:00 AM,2.5,"Lindqvist, E.",Portland,Standard,900,Weekly,no,Sarah + Ben,
+H-1086,10/28/2026,Wed,1:00 PM,2.5,"O'Brien, T.",Portland,Standard,1700,Every 2 weeks,no,Kelly + Ben,call before arriving
+H-1087,10/28/2026,Wed,6:00 PM,3.0,Fore River Design,Portland,Small office,,Every 2 weeks,no,Miguel + Jess,
+H-1088,10/29/2026,Thu,9:00 AM,2.5,"Tran, Q.",Portland,Standard,1200,Weekly,no,Sarah + Ben,
+H-1089,10/29/2026,Thu,9:00 AM,3.5,"Quarry, S.",Yarmouth,Standard,1400,One-time,yes,Kelly + Jess,
+H-1090,10/29/2026,Thu,1:00 PM,3.0,"Ng, P.",South Portland,Standard,1500,One-time,no,Kelly + Jess,
+H-1091,10/30/2026,Fri,9:00 AM,3.0,"Young, A.",Cape Elizabeth,Standard,1800,Weekly,no,Sarah + Ben,
+H-1092,10/30/2026,Fri,9:00 AM,2.5,"Abbott, N.",Westbrook,Standard,1350,Every 2 weeks,no,Kelly + Jess,
+H-1093,10/30/2026,Fri,1:00 PM,4.0,"Fiske, R.",Cape Elizabeth,Deep,1500,One-time,no,Aisha + Tomas,

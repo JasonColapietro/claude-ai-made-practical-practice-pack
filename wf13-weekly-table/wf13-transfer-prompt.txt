@@ -1,0 +1,15 @@
+I'm a freelance web designer. Attached is my time log for September as a CSV file. I want a month-end summary I can use to send invoices and see where my time went.
+
+Use only this file. Work every number out from the rows. Do not estimate. Follow these counting rules:
+- An hour is billable only if the billable column says Yes.
+- Money for a row is hours times the rate on that row.
+- If a client name is an obvious spelling variant of another (for example a short form or different capitals), combine them and tell me which ones you combined.
+
+Give me these sections, in this order:
+1. Three to five sentences on how the month went, with the key numbers.
+2. A table by client: billable hours, rate, and amount to invoice, with a total row.
+3. Non-billable hours: the total, and each row with its date and task.
+4. The share of all logged hours that were billable.
+5. "Check these": every row where the rate is missing, a value is blank, or something else looks off. Give the date, client and what you found. Do not fill in missing rates. Count those hours as billable, leave them out of the money totals, and tell me how many hours are waiting on a rate.
+
+Use plain words. If you had to assume how to read a column, say what you assumed.

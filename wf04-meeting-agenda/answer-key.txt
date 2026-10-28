@@ -1,0 +1,55 @@
+WORKFLOW 4 ANSWER KEY: fixed points a good agenda must respect
+An agenda is a judgment call, so there is no single right table. These are the facts and constraints in the practice notes that any good result must get right. Wording, order of lower-priority items and exact minutes may differ.
+
+MAIN INPUT: wf04-input-planning-notes.txt
+
+Header facts
+- Date: Thursday, November 12, 2026 (notes say "Thurs Nov 12"; Thursday is correct for 2026)
+- Time: 8:00 to 9:00 a.m. (60 minutes)
+- Place: video call plus the Dublin conference room
+- Attendees: Dr. Ellen Hart (clinic director), Tom Becker (Dublin), Angela Moreno (Westerville, joining by video), Marisol Vega (covering Grove City for Kevin Park), Priya Shah (agenda and notes)
+
+Hard constraints
+1. Total time in the table = 60 minutes exactly.
+2. The Kestrel cleaning contract item is a DECISION (keep or shop around) and must end before 8:45 a.m. (Dr. Hart leaves at 8:45). Dr. Hart asked for it first or near the top.
+3. Prep for the Kestrel item: each manager brings one sentence on Kestrel's performance at their clinic this year.
+4. Any other item needing Dr. Hart's decision also ends before 8:45.
+5. The quick wins / good news round goes last (Dr. Hart likes to end on it), but she leaves at 8:45, so a strong result points out that she will miss it if it is the last item, or schedules it before 8:45. Either is acceptable if flagged.
+
+Conflicts and gaps (A must be flagged and marked [CHECK]; B to D are facts the result should reflect, not conflicts)
+A. Kevin Park is on PTO Nov 9 to 13 but is listed to lead the snow and ice plan. Someone else (Marisol or Tom) must lead it, or it moves to December. Claude must not pick the replacement silently.
+B. Angela will join by video from Westerville (not in Dublin). Not a conflict, but the header should show her on video.
+C. Angela asked for about 15 minutes on Westerville coverage.
+D. The agenda is due to attendees by Tuesday, November 10.
+Strong results may also note: the October action item "Angela: update holiday phone message template" (not started) ties to the holiday hours topic, which has a Nov 20 patient deadline; and Kevin's badge reader item cannot get an update from Kevin.
+
+Topics that fit vs. "Not this time"
+- Requested topics total more than 60 minutes once the Kestrel decision, holiday hours, Westerville coverage (15 min), snow plan, supply ordering (about 10 min), shared calendar (5 min), the new-patient FAQ, quick wins and the October action item review are included.
+- The new-patient FAQ binder belongs in "Not this time" (Angela said it can wait until next month).
+- Any other item moved out must appear in "Not this time" with a reason and a month (for example, December).
+
+Must NOT appear
+- Topics, people, numbers or deadlines not in the notes (for example, a vendor name other than Kestrel, a dollar amount for the contract, or a named job candidate).
+
+TRANSFER INPUT: wf04-transfer-garden-kickoff-notes.txt
+
+Header facts
+- Date conflict to flag: Lena's notes say "Sat 3/6"; Rosa's flyer says "Saturday, March 7." In 2027, March 6 is a Saturday and March 7 is a Sunday. Claude should flag it, not choose.
+- Time: 10:00 to 11:30 a.m. (90 minutes)
+- Place: the garden (meet at the gate); rain plan is the Maple Street Library community room, booked 10 to 12, out by noon
+
+Hard constraints
+1. Total time = 90 minutes.
+2. Sign-ups (watering, work days, compost crew, plant sale helpers) happen in the first 45 minutes.
+3. Q&A is not left to the very end (last year half the people had left).
+
+Conflicts and gaps to flag
+A. Greg ran the watering schedule last year but is moving in April. No new watering lead named.
+B. Rosa wants 15 minutes for the plant sale; Lena wonders if that is too much. Claude may suggest a shorter slot since Rosa will run a separate meeting, but should leave the call to Lena.
+C. Nobody is named to bring the trailer for work days.
+D. Rain barrels: "more soon" only. No rules or details should be invented.
+
+Dates in the notes (all 2027)
+- Work days: Saturday, March 27 and Saturday, April 17, 9 a.m. to noon
+- Compost delivery: week of March 15
+- Plot fees: $25, due April 1

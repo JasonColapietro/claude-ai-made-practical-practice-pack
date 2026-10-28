@@ -1,0 +1,25 @@
+Here's a six-week plan that stays inside your 45-minute Wednesday window every week. Each Minutes cell shows the post time plus 2 minutes to copy it to your blog.
+
+| Date | Post idea | Client | Main message (one sentence) | Screenshots needed | Minutes |
+|---|---|---|---|---|---|
+| Wed, Jan 13 | Before and after: new florist site | Fern & Fig Florist | Fern & Fig's new site, live since September, now lets customers order flowers online. | Before and after (you have both), plus the online ordering page | 20 + 2 = 22 |
+| Wed, Jan 20 | Before and after: booking page | Coastline Kayak Tours | A redesigned booking page makes it easier for visitors to pick and book a tour. | Before and after of the booking page (your brief doesn't say you have these; check) | 20 + 2 = 22 |
+| Wed, Jan 27 | How I write a homepage headline with the client | None (general) | The best homepage headline comes out of a conversation with the owner, not a template. | None, or one generic headline sketch | 30 + 2 = 32 |
+| Wed, Feb 3 | How I approached the Fern & Fig ordering page | Fern & Fig Florist | Rosa wanted customers to order online, so I built the site around that page. | 1 or 2 shots of the ordering page | 30 + 2 = 32 |
+| Wed, Feb 10 | Why I build mobile-first | None (general) | Most visitors to small business sites I build are on phones, so I design for the phone first. | One phone-sized screenshot from Fern & Fig or Coastline | 30 + 2 = 32 |
+| Wed, Feb 17 | Before and after: new dental homepage. ONLY if Alder Street Dental says yes in writing. Backup: a second Fern & Fig before and after, a close-up of the homepage. | Alder Street Dental (backup: Fern & Fig Florist) | A clearer homepage helps new patients find what they need. | Before and after of the homepage | 20 + 2 = 22 |
+
+Weekly totals: 22, 22, 32, 32, 32, 22 minutes. None goes over 45.
+
+**Ideas I left out**
+
+- Full case study: 50 minutes plus 2 for the blog is 52, which is 7 over your 45. Splitting it across two weeks doesn't fully help either, because the "what happened" part needs results, and no client has given you numbers you can use.
+- "What a website redesign costs": you quote every job separately, and your rule is no numbers you can't back up.
+
+**Check before posting**
+
+- Alder Street Dental: you asked in December and have no answer. Don't post on Feb 17 without a yes in writing. Decide by the morning of Feb 17 and use the backup if there's still no answer.
+- Coastline Kayak Tours: the owner said yes, but your brief says "the owner said yes" without saying in writing. Your rule needs it in writing. Confirm. Also, leave out "bookings went up a lot." It's his impression, not a number, and it reads like a claim.
+- Mobile-first post: "most visitors are on phones" comes from your clients' analytics, but you don't have figures. Keep it to "most," with no percentage, or ask a client for the number.
+- Fern & Fig: Rosa said yes in writing. Two posts feature her site (Jan 13 and Feb 3). Check she's fine being featured twice.
+- Screenshots: your brief only confirms before-and-after shots for Fern & Fig. If you don't have Coastline before shots, the Jan 20 post becomes a 30-minute process post instead (32 total, still fits).

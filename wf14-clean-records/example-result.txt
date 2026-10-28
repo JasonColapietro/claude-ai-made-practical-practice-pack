@@ -1,0 +1,62 @@
+Here's the cleaned list. Every original row is here, in the same order, and nothing was merged or dropped. Where I couldn't clean a value without guessing, I kept it exactly as written and said so in the check column.
+
+| row | first_name | last_name | email | phone | plot | help_with | availability | notes | check |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Rosa | Delgado | rosa.delgado@example.com | 614-555-0101 | 12 | Watering; Compost | Saturdays | | possible duplicate of row 17 |
+| 2 | Kevin | O'Neill | koneill@example.com | 614-555-0102 | 7 | Tool shed | Weekday evenings | can fix the hose reel | possible duplicate of row 10 |
+| 3 | Marjorie | Hughes | marjorie.hughes@example.com | 614-555-0103 | 23 | Plant sale | Saturdays; Sundays | | possible duplicate of row 25 |
+| 4 | Dev | Patel | devpatel@example | 614-555-0104 | 31 | Events; Watering | Saturdays | mornings | check email (no ending such as .com) |
+| 5 | Anna | Kowalczyk | anna.k@example.com | 614-555-0105 | unknown | Compost | Sundays | new this year | |
+| 6 | Tom | Brennan | tbrennan@example.com | 555-0106 | 4 | Watering | early mornings before work | | check phone (7 digits, no area code); check availability |
+| 7 | Jamal | unknown | jamal.w@example.com | 614-555-0107 | 18 | Events | Weekday evenings | has truck, can haul mulch | |
+| 8 | Grace | Liu | grace.liu@example.com | 614-555-0108 | 9 | Watering | Weekday mornings | retired, very flexible | |
+| 9 | Patrick | Nwosu | pnwosu@example.com | 614-555-01077 | 15 | Tool shed | Saturdays | | check phone (11 digits) |
+| 10 | Kevin | O'Neill | koneill@example.com | 614-555-0102 | 7 | Tool shed; Events | Weekday evenings | sorry if I signed up twice; Tues and Thurs | possible duplicate of row 2 |
+| 11 | Beatriz | Souza | unknown | 614-555-0111 | 27 | Plant sale; Events | Saturdays; Sundays | | |
+| 12 | Harold | Kim | harold.kim@example.com | 380-555-0112 | none | Compost | Sundays | on the waitlist for a plot | |
+| 13 | J | Ortiz | j.ortiz@example.con | 614-555-0113 | 33 | Watering | Saturdays | | check email (ends in .con) |
+| 14 | Mei-Ling | Chao | meiling.chao@example.com | 614-555-0114 | 2 | Events | Saturdays | afternoons only | |
+| 15 | Samuel | Adeyemi | sam.adeyemi@example.com | 614-555-0115 | 41 | Compost; Watering | Weekday mornings | | check plot (41 is outside 1 to 40) |
+| 16 | Carla | Benedetti | carla.b@example.com | unknown | 38 | whatever you need | anytime | | check help_with; check availability |
+| 17 | R. | Delgado | rosa.delgado@example.com | 614-555-0101 | 12 | Watering | Saturdays | | possible duplicate of row 1 |
+| 18 | Owen | Fitzgerald | owen.fitz@example.com | 614-555-0118 | 7; 8 | Tool shed | Weekday evenings | shares 7 with his sister | |
+| 19 | Priscilla | Tate | ptate@example.com | 614-555-0119 | 21 | Kids' garden day | Saturdays | | check help_with |
+| 20 | Luis | Ramírez | luis.ramirez@example.com | 614-555-0120 | 14 | Watering; Plant sale | Saturdays; Sundays | not Easter weekend | |
+| 21 | Nadia | Haddad | nhaddad@example.com | 614-555-0121 | unknown | Compost | Weekday evenings | | |
+| 22 | Ben | Stoltz | ben.stoltz@example.com | 614-555-0122 | 26 | Events | unknown | allergic to bees | |
+| 23 | Yolanda | Pierce | ypierce@example.com | 614-555-0123 | 5 | Watering | Sundays | after church | |
+| 24 | Ethan | Morales | ethan.morales@example.com | 614-555-0124 | 19 | Tool shed | Saturdays | | |
+| 25 | Marjorie | Hughes | mhughes@example.com | 614-555-0103 | 23 | Plant sale | Saturdays; Sundays | | possible duplicate of row 3 |
+| 26 | Fatima | Bello | fatima.bello@example.com | 614-555-0126 | 11 | Watering; Events | Weekday mornings; Saturdays | | |
+
+**1. Counts**
+
+- Rows in: 26. Rows out: 26.
+- Unknown cells: first_name 0, last_name 1 (row 7), email 1 (row 11), phone 1 (row 16), plot 2 (rows 5 and 21), help_with 0, availability 1 (row 22), notes 0. That's 6 in all.
+- Rows with something in check: 13 (rows 1, 2, 3, 4, 6, 9, 10, 13, 15, 16, 17, 19, 25).
+
+**2. Questions for Lena**
+
+- Row 1, Rosa Delgado: is she the same person as row 17 (R. Delgado, same email and phone)? If so, which entry is current? Her online sign-up says Watering and Compost, the paper sheet says Watering only. Confirm with Rosa.
+- Row 2, Kevin O'Neill: same name, email and phone as row 10. Confirm with Kevin which entry to keep. His note on row 10 says he may have signed up twice.
+- Row 3, Marjorie Hughes: same name and phone as row 25, but a different email. Ask Marjorie which email she wants you to use.
+- Row 4, Dev Patel: email "devpatel@example" is missing its ending. Ask Dev for the full address.
+- Row 6, Tom Brennan: phone "555-0106" has no area code. "Early mornings before work" doesn't match your list. Ask Tom for his full number and whether that means weekday mornings.
+- Row 9, Patrick Nwosu: phone "614-555-01077" has one digit too many. Ask Patrick for the right number.
+- Row 10, Kevin O'Neill: possible duplicate of row 2 (see above). This entry adds Events and says Tuesday and Thursday evenings.
+- Row 13, J Ortiz: email ends in ".con", likely meant ".com". Confirm with J Ortiz, and get a first name while you're at it.
+- Row 15, Samuel Adeyemi: plot 41 is outside your 40 plots. Ask Samuel which plot he has.
+- Row 16, Carla Benedetti: "whatever you need" and "anytime" don't match your lists. Ask Carla which jobs and times to put her down for. Her phone is also missing.
+- Row 17, R. Delgado: possible duplicate of row 1 (see above).
+- Row 19, Priscilla Tate: "Kids' garden day" isn't one of your help options. Decide whether it fits Events, or ask Priscilla.
+- Row 25, Marjorie Hughes: possible duplicate of row 3 (see above).
+
+**How I read a few things**
+
+- "tools" (row 9) became Tool shed and "composting" (row 21) became Compost, since each is plainly one of your values. "Kids' garden day" (row 19), "whatever you need" and "anytime" (row 16) and "early mornings before work" (row 6) are not, so I kept them and flagged them.
+- "Sat mornings" became Saturdays, with "mornings" moved to notes. "Tues and Thurs evenings" became Weekday evenings, with "Tues and Thurs" moved to notes.
+- "Plot 7" and "#9" became 7 and 9. "7 & 8" became 7; 8. "waitlist" became none.
+- Lowercase names were capitalized ("j ortiz" became J Ortiz). The initial in "R. Delgado" was kept as written.
+- Harold Kim's 380 area code is a full 10-digit number, so I formatted it like the others.
+
+If you'd like, I can turn this into a CSV file you can open in a spreadsheet app.

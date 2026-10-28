@@ -1,0 +1,91 @@
+WORKFLOW 6 ANSWER KEY
+Facts the summary must get right, with the section each comes from. All arithmetic was computed with a python3 -I script, not by hand.
+
+=====================================================================
+MAIN INPUT: wf06-input-cleaning-agreement.txt (about 2,650 words, 21 sections plus Exhibit A)
+=====================================================================
+
+PARTIES AND TERM
+- Client: Northfield Physical Therapy, LLC. Vendor: Kestrel Commercial Cleaning, LLC. Signed December 15, 2025 by Ellen Hart, DPT (Clinic Director) and Raymond Ostrowski (Owner). [Preamble, Section 21 signature block]
+- Initial Term: January 1, 2026 through December 31, 2026. [2.1]
+- Renews automatically for 12 months unless either party gives written notice of non-renewal at least 30 days before the end of the term. [2.2]
+  -> For the term ending December 31, 2026, the notice must be RECEIVED by December 1, 2026. [2.2 with 18.2 "effective on the date it is received"]
+- Non-renewal and termination notices must go by hand delivery or certified mail with return receipt requested. Email alone is not enough. [18.2]
+- Vendor may raise Monthly Fees up to 5% on renewal with written notice at least 45 days before the renewal term begins (renewal begins January 1, 2027, so notice by November 17, 2026). More than 5% needs Client's written consent. No timely notice means no increase. [2.3]
+
+MONEY
+- Monthly Fees [4.1]:
+    Dublin       $2,150.00
+    Westerville  $1,875.00
+    Grove City   $1,640.00
+    TOTAL        $5,665.00 per month = $67,980.00 per year
+- If the 5% increase applies (maximum allowed by 2.3):
+    Dublin       $2,257.50
+    Westerville  $1,968.75
+    Grove City   $1,722.00
+    TOTAL        $5,948.25 per month (+$283.25 per month, +$3,399.00 per year) = $71,379.00 per year
+- Invoices on the first Business Day of each month; payment due within 30 days of invoice date. [4.2]
+- Supplies: chemicals, tools, equipment included. Paper products and hand soap billed at Vendor's cost plus 10%. [4.3]
+- Late charge: 1.5% per month on amounts not paid within 15 days of invoice date. [4.4]
+- Disputed charges: notify in writing within 10 Business Days; pay the undisputed part on time. [4.5]
+- Additional services: $48.00 per cleaner per hour, 2-hour minimum (so at least $96.00 per cleaner per visit). Written request 3 Business Days ahead. [3.5]
+- Holiday service: 1.5 times the hourly rate = $72.00 per cleaner per hour. [3.6]
+- No fee reduction for the six listed holidays [3.6] or for closures of 3 or fewer nights in a month [3.7].
+- Service credit: 3 or more reported Service Failures at one Facility in any 30-day period = credit of 10% of that Facility's Monthly Fee (Dublin $215.00, Westerville $187.50, Grove City $164.00). [8.3]
+- Early termination fee: one month of total Monthly Fees ($5,665.00), only if Client terminates for convenience and the termination date falls within the first 6 months of the Initial Term (by June 30, 2026). No longer applies in November 2026. [12.1]
+- Non-solicitation: Client may not hire Vendor's Facility staff during the term and 12 months after; $3,000.00 placement fee per person hired. [13.1, 13.2]
+- Lost keys or fobs: Vendor reimburses actual rekeying or replacement cost. [6.2] False alarm fees caused by Vendor staff: Vendor pays. [6.3]
+- Liability cap: total fees paid in the 6 months before the event, except indemnity for bodily injury or property damage and breaches of Section 7. [11.1]
+
+ENDING THE AGREEMENT
+- Non-renewal: 30 days before the end of the term. [2.2]
+- Termination for convenience: 60 days' written notice, either party. [12.1]
+- Termination for cause: material breach not cured within 15 days of written notice. [12.2]
+- Immediate termination by Client: insurance lapse or breach of Section 7. [12.3]
+- After termination: keys, fobs and access cards back within 3 Business Days; final invoice prorated by day. [12.4]
+- Client may end without penalty within 60 days of notice that Vendor has assigned the Agreement to a buyer. [15]
+
+DUTIES (examples a good summary includes)
+Client: report Service Failures by email within 24 hours of opening [8.1]; tell Vendor about closures by 3:00 p.m. [3.7]; dispute invoices within 10 Business Days [4.5]; provide keys and codes [6.1].
+Vendor: service Monday to Friday nights, 7:30 p.m. to 5:30 a.m. [3.1]; disinfect treatment areas and restrooms nightly [3.2, 3.3]; background checks [5.2]; weekly supervisor inspections and monthly reports by the 5th Business Day [5.3]; replace removed staff within 5 Business Days [5.4]; patient privacy rules and annual training [7.1, 7.2]; report privacy incidents within 24 hours [7.3]; fix Service Failures within 1 Business Day [8.2]; insurance and certificates [9.1, 9.2]; fragrance-free products in treatment areas [16.3].
+
+EXCLUDED SERVICES [3.4]: carpet shampooing or extraction, exterior windows, snow and ice removal, bodily fluid cleanup beyond routine disinfection, pest control, moving items over 50 pounds, regulated medical waste or sharps.
+
+PROBLEMS IN THE DOCUMENT (both must be found)
+P1. Conflict: Section 4.2 says payment is due "within thirty (30) days of the invoice date," but Section 4.4 charges a late fee on "Any amount not paid within fifteen (15) days of the invoice date." A late charge can apply while the payment is not yet due.
+P2. Broken cross-reference: Section 12.3(a) refers to "the insurance required by Section 9.4," but Section 9 has only 9.1, 9.2 and 9.3. The insurance requirements are in Section 9.1.
+
+COMMON MIX-UP TO WATCH FOR
+- 30 days (non-renewal, 2.2) vs. 60 days (termination for convenience, 12.1). A summary that says "60 days' notice to stop the renewal" is wrong.
+- 24 hours to report a Service Failure (8.1) vs. 1 Business Day for Vendor to fix it (8.2).
+
+FOLLOW-UP QUESTION (followup-prompt.txt): expected answer
+- Send written notice of non-renewal [2.2], received by December 1, 2026 [2.2, 18.2], by hand delivery or certified mail with return receipt requested, not email alone [18.2], to Kestrel Commercial Cleaning, LLC, Attn: Owner, 2275 Brandt Industrial Parkway, Columbus, Ohio 43219 [18.3]. After the agreement ends, Vendor returns keys within 3 Business Days [12.4].
+
+=====================================================================
+TRANSFER INPUT: wf06-transfer-denver-lease.txt (about 1,270 words, 21 sections)
+=====================================================================
+
+- Premises: 2215 Larkspur Street, Unit 4B, Denver, Colorado 80207. Landlord: Larkspur Flats LLC, managed by Pinewood Row Property Management, LLC. Tenants: Ada and Tunde Okafor; occupants Chidi and Zara. [Heading]
+- Term: April 15, 2027 to April 14, 2028. [1.1]
+- Rent $2,650.00, due on or before the 1st. [2.1] No increase during the Term. [2.3] No cash. [2.2]
+- Flat water/sewer/trash charge $95.00 per month, due with rent [3.2]; can change once a year on 60 days' notice [3.3]. Tenant pays electricity, gas, internet [3.1].
+- Monthly total for rent plus utility charge: $2,745.00 ($2,820.00 with a second parking space at $75.00 [8.2]).
+- Late fee $50.00 if rent not received by 11:59 p.m. on the 7th [4.1]. Returned payment $25.00 [4.2].
+- MOVE-IN COSTS [5]: rent $2,650.00 + utility charge $95.00 + security deposit $2,650.00 + admin fee $200.00 (non-refundable) = $5,595.00. Plus proof of renters insurance before keys [1.2, 12].
+- Deposit $2,650.00 returned within 30 days after move-out and return of keys, with a written list of deductions [6.1, 6.2]. Forwarding address in writing [6.4].
+- Renters insurance: at least $100,000 personal liability, proof before keys [12].
+- Notice to move out at end of Term: at least 60 days before April 14, 2028, so by February 14, 2028 [14.1]. Without notice: month to month at $2,800.00 per month; then 21 days' notice [14.2].
+- Early termination: 60 days' notice + rent through the notice period + fee of two months' rent, $5,300.00 [15.1].
+- Landlord entry: 24 hours' notice except emergencies [13].
+- Carpets professionally cleaned at move-out with receipt, or cost deducted [16.3].
+- Move-in condition report due within 7 days of the start date [18].
+- Pets: none without a signed Pet Addendum; service and assistance animals allowed as required by law [9].
+- Guests: up to 14 nights in any 6-month period [7.1].
+
+PROBLEMS IN THE DOCUMENT (both must be found)
+P1. Conflict: Section 4.1 makes rent late (and adds the $50 fee) only if not received by the 7th, but Section 17.4 says "Rent received after the fifth (5th) of the month is late and may be reported to the resident ledger as a late payment."
+P2. Missing addendum: Section 8.2 refers to "the Parking Addendum (Addendum C)," but Section 20 lists only Addendum A (Lead-Based Paint Disclosure) and Addendum B (Move-In Condition Report form). No Pet Addendum is listed either (relevant only if the family has a pet).
+
+MUST NOT APPEAR
+- Statements about what Colorado law requires that are not in the lease. The prompt asks for no legal advice; a one-line "ask a lawyer or the landlord" is fine.

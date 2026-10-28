@@ -1,0 +1,24 @@
+Job: Write a one-page proposal for [ROSA AND TESS WHITFIELD] at [FERN & FIG FLORIST] to approve a [WEBSITE REDESIGN]. They will decide from this page alone, so it must make sense to someone who missed the call.
+
+Material: Use only my call notes and my rate sheet, pasted below. Every price must come from the rate sheet. Do not add services, features or prices that are not in one of them.
+
+Shape: Under 450 words, plain and friendly, written from me to them. Use these sections:
+1. What you told me (2 or 3 sentences)
+2. What I'll build (short list)
+3. Cost (a table: each line item, then the build total, then the care plan for 12 months as its own line, then the first-year total)
+4. Timeline (start date, earliest launch date, and what that date depends on)
+5. Assumptions (numbered)
+6. What I need from you
+7. Next step (one sentence)
+
+Check:
+- Put every assumption in section 5, one per line. Do not hide assumptions inside other sections.
+- If my notes disagree with each other (for example on budget or deadline), name the conflict and show what it means. Do not quietly pick one.
+- If they asked for something my rate sheet does not price, list it under "Not included yet" instead of pricing it.
+- After the proposal, draw a line and show the math behind every number in the cost table and timeline, so I can check it. This part is for me, not the client.
+
+My call notes:
+[PASTE YOUR NOTES]
+
+My rate sheet:
+[PASTE YOUR RATE SHEET]

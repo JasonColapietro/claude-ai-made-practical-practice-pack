@@ -1,0 +1,104 @@
+Here's the comparison, using only your needs file and the three proposals.
+
+## 1. Must-haves
+
+| Must-have | Casco Bay | GreenShelf | Northeast CleanSource |
+|---|---|---|---|
+| 1. Fragrance-free version of all four cleaners | Yes. "Every cleaner on your list is available in a fragrance-free version" | Yes. "Every product we sell is fragrance-free by default" | Unclear. Bath & Tile is Fresh Linen scent; fragrance-free is "by special order," price and lead time on request |
+| 2. Pet-safe option when a client asks | Yes. Pet-safe all-purpose and floor at the same price (no pet-safe bathroom cleaner yet) | Yes. All products "safe around pets and kids when used as directed" | Yes. Pet-friendly all-purpose and floor at the same price |
+| 3. Delivered within 5 business days | Yes. Next business day for orders by 2 p.m. | Unclear. "Most orders arrive in 3 to 5 business days," but "northern New England addresses can take up to 7" | Unclear. Delivers Thursdays only. An order by 5 p.m. Monday arrives that Thursday (3 business days); an order on Tuesday waits about 7 business days |
+| 4. No lock-in over 6 months | Yes. Month-to-month, cancel any time | Yes, but only at list price. The quoted Price Lock prices need a 24-month plan | No. 12-month agreement, auto-renews for 12 more, $200 early termination fee |
+
+## 2. Monthly cost of your usual order
+
+**Casco Bay**
+- All-purpose: 8 × $24.00 = $192.00
+- Glass: 4 × $18.50 = $74.00
+- Bathroom: 6 × $26.00 = $156.00
+- Floor: 3 × $22.00 = $66.00
+- Microfiber cloths: 10 × $15.00 = $150.00
+- Gloves: 10 × $11.50 = $115.00
+- Product total: $753.00
+- Delivery: free (order is over $300)
+- **Monthly total: $753.00**, which is $53.00 over your $700 budget. Prices are held 6 months from your first order, then can change with 30 days' notice.
+
+**GreenShelf Direct**
+The quote shows Price Lock prices, which require a 24-month plan. That breaks must-have 4, so the month-to-month list price (8% above Price Lock) is the one that applies to you.
+
+| Item | Price Lock | List (+8%) | Qty | Line total at list |
+|---|---|---|---|---|
+| All-purpose | $20.00 | $21.60 | 8 | $172.80 |
+| Glass | $17.00 | $18.36 | 4 | $73.44 |
+| Bathroom (Bath & Shower) | $21.50 | $23.22 | 6 | $139.32 |
+| Floor | $18.00 | $19.44 | 3 | $58.32 |
+| Microfiber cloths | $16.50 | $17.82 | 10 | $178.20 |
+| Gloves | not carried | not carried | 10 | left out |
+
+- Product total at list: $622.08
+- Shipping: free (order is over $400)
+- **Monthly total: $622.08, without gloves.** You'd still need to buy 10 boxes of gloves somewhere else. I haven't estimated that cost.
+- For reference only: at Price Lock prices the same items come to $576.00, but only with the 24-month plan.
+- List prices "can change with 30 days' notice."
+
+**Northeast CleanSource**
+- All-purpose: 8 × $22.50 = $180.00 (see the price conflict in Problems below)
+- Glass: 4 × $16.00 = $64.00
+- Bathroom, fragrance-free: price not given (special order). Left out.
+- Floor: 3 × $19.50 = $58.50
+- Microfiber cloths: 10 × $13.00 = $130.00
+- Gloves: 10 × $9.75 = $97.50
+- Product total: $530.00
+- Volume discount: none (needs a product total over $600)
+- Delivery fee: $25.00
+- **Monthly total: $555.00, without the bathroom cleaner.**
+- For reference only: the scented Bath & Tile at $23.00 would add $138.00. That would push the product total to $668.00, trigger the 5% discount (minus $33.40), and with delivery come to $659.60. But that's a scented product you don't use.
+- These prices need the 12-month agreement.
+
+## 3. Nice-to-haves
+
+| Nice-to-have | Casco Bay | GreenShelf | Northeast CleanSource |
+|---|---|---|---|
+| Net 30 payment | Yes, "on approved credit" after a credit application | No. Card only, charged when the order ships | No. Net 15; card adds a 3% fee |
+| A real person to call | Yes. Rob directly, ext. 2, or Jen | No. Chat and email only | Yes. 1-800 line Mon to Fri, 7 to 6; rep visits quarterly |
+| Concentrates or refills | Yes. Concentrates, and they take back empty jugs for refill | Yes. Refill pouches plus 16 free reusable jugs | Partly. Concentrates, but no jug take-back mentioned |
+| One supplier for everything | Yes | No. No gloves | Yes |
+
+## 4. Problems
+
+**Contradictions**
+- Northeast CleanSource: the summary says all-purpose is "just $21.00 per gallon," but the price table says $22.50. At $21.00 your all-purpose line would be $168.00 instead of $180.00. I used the table price.
+
+**Conditions attached to prices**
+- Casco Bay: prices held only 6 months; past increases were 3% and 4%. Free delivery only over $300. Net 30 needs credit approval.
+- GreenShelf: the quoted prices need a 24-month Price Lock plan. Month-to-month pays 8% more and prices can change on 30 days' notice. Free shipping only at $400 or more ($34.95 otherwise). Quote valid 30 days from October 22.
+- Northeast CleanSource: prices need the 12-month auto-renewing agreement, signed by November 15. 5% discount only on a single order over $600 before delivery. $25 delivery fee every order, $250 minimum order. 3% fee if you pay by card.
+
+**Things in your needs file the proposals don't answer**
+- Ellie's headache: none of the proposals list ingredients for their bathroom cleaner, so there's no way to tell from these files which one it was.
+- Delivery timing for GreenShelf to your address in Portland, and whether a ground carrier might arrive on a Saturday when no one is at the office.
+- Whether GreenShelf and Northeast CleanSource will bring the order up to Suite 3 (only Casco Bay says so).
+- Price and lead time for Northeast CleanSource's fragrance-free bathroom cleaner, and whether a special order still makes the Thursday truck.
+- Start dates: only Northeast CleanSource names one (first Thursday of December).
+
+## 5. Bottom line
+
+No option meets every must-have within your $700 budget. Casco Bay meets all four must-haves but costs $753.00 a month, $53.00 over budget. GreenShelf comes to $622.08 month-to-month, but that leaves out gloves, and it's unclear whether delivery to Portland stays within 5 business days. Northeast CleanSource is out as proposed, because of the 12-month auto-renewing agreement, and its fragrance-free bathroom cleaner has no price yet.
+
+**Questions to send before you sign**
+
+Casco Bay
+- Can you get our monthly order under $700, or offer a price for a 6-month commitment?
+- What's in the Shoreline Clean bathroom cleaner? Can you send the safety data sheet?
+- After the first 6 months, how much notice and how large an increase should we plan for?
+
+GreenShelf Direct
+- How many business days does ground shipping take to 214 Fore Street, Portland, Maine? Can you guarantee 5?
+- Will the carrier deliver on a weekday only, and bring it to Suite 3?
+- Please confirm the month-to-month list price for each item on our order.
+- Can you send the ingredient list or safety data sheet for Bath & Shower Concentrate?
+
+Northeast CleanSource
+- Is the all-purpose price $21.00 or $22.50?
+- What's the price and lead time for fragrance-free Bath & Tile, and does it arrive on the same Thursday delivery?
+- Can you offer month-to-month or a term of 6 months or less with no auto-renewal and no early termination fee?
+- Can you send the safety data sheet for the bathroom cleaner?

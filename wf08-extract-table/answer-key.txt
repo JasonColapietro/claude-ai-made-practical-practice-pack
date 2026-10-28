@@ -1,0 +1,98 @@
+WORKFLOW 8 ANSWER KEY: EXTRACT DETAILS INTO A TABLE
+Files: wf08-input-quote-1-buckeye.txt, wf08-input-quote-2-rocky-ridge.txt, wf08-input-quote-3-great-plains.txt, wf08-input-quote-4-two-rivers.txt, wf08-input-quote-5-mile-high.txt
+Every sum and percentage below was computed with python3, not by hand.
+
+ROW BY ROW (columns in prompt order)
+
+1. BUCKEYE CROSS-COUNTRY MOVERS (Rick Dawson, October 12, 2026)
+- Estimate type: Binding (re-estimated before moving day if inventory changes)
+- Price as stated: $7,450
+- Estimated weight: 7,800 lbs
+- Packing: not included (family packs). Packing service available for $1,150 more.
+- Pickup: April 16 or 17, 2027
+- Delivery: April 20 to April 22, 2027 (dedicated truck)
+- Deposit: $500; fully refundable if cancelled at least 14 days before pickup
+- Protection: released value included ($0.60 per pound per item). Full value protection up to $60,000 for $389.
+- Possible extra fees: long carry $150 if truck parks more than 75 feet from the Denver entrance; $95 per extra flight if no elevator and more than one flight
+- Valid until: November 30, 2026
+
+2. ROCKY RIDGE RELOCATION (Shannon Teller, October 12, 2026, corrected October 13, 2026)
+- Estimate type: Non-binding (final price based on actual weight)
+- Price as stated: $6,280 (estimated cost)
+- Estimated weight: 7,200 lbs
+- Packing: kitchen only
+- Pickup: April 17, 2027 (written "4/17/27")
+- Delivery: 5 to 9 days after pickup (may share a truck)
+- Deposit: NOT STATED
+- Protection: released value included (60 cents per lb per article). Full value price NOT STATED ("ask me for pricing").
+- Possible extra fees: long carry $175 if truck can't park within 75 ft (added in the October 13 correction); price rises if shipment weighs more
+- Valid until: NOT STATED
+
+3. GREAT PLAINS VAN LINES (Linda Harrow, October 14, 2026)
+- Estimate type: Binding not-to-exceed
+- Price as stated: CONFLICT. Email body says $8,940. Summary box at the bottom says $8,490.
+- Estimated weight: 8,100 lbs
+- Packing: full packing included (packing day April 16, 2027), kitchen unpacking, debris removal, crating up to 4 framed artworks
+- Pickup: loading April 17, 2027 (packing April 16)
+- Delivery: guaranteed April 22, 2027; $100 per day paid to the family if late
+- Deposit: 20% of the not-to-exceed price, due at booking; refundable if cancelled 30 or more days before packing date. No dollar amount printed. 20% of $8,940 = $1,788; 20% of $8,490 = $1,698.
+- Protection: full value protection up to $50,000 included
+- Possible extra fees: shuttle truck $425; stair carry $85 per flight beyond the first
+- Valid until: November 15, 2026
+
+4. TWO RIVERS MOVING & STORAGE (Dev Patel, October 15, 2026)
+- Estimate type: Binding
+- Price as stated: NO TOTAL STATED. Line items: linehaul $5,120; fuel surcharge $410; origin stair carry $0; packing materials $360. Sum of fixed items = $5,890. With the $425 shuttle = $6,315.
+- Estimated weight: 7,500 lbs
+- Packing: materials only ($360, delivered 2 weeks before); family packs
+- Pickup: loading April 16 or 17, 2027
+- Delivery: 7 to 12 days after loading
+- Deposit: $250 to reserve the date (refund terms NOT STATED). Can hold dates one week without a deposit.
+- Protection: released value included (60 cents a pound). Full value protection $295 more, up to $55,000.
+- Possible extra fees: destination shuttle $425 if a 53 ft trailer can't reach the building; storage in transit free 30 days, then $3.10 per 100 lbs per month
+- Valid until: NOT STATED (dates held one week without deposit)
+- Crew: 3 movers plus driver at loading; 2 plus driver at delivery
+
+5. MILE HIGH CONTAINER CO. (automated quote, October 16, 2026)
+- Estimate type: Portable container quote. Not a moving-crew estimate. Family packs, loads and unloads.
+- Price as stated: $4,180 (2 x 16-foot containers, all transport, 30 days of use)
+- Estimated weight: NOT STATED (not weight based)
+- Packing: not included. Loading help not included; partner crew about $600 for 3 people for 4 hours, booked directly (estimate only).
+- Pickup: containers delivered April 3, 2027; picked up from Columbus by April 17, 2027
+- Delivery: estimated 5 to 8 business days after pickup; 7 days to unload in Denver
+- Deposit: $99, applied to total
+- Protection: optional contents protection $45 per container per month, up to $25,000 per container
+- Possible extra fees: $189 per container for each additional 30 days; possible Denver street permit; loading help about $600
+- Valid until: 7 days from October 16, 2026 (that is, October 23, 2026)
+
+ITEMS A GOOD RESULT MUST FLAG
+- Great Plains: two different totals ($8,940 and $8,490). Must not silently pick one.
+- Rocky Ridge: deposit, full value price and validity date not stated; long carry fee comes from the correction email.
+- Two Rivers: no total stated. If Claude adds the items, the sum must be $5,890 (or $6,315 with shuttle) and must be labeled as its own addition.
+- Mile High: not comparable on weight; labor not included.
+- The five quotes use three different weights for the same house (7,200 / 7,500 / 7,800 / 8,100 lbs). Not an error in the table, but worth a note.
+
+ERRORS TO WATCH FOR
+- Using $8,490 or $8,940 for Great Plains without flagging the conflict.
+- Leaving out Rocky Ridge's $175 long carry fee (it is only in the top reply).
+- Writing a dollar deposit for Great Plains as if it were printed.
+- Inventing a validity date for Rocky Ridge or Two Rivers.
+
+========================================================
+TRANSFER ANSWER KEY: SUPPLIER INVOICES (wf08-transfer-supplier-invoices.txt)
+Computed with python3 (Decimal, cents rounded half up; Maine sales tax shown on the invoices is 5.5%).
+
+Supplier | Invoice # | Invoice date | Terms | Due date | Subtotal (printed) | Tax | Shipping | Total due (printed)
+Casco Bay Janitorial Supply | INV-30417 | October 2, 2026 | Net 30 | November 1, 2026 | $464.10 | $25.53 | $0.00 | $489.63
+Pine State Paper Co. | 7781 | 10/05/2026 (October 5, 2026) | Due on receipt | Not printed (due on receipt) | $240.70 | $13.24 | $18.00 | $271.94
+Northeast Green Clean Products | NGC-0915 | October 9, 2026 | Net 15 | October 23, 2026 (printed) | $287.15 | $15.79 | $9.95 | $312.89
+Casco Bay Janitorial Supply | INV-30552 | October 16, 2026 | Net 30 | November 15, 2026 | $64.40 | $3.54 | $12.50 | $80.44
+
+Sum of printed totals: $1,154.90
+
+PROBLEMS A GOOD RESULT MUST FLAG
+1. NGC-0915 arithmetic: line items add to $287.30 ($142.80 + $65.00 + $79.50), but the printed subtotal is $287.15, a $0.15 difference. With the correct subtotal, tax would be $15.80 and the total $313.05 (python3). The invoice is undercharged by $0.16.
+2. NGC-0915 due date: Net 15 from October 9 is October 24, 2026, but the printed due date is October 23, 2026.
+3. Pine State 7781: no due date printed; terms say "Due on receipt."
+4. INV-30552 includes a return credit of -$44.00 for 2 HEPA vacuum bag packs from INV-30417. The credit is already in the $64.40 subtotal.
+5. Pine State uses a different date format (10/05/2026).

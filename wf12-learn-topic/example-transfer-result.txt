@@ -1,0 +1,57 @@
+Prompt used: the chapter's TURN 1 prompt with the four bracketed parts replaced as the transfer section says, then wf12-transfer-water-cycle-notes.txt pasted after "My notes:". TURN 2 then sent with wf12-transfer-chidi-answers.txt pasted after "My answers:" ([3] left as 3).
+
+===
+
+TURN 1
+
+---
+
+**First, one mistake in the notes.** Under Condensation, Chidi wrote "condensation = when the water vapor turns into rain. clouds = water vapor." Two parts of that don't match the study guide:
+- Condensation is water vapor cooling into tiny drops of liquid water. Those drops are what clouds are made of. Rain falling is a different step, precipitation.
+- Clouds aren't water vapor. Water vapor is a gas you can't see. Clouds are the tiny liquid droplets (or ice crystals) that form when the vapor cools.
+
+Worth fixing in his notes before Friday.
+
+**1. The main idea**
+
+The water on Earth keeps moving in a loop between the ground and the sky. It doesn't get used up. The total amount stays about the same. It just changes form (ice, liquid water, or an invisible gas called water vapor) and moves to new places.
+
+The sun is the engine. Its heat turns liquid water into vapor that rises into the air. Up high, the air is cooler, so the vapor turns back into tiny drops that form clouds. When the drops get heavy enough, gravity pulls them down as rain or snow. Then the water soaks into the ground or runs off into rivers and oceans, and the loop starts again.
+
+**2. Condensation vs. precipitation**
+
+They're two steps in a row, not the same thing. Condensation happens up in the air: water vapor cools and turns into tiny droplets, and lots of those droplets together make a cloud. Nothing is falling yet. Precipitation is the next step: the droplets join together and get too heavy to float, so they fall as rain, snow, sleet or hail. A quick way to remember it: condensation makes the cloud, precipitation empties it.
+
+**3. A worked example**
+
+*You take a hot shower, and afterward the bathroom mirror is foggy and dripping.*
+
+Step 1: The hot water heats the air and some of it becomes water vapor. That's evaporation.
+Step 2: The vapor touches the cool mirror and cools down.
+Step 3: It turns into tiny drops of liquid water on the glass. That's condensation. The fog on the mirror is like a mini cloud.
+Step 4: The tiny drops join into bigger drops, get heavy, and run down the mirror. That's like precipitation: gravity pulling the water down.
+
+That's where I'll stop. Try the review questions first, then send me the answers.
+
+===
+
+TURN 2
+
+---
+
+**Results: 6 of 8 right.**
+
+1. **Right.** The sun.
+2. **Right.** Evaporation.
+3. **Wrong.** Correct answer: **condensation.** The question describes vapor cooling and forming the droplets that make up clouds. The study guide calls that condensation. Precipitation is when the water falls. This is the same mix-up as the note that says condensation "turns into rain."
+4. **Right.** Transpiration.
+5. **Right.** Infiltration.
+6. **Wrong.** Correct answer: **sublimation.** The study guide says sublimation is ice or snow turning "directly into water vapor without melting first." Evaporation starts with liquid water. This was in the class Chidi missed.
+7. **Right.** Runoff.
+8. **Right.** Hotter means more energy from the sun, so the water evaporates faster. For a full-credit answer, he could name the sun: "The sun gives the puddle more heat energy, so the water evaporates faster."
+
+**Three new practice questions**
+
+1. On a cold morning, you breathe out and see a little cloud in front of your face. What process made that cloud?
+2. A pile of snow on a sunny mountain gets smaller even though it's too cold for it to melt. Where is the snow going, and what is that process called?
+3. Tiny water droplets in a cloud bump into each other and join until they're too heavy to stay up. What is the next step called?

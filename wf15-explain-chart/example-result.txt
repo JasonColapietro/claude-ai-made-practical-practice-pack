@@ -1,0 +1,43 @@
+**1. What the chart is**
+
+- **Title:** "Harbor & Home Cleaning: bookings by service type"
+- **Subtitle:** "Number of bookings per month, April to September 2026"
+- **Type:** grouped bar chart, one group of four bars per month, with the value printed above each bar.
+- **Vertical axis:** "Bookings," from 0 to 70 in steps of 10.
+- **Horizontal axis:** "Month (2026)," showing Apr, May, Jun, Jul, Aug and Sep*.
+- **Time period:** April to September 2026. September is marked with an asterisk.
+- **Colors:** blue = Standard, orange = Deep, green = Move-out, purple = Small office.
+- **Footnote, word for word:** "* September shows bookings through September 21 only. The booking system changed on September 22."
+
+**2. Every value on the chart**
+
+| Month | Standard | Deep | Move-out | Small office | Total |
+|---|---|---|---|---|---|
+| Apr | 58 | 19 | 6 | 17 | 100 |
+| May | 61 | 27 | 9 | 18 | 115 |
+| Jun | 64 | 23 | 14 | 17 | 118 |
+| Jul | 57 | 18 | 17 | 16 | 108 |
+| Aug | 55 | 17 | 19 | 18 | 109 |
+| Sep* (through Sep 21) | 44 | 14 | 8 | 13 | 79 |
+
+Every value is printed on its bar, so none were unclear. The totals are my sums of the four printed values.
+
+**3. What the chart clearly shows**
+
+- **Standard cleans are the biggest service every month.** They range from 55 to 64 in the full months (April to August), and each month they outnumber the other three services combined. In June, for example, Standard was 64 and the other three added up to 54.
+- **Move-out bookings climbed steadily from April to August:** 6, 9, 14, 17, 19. By August, Move-out (19) passed Deep (17) for the first time on this chart.
+- **Total bookings peaked in June at 118,** then settled at 108 in July and 109 in August. Standard followed the same shape, peaking at 64 in June and easing to 55 by August.
+- **Deep cleans peaked in May at 27** and drifted down to 17 by August.
+- **Small office held steady,** between 16 and 18 every full month.
+
+About September: its bars are lower across the board (79 total), but the footnote says September only counts bookings through September 21, and the booking system changed on September 22. So September is not a full month and can't be compared fairly with April to August. Even the drop in Move-out from 19 to 8 can't be read as a real decline from this chart.
+
+**4. What this chart can't tell me**
+
+- Anything after September 21, or whether numbers from the new booking system will be counted the same way.
+- Why any number went up or down, or what the bookings were worth in money. The chart counts bookings only.
+- Whether "bookings" means jobs completed, or also includes cancelled or rescheduled visits.
+
+**5. Note to my team (70 words)**
+
+Hi all, here's a quick look at bookings from April to August. Standard cleans were our biggest service every month, with a high of 64 in June. Move-out bookings grew every month, from 6 in April to 19 in August. Small office stayed steady at 16 to 18. September isn't in this comparison yet, because the report only runs through September 21. Thanks for all the work behind these numbers.

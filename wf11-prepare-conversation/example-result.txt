@@ -1,0 +1,99 @@
+TURN 1 (prompt Turn 1 plus wf11-input-client-notes.txt pasted after "My notes:")
+
+---
+
+**Things to confirm first**
+
+1. **The 60-day notice doesn't fit the dates.** Your notes say your contract promises 60 days' notice for any rate change. The call is Thursday, November 12, and the new rate starts January 1, 2027. That's 50 days. Sixty days from November 12 is January 11. Before the call, check what your contract actually says. If it means 60 days, your options are to tell her in writing before November 2 (then confirm on the call), or move the start date. Option A (April 1) also solves it.
+2. **How long she's been a client.** "Client since March 2021" makes it about five and a half years, but another line says "She's been with me 4 years." I've used "since 2021" below so you don't have to pick a number on the call.
+3. **Extra hours next year.** You billed 14 extra hours in 2026 "so far," not for the full year. I've shown those hours as a comparison, not as a prediction for 2027.
+4. **The call is hers.** She booked it as "Planning for 2027" and wants to talk about sunset paddles and gift cards. You'll be raising the rate in her meeting, so the opening below gets it said early and then hands the call back to her.
+
+---
+
+**PREP SHEET: Rate call with Gwen Tallis, Coastline Kayak Tours**
+Thursday, November 12, 2:00 p.m. (20 minutes, video)
+
+**1. My goal**
+Gwen leaves the call knowing her rate is $80 an hour from January 1, feeling valued, and still excited to plan 2027 with me.
+
+**2. The numbers**
+
+| | Now ($65/hour) | From January 1 ($80/hour) | Change |
+|---|---|---|---|
+| Care plan, 6 hours a month | 6 × $65 = $390/month | 6 × $80 = $480/month | +$90/month |
+| Care plan, per year | $390 × 12 = $4,680 | $480 × 12 = $5,760 | +$1,080/year |
+| 14 extra hours (2026 so far) | 14 × $65 = $910 | 14 × $80 = $1,120 | +$210 |
+
+The rate goes up $15 an hour. If she used the same extra hours in 2027, her year would go from $5,590 to $6,880. That's a guide only, since 2027 extra work isn't known.
+
+**3. My opening (76 words)**
+"Gwen, before we get into 2027, I want to cover one thing so there are no surprises on your invoices. Starting January 1, my hourly rate goes from $65 to $80. Your care plan stays at six hours, so that's $480 a month. I haven't changed your rate since we started in 2021, and you'll still be below my standard rate. I want to keep doing this work with you. Now, tell me about sunset paddles."
+
+Then stop talking and let her respond.
+
+**4. Likely objections and replies**
+
+- **"Why now? It was a rough summer."**
+  "I know, and I'm sorry about all those rainy weekends. I've kept your rate the same since 2021. I'm telling you now, weeks ahead, so you can plan for it."
+- **"I thought we were friends."**
+  "We are. That's why you're getting a lower rate than anyone else I work with. I want to keep doing this for a long time, and that only works if the rate is fair to both of us."
+- **"My nephew does websites."**
+  "That's fair to think about. If you ever decide to go that way, I'll hand everything over cleanly. I'd like to keep it, though. I know your booking pages inside and out."
+- **"Money's tight until spring. Can you do less?"**
+  "The rate is set at $80. If the timing is what's hard, let's talk about timing." (Then pause. This is where Fallback A can come in, only if she's still stuck.)
+
+**5. Fallback and floor**
+
+- **Fallback A: start April 1 instead of January 1.** Use it if her problem is timing, not the rate. It fits her slow season, and it solves the notice question. Her 2027 care-plan cost: 3 × $390 + 9 × $480 = $5,490 instead of $5,760.
+- **Fallback B: keep January 1, drop to 5 hours.** 5 × $80 = $400/month, only $10 more than today. Use it if her problem is the monthly total. Be clear that work over 5 hours is billed at $80 an hour. Note: she used 14 extra hours this year already, so a smaller plan may mean more extra invoices, and she hates surprises on invoices.
+- Offer only one fallback at a time, and only after she has pushed back hard.
+- **Floor: $75/hour.** This is not an offer. It's the line for you. If she can't go above it, help her find someone else, kindly, and hand over everything cleanly.
+
+**6. Three things not to say**
+
+1. Any discount or fallback before she asks for one. ("I could maybe do $70...")
+2. A long explanation of your costs or why you deserve it. Say it once, then stop.
+3. Her nephew or her 15% drop in bookings, unless she brings them up first.
+
+**7. Follow-up email (after the call)**
+
+Subject: Confirming our call and 2027 plans
+
+Hi Gwen,
+
+Thanks for the time today. I enjoyed hearing about sunset paddles and gift cards, and I'll send ideas for both soon.
+
+As we discussed, my rate changes from $65 to $80 an hour starting January 1, 2027. Your care plan stays at 6 hours a month, so it will be $480 a month. Extra work outside the plan will also be $80 an hour.
+
+Nothing else about the plan changes. If anything looks unclear on your January invoice, just ask.
+
+Thanks for all these years working together. I'm looking forward to 2027.
+
+Marcus
+
+(If you agree on Fallback A or B instead, change the start date or the hours in the second paragraph.)
+
+===
+
+TURN 2 (prompt Turn 2. The tester wrote Marcus's lines to test the role-play, including some over-explaining on purpose.)
+
+Marcus: Gwen, before we get into 2027, I want to cover one thing so there are no surprises on your invoices. Starting January 1, my hourly rate goes from $65 to $80.
+
+Claude (as Gwen): Oh. Wow. Marcus, you know what this summer was like. Eleven rainy weekends. I literally just told you I'm watching every dollar this winter. That's almost $100 more a month, right when nothing's coming in.
+
+Marcus: I know, and I totally get it. It's just that my costs have gone up a lot, software subscriptions, insurance, everything, and I've been at $65 for years, and honestly everyone else is paying $85 or $90 now, so this is still a deal.
+
+Claude (as Gwen): I'm not everyone else, though. I've been with you since the beginning, I've never paid late, and I sent you Alder Street. I guess I thought that counted for something.
+
+Marcus: It does, it really does. Maybe we could do $70 for now and see how spring goes?
+
+Claude (as Gwen): Well, $70 I could probably live with. Can we just do that?
+
+Marcus: done
+
+Claude: Stepping out of the role. Three notes on what you said:
+
+1. **Your first line was strong.** "Starting January 1, my hourly rate goes from $65 to $80" was clear, with the date and both numbers. Keep it exactly like that.
+2. **You over-explained after her first push.** "My costs have gone up a lot, software subscriptions, insurance, everything" invited her to argue with your costs. Try one sentence instead: "I know the timing is hard. I've held your rate since 2021, and $80 is still below my standard rate." Then stop.
+3. **You offered a discount she hadn't asked for, below your floor.** "Maybe we could do $70 for now" is $5 under your $75 floor, and she took it right away. When she says "I thought that counted for something," answer the feeling ("It does, and it's why you're below my standard rate"), then wait. If she's still stuck, offer Fallback A (April 1) before anything else.

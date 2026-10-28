@@ -1,0 +1,64 @@
+WORKFLOW 19 ANSWER KEY
+All numbers below were computed with a short script (editorial/calc/wf19-calc.py) from wf19-input-rate-sheet.txt and wf19-input-discovery-notes.txt. Wording in a good result will differ; the numbers and flags should not.
+
+PAGES PRICED IN THE MAIN PROJECT (8)
+Home; Shop (arrangements); Sympathy flowers; Weddings & Events (gallery + inquiry form); Workshops (class list + sign-up); About; Delivery info & contact; FAQ.
+Flower Club is phase 2 and must NOT be priced into the main cost. (If mentioned, it is "Not included yet" or "phase 2". A later extra page would be $300 on the rate sheet, but the subscription feature itself has no price on the sheet.)
+
+COST TABLE
+Website redesign, up to 6 pages ............ $3,600
+2 additional pages x $300 .................. $600
+Online store setup (about 20 arrangements, under the 25-product limit) ... $1,200
+Class sign-up with online payment .......... $450
+BUILD TOTAL ................................ $5,850
+Care plan, $85 x 12 months (12-month minimum) ... $1,020
+FIRST-YEAR TOTAL ........................... $6,870
+
+Not in the totals (paid by the client to providers): store platform subscription, hosting and domain renewal, payment processing fees, stock photos or photographer.
+Optional, not included unless chosen: copywriting $125 per page (all 8 pages = $1,000, which would make the first year $7,870); photo editing $40 per hour (about $200 per 50 photos at the rate sheet's rough guide).
+
+PAYMENT SCHEDULE ON THE $5,850 BUILD
+50% deposit: $2,925.00
+25% at design approval: $1,462.50
+25% at launch: $1,462.50
+
+BUDGET CONFLICT THAT MUST BE NAMED
+Call notes: "around five thousand." Email (Oct 8): under $6,000 all in, including the first year of the monthly plan.
+Build alone ($5,850) is $150 under $6,000. First year with care plan ($6,870) is $870 over $6,000.
+Against the call figure of about $5,000, the build alone is $850 over.
+
+TIMELINE
+Start date: Monday, November 30, 2026 (next opening).
+Under 12 pages = 6 to 8 weeks, plus 2 weeks for an online store = 8 to 10 weeks.
+Earliest launch: Monday, January 25, 2027 to Monday, February 8, 2027.
+Depends on: deposit AND page text and photos received by November 30. Late content moves the date by the same amount.
+Valentine's Day 2027 is Sunday, February 14: possible only if everything is in on day one (6 days of slack at the late end). It must not be promised.
+Mother's Day 2027 is Sunday, May 9: comfortable on this timeline.
+DEADLINE CONFLICT THAT MUST BE NAMED: Rosa wants Valentine's Day; Tess and the email say Mother's Day at the latest.
+
+ASSUMPTIONS A GOOD RESULT LISTS (numbered, in section 5)
+- Who writes the page text (Rosa "some of it"; unclear) or whether they buy copywriting.
+- Who supplies photos; whether they hire a photographer for weddings.
+- Who has the domain and hosting logins (thought to be Owen's accounts).
+- Which store platform (no choice made yet); its subscription and per-sale fees are separate.
+- Whether they keep the wire service.
+- About 20 products at launch (fits the 25-product limit).
+- Rosa and Tess both approve; Tess handles payment.
+- Flower Club is not in this project.
+
+FOLLOW-UP ANSWER (stay under $6,000 all in, class sign-up kept in every option)
+Option: skip the care plan, keep everything else. First year $5,850 ($150 under). Gives up backups, updates and monthly edit hour; they edit hours and banners themselves after the training call.
+Option: keep care plan, cut to 6 pages (merge pages). First year $6,270. STILL $270 OVER. A good result says this does not get under $6,000 on its own.
+Option: keep care plan and all 8 pages, drop the online store for now (keep phone and wire orders). Build $4,650, first year $5,670 ($330 under). Gives up online ordering, which was Rosa's number 2 request. Store could be added later at $1,200.
+Option: keep care plan, 6 pages, no store. First year $5,070 ($930 under).
+Key fact: with the care plan included, the build can be at most $4,980, so the online store and the care plan cannot both fit unless something else gives.
+A result that claims "6 pages plus store plus care plan" fits under $6,000 is wrong.
+
+TRANSFER (Priya) FACTS A GOOD RESULT USES
+Incidents: Westerville front desk uncovered Sept 14 and Sept 28 (swaps by text, never recorded); Grove City short an aide Oct 9 while Dublin had an extra.
+Priya's Monday merge: about 2 hours (some weeks closer to 3). Managers: "an hour or two" a week (Tom in Dublin: closer to three).
+Staff in scope: about 46 (Dublin 18, Westerville 15, Grove City 13), to be confirmed with HR.
+Cost: calendar said to be included; part-time accounts (about 10 people) may need an upgrade at an unknown per-person cost (Raj in IT to confirm). Training: 30 minutes per clinic plus possibly an extra hour per manager.
+Unknowns to flag: swap approvals, part-time accounts, notifications on personal phones (HR), running spreadsheets side by side.
+Decisions asked: yes or no on a 4-week Westerville pilot starting the week of Nov 16, and about one hour of Raj's time.
+Must state: staff shifts only, no patient information.

@@ -1,0 +1,36 @@
+WORKFLOW 21: ORGANIZE REUSABLE CONTEXT IN A CLAUDE PROJECT
+
+PART 1: PROJECT INSTRUCTIONS
+Paste this into the project's instructions box (Set project instructions), then click Save instructions.
+The same text is in wf21-input-project-instructions.txt with the brackets already filled in.
+------------------------------------------------------------
+You help me, [DANA RUIZ], owner of [HARBOR & HOME CLEANING], write [CUSTOMER EMAILS, QUOTES AND SHORT POSTS].
+
+Job: Draft writing I can send after one quick read.
+
+Material: Use only the facts in the business facts file in this project. Follow the project brief file. Match the tone of the voice sample file.
+
+Shape: Emails under [175] words. Warm, direct and plain. No exclamation points. Sign off "[DANA]".
+
+Check: If an answer needs a fact that is not in the business facts file (a price, a date, an opening), do not guess, and do not work it out from an example email. Write "CHECK:" and what's missing in the draft where the fact would go. Then list every CHECK item under the draft.
+------------------------------------------------------------
+
+PART 2: FIRST TEST (new chat inside the project)
+Type the first line, then paste the contents of wf21-input-test-email.txt under it.
+------------------------------------------------------------
+Draft a reply to this email:
+[PASTE THE EMAIL]
+------------------------------------------------------------
+
+PART 3: SECOND TEST (a different new chat inside the same project)
+------------------------------------------------------------
+Write a two-sentence reminder for clients about our cancellation policy.
+------------------------------------------------------------
+
+TRANSFER: OKAFOR "DENVER MOVE" PROJECT
+Instructions: paste wf21-transfer-project-instructions.txt into Set project instructions.
+File: upload wf21-transfer-denver-move-facts.txt to Files.
+Test question (new chat inside that project):
+------------------------------------------------------------
+What do we still need to decide or do before the end of March? For each item, give the deadline from our file (or CHECK if there isn't one) and the next step.
+------------------------------------------------------------

@@ -1,0 +1,115 @@
+WF10 ANSWER KEY: Harbor & Home supplier comparison
+All numbers computed with a python3 script from the practice files. Monthly order from wf10-input-harbor-needs.txt.
+
+SUPPLIER A: Casco Bay Janitorial Supply (wf10-input-proposal-casco-bay.txt)
+  All-purpose concentrate, 1 gal: 8 x $24.00 = $192.00
+  Glass concentrate, 1 gal: 4 x $18.50 = $74.00
+  Bathroom cleaner, 1 gal: 6 x $26.00 = $156.00
+  Floor concentrate, 1 gal: 3 x $22.00 = $66.00
+  Microfiber cloths, pack of 12: 10 x $15.00 = $150.00
+  Nitrile gloves, box of 100: 10 x $11.50 = $115.00
+  Product total: $753.00
+  Delivery: $0 (free over $300)
+  MONTHLY TOTAL: $753.00   (over the $700 budget by $53.00)
+
+SUPPLIER B: Northeast CleanSource (wf10-input-proposal-northeast-cleansource.txt), using the price TABLE
+  All-purpose concentrate, 1 gal: 8 x $22.50 = $180.00
+  Glass concentrate, 1 gal: 4 x $16.00 = $64.00
+  Bathroom cleaner, 1 gal: 6 x $23.00 = $138.00
+  Floor concentrate, 1 gal: 3 x $19.50 = $58.50
+  Microfiber cloths, pack of 12: 10 x $13.00 = $130.00
+  Nitrile gloves, box of 100: 10 x $9.75 = $97.50
+  Product total: $668.00
+  5% volume discount (product total over $600): -$33.40
+  Delivery fee: $25.00
+  MONTHLY TOTAL: $659.60
+  CONFLICT: section 1 says all-purpose is $21.00/gal; the section 3 table says $22.50/gal.
+  At $21.00 the product total is $656.00, discount -$32.80, monthly total $648.20. Difference: $11.40 a month.
+  Not included: fragrance-free Bath & Tile is special order, 'pricing and lead time on request'. Its price is UNKNOWN.
+  ALTERNATIVE (follows the prompt's rule to leave out any item whose price is missing): the bathroom cleaner Dana
+  needs is the fragrance-free one, which has no price. Leaving it out:
+  All-purpose $180.00 + Glass $64.00 + Floor $58.50 + Cloths $130.00 + Gloves $97.50 = product total $530.00
+  No volume discount (under $600). Delivery fee $25.00. MONTHLY TOTAL WITHOUT BATHROOM CLEANER: $555.00
+  Either $659.60 (scented price used) or $555.00 (bathroom cleaner left out) is correct if the result says which.
+
+SUPPLIER C: GreenShelf Direct (wf10-input-proposal-greenshelf.txt)
+  Quoted prices are Price Lock prices, which require a 24-month plan.
+  All-purpose concentrate, 1 gal: 8 x $20.00 = $160.00
+  Glass concentrate, 1 gal: 4 x $17.00 = $68.00
+  Bathroom cleaner, 1 gal: 6 x $21.50 = $129.00
+  Floor concentrate, 1 gal: 3 x $18.00 = $54.00
+  Microfiber cloths, pack of 12: 10 x $16.50 = $165.00
+  Nitrile gloves, box of 100: 10 x NOT CARRIED (see P.S. in the email)
+  Price Lock product total (5 items, no gloves): $576.00; shipping $0 (free at $400 or more)
+  Price Lock monthly total: $576.00   (requires 24-month plan, which breaks must-have 4)
+  Month-to-month list price (8% above Price Lock): $576.00 x 1.08 = $622.08; shipping $0
+  Month-to-month monthly total WITHOUT gloves: $622.08
+  Plus gloves ordered alone from Supplier A: 10 x $11.50 = $115.00, plus A's $20 delivery charge (order under $300) = $135.00
+  C month-to-month + gloves from A: $622.08 + $135.00 = $757.08  (over budget by $57.08; $4.08 more than A alone)
+  Gloves cannot be ordered alone from B (B has a $250 minimum and a 12-month agreement).
+  Gloves from any other source: price not in the files, so UNKNOWN.
+
+MUST-HAVES CHECK
+                        A Casco Bay          B Northeast              C GreenShelf
+1 Fragrance-free, all 4  Yes                  Bath & Tile: special     Yes (fragrance-free by default)
+                                              order only, price unknown
+2 Pet-safe option        Yes (all-purpose,    Yes (all-purpose,        Yes ('safe around pets ... when
+                         floor; not bath)     floor)                   used as directed')
+3 Delivered in 5 bus.    Yes (next business   Only if ordered by       Unclear: 3 to 5 days, 'up to 7'
+  days                   day by 2 p.m.)       Monday 5 p.m. An order   for some northern New England
+                                              placed Tuesday arrives   addresses
+                                              Thursday of the next
+                                              week (7 business days)
+4 Lock-in 6 months max   Yes (month-to-month) NO (12 months, auto-     Yes only at list price (month-to-
+                                              renews, $200 early fee)  month); Price Lock needs 24 months
+Budget under $700        NO ($753.00)        Yes ($659.60 or $555.00)        $622.08 without gloves; $757.08
+                                                                       with gloves from A (NO)
+
+NICE-TO-HAVES
+  Net 30: A yes (credit application needed); B Net 15; C card only, charged at shipping.
+  Real person by phone: A yes (Rob, ext. 2); B 1-800 line plus quarterly rep visit; C chat and email only.
+  Less plastic: A takes back jugs for refill; B no mention; C refill pouches.
+  One supplier for everything: A yes; B yes; C no gloves.
+
+A GOOD RESULT SAYS
+  - B fails must-have 4 (12-month term), and its fragrance-free bathroom cleaner price is unknown.
+  - B's all-purpose price conflicts ($21.00 vs $22.50).
+  - C's quoted prices need a 24-month plan; month-to-month is 8% higher, and C has no gloves.
+  - A meets every must-have but is over budget.
+  - No supplier meets every must-have AND the budget as quoted. A is the only one that clearly meets all four
+    must-haves, at $53.00 a month over budget. C month-to-month is under budget only if gloves cost less than
+    $77.92 a month from some other source (700.00 - 622.08), and its delivery time to Portland must be confirmed.
+    The choice is Dana's.
+  - Questions to send before deciding: C's real delivery time to 214 Fore Street; whether A will hold or
+    lower prices for a monthly account; B's fragrance-free Bath & Tile price (only if B drops the 12-month term).
+  - Ellie's headache comment cannot be tied to any supplier from these files and should be flagged, not guessed.
+
+TRANSFER: see the second half of this file.
+
+=====================================================================
+TRANSFER ANSWER KEY: Okafor after-school programs
+Files: wf10-transfer-denver-programs.txt, wf10-transfer-okafor-needs.txt
+Month = 4 school weeks = 20 school days (from the needs file). Budget: under $600 a month, 5 days a week.
+
+1 PINECREST: $95 x 4 weeks = $380.00/month. First month with $35 registration: $415.00.
+  Open to 6:00 p.m. (meets must-have 1, exactly). Staff walk kids from Aspen Hollow (meets 2).
+  FULL with a waitlist of 9 families; openings 'usually' in March. Must-have 3 is NOT confirmed.
+  Homework hour yes; crafts yes; outdoor play yes. Closed school holidays and early-release days.
+
+2 BRIGHT PEAKS: flyer says $520/month. FAQ says $135/week x 4 = $540.00/month. CONFLICT of $20.00.
+  First month with $75 registration: $595.00 (flyer) or $615.00 (FAQ). A regular month is under $600 at either rate; the first month is not, at the FAQ rate.
+  Open to 6:30 p.m. (meets 1). Van from Aspen Hollow (meets 2). 'Space in our 3rd to 5th grade group' (likely meets 3; confirm for April 5).
+  Art and STEM yes; homework block with a certified teacher yes; outdoor time not mentioned (UNKNOWN).
+  Holiday Camp $65/day on most holidays; early release covered at no charge.
+
+3 TRAILHEAD: $28 x 20 days = $560.00/month. First month with $40 registration: $600.00 (not under $600).
+  Closes 5:45 p.m. FAILS must-have 1 (needs at least 6:00 p.m.).
+  At the school (meets 2). Room for a 4th grader in April (meets 3). Mostly outdoors, some art.
+  Homework optional, not structured. No holidays; early release +$15.
+
+A GOOD RESULT SAYS
+  - Trailhead is out on hours (5:45 p.m.), even though it has a spot and is at the school.
+  - Pinecrest is cheapest and meets 1 and 2, but has no confirmed spot. Joining the waitlist is free.
+  - Bright Peaks meets all four must-haves as written, with a price conflict to confirm ($520 vs $540).
+  - Questions to ask: Bright Peaks' real monthly price and an April 5 spot; whether Bright Peaks has outdoor time;
+    Pinecrest's waitlist position. The holiday answers are in the files; the deposit-before-spot question is not.

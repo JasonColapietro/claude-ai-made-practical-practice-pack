@@ -1,0 +1,1 @@
+Check the [GREAT PLAINS VAN LINES] email again. The email body and the summary box at the bottom give different totals. Show both figures in the Price column and mark the cell "CONFLICT." Then check every other cell in the table. If a figure is not printed in that company's email and is not labeled "(my addition)," replace it with "Not stated." Give me the corrected table.

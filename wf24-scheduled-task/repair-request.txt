@@ -1,0 +1,1 @@
+Add this as the first step of every run: find the Monday this summary is for. That's the run date if it's a Monday, otherwise the next Monday. If none of the file's jobs fall in the week that starts on that Monday, reply with one line only, saying which dates the file covers and that it needs replacing. Then stop. Keep everything else the same.

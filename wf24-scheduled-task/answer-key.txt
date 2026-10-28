@@ -1,0 +1,104 @@
+ANSWER KEY: Workflow 24, Schedule one bounded recurring task
+Counts, flags and dates computed with a python3 -I script from the CSV files
+and wf24-transfer-study-plan.txt. Do not edit by hand.
+
+Rules applied (from harbor-home-business-facts.txt, as restated in prompt.txt):
+- Service area: Portland, South Portland, Westbrook, Falmouth, Cape Elizabeth.
+- Scarborough and Yarmouth: $15 travel fee per visit (flag to confirm).
+- No service on the islands (Peaks Island is an island in Casco Bay).
+- First visit to a home over 2,500 sq ft needs a video walk-through, unless
+  the notes say it is done.
+- Small-office cleans: evenings only, after 5:30 p.m.
+- Double booking: same person, same day, a job starts before another job's
+  start time + est_hours.
+
+======================================================================
+wf24-input-week-schedule.csv  (week of Mon Nov 2 to Fri Nov 6, 2026)
+======================================================================
+Jobs by day:
+  Mon 11/02/2026: 5 jobs (H-1101, H-1102, H-1103, H-1104, H-1105)
+  Tue 11/03/2026: 6 jobs (H-1106, H-1107, H-1108, H-1109, H-1110, H-1111)
+  Wed 11/04/2026: 6 jobs (H-1112, H-1113, H-1114, H-1115, H-1116, H-1117)
+  Thu 11/05/2026: 5 jobs (H-1118, H-1119, H-1120, H-1121, H-1122)
+  Fri 11/06/2026: 4 jobs (H-1123, H-1124, H-1125, H-1126)
+  Total: 26 jobs, 11/02/2026 to 11/06/2026
+Flags:
+  - H-1103 Whitfield, J.: first visit, 2800 sq ft (over 2,500), no video walk-through noted
+  - H-1108 Hughes, D. (Scarborough): travel-fee town, confirm the $15 travel fee
+  - H-1113 Pratt, N. (Peaks Island): outside the service area (no island service)
+  - H-1115 Quinlan, J.: no crew assigned
+  - H-1120 Russo, G. (Yarmouth): travel-fee town, confirm the $15 travel fee
+  - H-1121 Keane, M.: no crew assigned
+  - H-1122 Back Cove Chiropractic: small-office clean starts 4:30 PM, before 5:30 p.m.
+  - Kelly: double-booked, H-1107 (9:00 AM to 1:00 PM) overlaps H-1108 (starts 11:00 AM)
+  Flag count: 8
+First visits: H-1103 Whitfield, J., H-1110 Garrison, P., H-1113 Pratt, N., H-1121 Keane, M., H-1122 Back Cove Chiropractic, H-1125 Marsh, H.
+
+======================================================================
+wf24-input-stale-schedule.csv  (week of Mon Oct 26 to Fri Oct 30, 2026)
+======================================================================
+Jobs by day:
+  Mon 10/26/2026: 4 jobs (H-1077, H-1078, H-1079, H-1080)
+  Tue 10/27/2026: 4 jobs (H-1081, H-1082, H-1083, H-1084)
+  Wed 10/28/2026: 3 jobs (H-1085, H-1086, H-1087)
+  Thu 10/29/2026: 3 jobs (H-1088, H-1089, H-1090)
+  Fri 10/30/2026: 3 jobs (H-1091, H-1092, H-1093)
+  Total: 17 jobs, 10/26/2026 to 10/30/2026
+Flags:
+  - H-1089 Quarry, S. (Yarmouth): travel-fee town, confirm the $15 travel fee
+  Flag count: 1
+First visits: H-1089 Quarry, S.
+
+NOT problems (a good summary does not flag these):
+- H-1110 Garrison, P.: first visit, 2,700 sq ft, but notes say "video
+  walk-through done 10/29".
+- H-1125 Marsh, H.: first visit, 2,000 sq ft (under 2,500), Cape Elizabeth.
+- H-1118 Lowry, D.: crew "Sarah + Dana" is correct (Dana covers for Miguel,
+  who is out Wednesday and Thursday; see wf20-transfer-dana-week.txt). Sarah
+  is not on another Thursday job.
+- H-1111 Casco Tax Services (Aisha + Tomas, 6:00 p.m.) right after H-1110
+  (1:00 to 6:00 p.m.): back to back, not overlapping.
+- H-1117 Ortiz (Aisha + Tomas, 1:00 p.m.) right after H-1114 (9:00 a.m. to
+  1:00 p.m.): back to back, not overlapping.
+- H-1116 Hale: note about the changed lockbox code is information, not a rule
+  break. A summary may mention it; it should not call it a problem.
+
+STALE FILE BEHAVIOR
+- Original prompt (no date check): summarizes wf24-input-stale-schedule.csv
+  as if it were this week: 17 jobs, one flag (H-1089 Yarmouth travel fee).
+  That is the failure the lesson shows.
+- After repair-request.txt is added: the task works out "the Monday this
+  summary is for" (the run date if a Monday, else the next Monday) and
+  checks whether any of the file's jobs fall in the week starting that Monday.
+    * Run on Mon Nov 2, 2026 (or "run now" Tue Oct 27 to Sun Nov 1, 2026):
+      wf24-input-week-schedule.csv -> full summary (first job Mon Nov 2).
+      wf24-input-stale-schedule.csv -> one line (covers Oct 26 to Oct 30).
+    * Run on any date after Nov 2, 2026: both practice files get the one
+      line, because their dates have passed. Expected and stated in the lesson.
+
+=====================================================================
+TRANSFER: Sam Rivera, Sunday study check-in
+File: wf24-transfer-study-plan.txt (pasted into the task instructions)
+=====================================================================
+The Nov 6 announcement moves Practice Set 8 from Thu Nov 12 to Tue Nov 17.
+Quiz 2 (chapters 5 to 7) is NOT moved: Tue Nov 10. These dates match Sam's
+course facts in practice-pack/wf20-weekly-plan/wf20-input-sams-week.txt.
+
+RUN: Sunday Nov 8, 2026  -> covers Mon Nov 9 to Sun Nov 15
+   Tue Nov 10  Quiz 2 on chapters 5, 6 and 7, start of class (NOT moved)
+   Sun Nov 15  Discussion post 8, 11:59 p.m.
+   Classes: Tue Nov 10 (Ch 8), Thu Nov 12 (Ch 8)
+
+RUN: Sunday Nov 15, 2026  -> covers Mon Nov 16 to Sun Nov 22
+   Tue Nov 17  Practice Set 8, start of class (MOVED from Thu Nov 12 by the Nov 6 announcement)
+   Thu Nov 19  Practice Set 9
+   Sat Nov 21  Study group 10 a.m., library room B (optional, not graded, not a deadline)
+   Sun Nov 22  Discussion post 9, 11:59 p.m.
+   Classes: Tue Nov 17 (Ch 9), Thu Nov 19 (Ch 9)
+
+Expected practice-question topics:
+- Run Nov 8: chapter 8 (adjusted trial balance and financial statements),
+  or review of chapters 5 to 7 for Quiz 2. Either is acceptable.
+- Run Nov 15: chapter 9, closing entries.
+Should NOT appear: Practice Set 8 on Thu Nov 12; Quiz 2 moved to any other
+date; the study group listed as a deadline; any due date not in the plan.

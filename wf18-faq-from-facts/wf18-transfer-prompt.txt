@@ -1,0 +1,9 @@
+I'm the operations coordinator for Northfield Physical Therapy, which has three clinics in Ohio. I'm writing a new-patient FAQ for our website and the front desk, and I want it to answer the questions people actually ask.
+
+Job: Write an FAQ for new patients before their first visit. I've attached two files: our approved front desk facts and a list of questions new patients ask. Never answer a question about symptoms, pain, medicines, exercises or treatment. List those in a separate section called "Ask your therapist."
+
+Material: Answer only from the facts file. Every answer must be supported by a line in that file. Don't add policies, prices, times or promises that aren't there, even if they seem normal for a physical therapy clinic.
+
+Shape: Combine duplicate questions. Group the questions under [4 to 6] short headings, such as Prices or Booking. Write each question the way a customer would ask it, then answer it in 1 to 3 plain sentences. Tone: [warm and direct, no exclamation points]. After each answer, add the part of the facts file it came from in brackets, like [Source: SERVICES AND PRICES], so I can check it. I'll delete these tags before publishing.
+
+Check: At the end, add a section called "Questions I could not answer from the facts." List every question the facts file doesn't answer, or only partly answers, and say what's missing. Leave unanswered questions out of the FAQ. If the facts answer part of a question, answer only that part in the FAQ and also list the question here.

@@ -1,0 +1,101 @@
+Kestrel cleaning agreement: summary for the renewal decision
+
+1. Overview
+
+- Who: Northfield Physical Therapy (the "Client") and Kestrel Commercial Cleaning (the "Vendor"), signed December 15, 2025. [Opening paragraph; signatures]
+- What: Nightly cleaning of the Dublin, Westerville and Grove City clinics, Monday through Friday, after closing. [Section 3.1; Exhibit A]
+- How long: January 1 to December 31, 2026, then it renews by itself for 12 months at a time. [Sections 2.1, 2.2]
+- How much: $5,665 a month for all three clinics ($2,150 Dublin, $1,875 Westerville, $1,640 Grove City), plus supplies and extras. [Sections 4.1, 4.3]
+- How it ends: Either side can stop the renewal with written notice at least 30 days before the term ends, or end it any time with 60 days' written notice. [Sections 2.2, 12.1]
+
+2. Key dates and deadlines
+
+| Date or deadline | What happens | Section |
+|---|---|---|
+| Nov 17, 2026 | Last day Kestrel can give notice of a price increase for 2027 (45 days before the renewal starts). Late notice means prices stay the same. | 2.3 |
+| Dec 1, 2026 | Last day for Kestrel to receive our non-renewal notice (30 days before Dec 31). Notice counts when received, not when sent. | 2.2, 18.2 |
+| Dec 31, 2026 | First term ends | 2.1 |
+| Jan 1, 2027 | New 12-month term starts if no one gave notice | 2.2 |
+| Any time | Either side can end the agreement with 60 days' written notice | 12.1 |
+| First business day of each month | Kestrel sends the invoice | 4.2 |
+| 10 business days after we receive an invoice | Last day to dispute a charge in writing | 4.5 |
+| 24 hours after a clinic opens | Last time to report a missed or poor cleaning by email | 8.1 |
+
+3. Money
+
+| Item | Amount | Section |
+|---|---|---|
+| Monthly fees, all three clinics | $5,665 a month ($67,980 a year) | 4.1 |
+| Price increase on renewal | Up to 5% with timely notice; more than 5% needs our written consent | 2.3 |
+| Paper products and hand soap | Kestrel's cost plus 10%, billed monthly | 4.3 |
+| Cleaning chemicals, tools, equipment | No extra charge | 4.3 |
+| Extra services (deep cleans and similar) | $48 per cleaner per hour, 2-hour minimum | 3.5 |
+| Holiday service, if we ask for it | 1.5 times the hourly rate ($72 per cleaner per hour) | 3.6 |
+| Late payment | 1.5% a month on the unpaid balance | 4.4 |
+| Service credit | 10% of a clinic's monthly fee if that clinic has 3 or more reported failures in 30 days | 8.3 |
+| Early termination fee | One month of all fees, only if our termination date falls in the first six months of 2026 | 12.1 |
+| Hiring a Kestrel cleaner | $3,000 per person, during the agreement and 12 months after | 13.2 |
+| Lost keys or fobs, false alarms | Kestrel pays | 6.2, 6.3 |
+
+4. Who must do what
+
+We must:
+- Provide keys, fobs and alarm codes. [Section 6.1]
+- Tell Kestrel by 3:00 p.m. if a clinic closes that night. [Section 3.7]
+- Report missed cleanings by email within 24 hours of opening. [Section 8.1]
+- Pay invoices within 30 days and dispute charges in writing within 10 business days. [Sections 4.2, 4.5]
+
+Kestrel must:
+- Clean five nights a week, arriving after 7:30 p.m. and leaving by 5:30 a.m. [Section 3.1]
+- Fix reported failures within one business day at no charge. [Section 8.2]
+- Background-check its staff and train them on patient privacy every year. [Sections 5.2, 7.2]
+- Inspect each clinic weekly and send a written report by the 5th business day of each month. [Section 5.3]
+- Carry the required insurance and send certificates at each renewal. [Sections 9.1, 9.2]
+
+5. Things to watch
+
+- The renewal is automatic. If no notice arrives by Dec 1, you are committed to 2027 at up to 5% more (about $283 a month more at the full 5%). [Sections 2.2, 2.3]
+- A non-renewal notice must go by hand or certified mail with return receipt. Email alone does not count. [Section 18.2]
+- Renewing does not lock you in completely: you can still end the agreement later with 60 days' notice, and the termination fee applies only in the first six months of 2026. [Section 12.1]
+- No refund for holidays or for closing a clinic three or fewer nights in a month. [Sections 3.6, 3.7]
+- The 10% service credit only works if each failure was reported by email within 24 hours. Undocumented complaints don't count toward it. [Sections 8.1, 8.3]
+- Late charges start at 15 days, even though payment is due in 30 (see Problems). [Sections 4.2, 4.4]
+- Kestrel can transfer the agreement to a company that buys its business. If it does, you can leave without penalty within 60 days. [Section 15]
+- Each side's liability is capped at six months of fees, with exceptions. A lawyer should look at this one if it matters to your decision. [Section 11.1]
+
+6. Problems in the document
+
+- Section 12.3 refers to a section that does not exist: "fails to maintain the insurance required by Section 9.4." Section 9 ends at 9.3. The insurance requirements are in Section 9.1. [Sections 9, 12.3]
+- Sections 4.2 and 4.4 conflict on when payment is late. Section 4.2 says "Payment is due within thirty (30) days of the invoice date." Section 4.4 says "Any amount not paid within fifteen (15) days of the invoice date will accrue a late charge." [Sections 4.2, 4.4]
+
+Not stated: the price for 2027. It depends on whether Kestrel gave notice by Nov 17, and that notice is not part of this document. [Section 2.3]
+
+Legal terms: "indemnify" means one side pays the other's costs if a claim arises from its own fault [Section 10]. "Non-solicitation" means you agree not to hire their staff [Section 13].
+
+This is a summary, not legal advice. For the exact notice deadline and the two problems above, a lawyer should confirm before you rely on them.
+
+----- Follow-up turn (followup-prompt.txt) -----
+
+Here is what the agreement requires if you decide not to renew.
+
+1. What you have to do: send Kestrel a written notice that you are not renewing.
+"At the end of the Initial Term and each renewal term, this Agreement renews automatically for an additional twelve (12) months unless either Party gives the other written notice of non-renewal at least thirty (30) days before the end of the then-current term." [Section 2.2]
+
+2. By what date: Kestrel must receive it by December 1, 2026. The current term ends December 31, 2026 [Section 2.1], and 30 days before that is December 1. The date that counts is the day Kestrel receives it, not the day you send it:
+"Notice is effective on the date it is received." [Section 18.2]
+Certified mail takes time, so plan to send it well before December 1. A lawyer can confirm exactly how the 30 days are counted if you are cutting it close.
+
+3. How it must be sent: by hand or by certified mail with a return receipt. Email does not count.
+"Notwithstanding Section 18.1, any notice of non-renewal under Section 2.2 or termination under Section 12 must be delivered by hand or by certified mail with return receipt requested. Email alone is not sufficient for these notices." [Section 18.2]
+("Notwithstanding" means "even though Section 18.1 says otherwise." Section 18.1 allows email for other notices.)
+
+4. Where to send it:
+"To Vendor: Kestrel Commercial Cleaning, LLC, Attn: Owner, 2275 Brandt Industrial Parkway, Columbus, Ohio 43219." [Section 18.3]
+
+5. After the agreement ends: Kestrel has to give back keys and access and confirm the alarm codes are gone.
+"Within three (3) Business Days after this Agreement ends, Vendor will return all keys, fobs and access cards and confirm in writing that alarm codes have been removed from its records." [Section 12.4]
+
+What the agreement does not say:
+- Who on your side must sign the notice. Not stated.
+- What the notice must contain, beyond being written notice of non-renewal. Not stated.
+- Whether you need to give a reason. Section 2.2 does not ask for one.

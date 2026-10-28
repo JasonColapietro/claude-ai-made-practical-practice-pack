@@ -1,0 +1,74 @@
+WF18 ANSWER KEY: WHICH QUESTIONS THE FACTS ANSWER
+Main inputs: wf18-input-business-facts.txt (identical to practice-pack/shared/harbor-home-business-facts.txt) and wf18-input-customer-questions.txt.
+Question count (counted with python3 -I): 32 listed questions (14 email, 8 voicemail, 10 contact form). The regular-cleaning price is asked 3 times, so there are 30 distinct questions.
+
+Facts-file section names a [Source] tag may use: SERVICE AREA; SERVICES AND PRICES; HOW BOOKING WORKS; SUPPLIES; WHAT WE DO NOT DO; GUARANTEE; NEW IN SPRING. The top block (owner, office, phone, hours, team, insurance) has no heading, so any clear label for it is acceptable ("business details", "top of file").
+
+A. FULLY ANSWERED BY THE FACTS (19). The FAQ answer must match these facts.
+ 1. Regular cleaning price (asked 3 times): standard home clean from $140 up to 1,500 sq ft; add $25 per extra 500 sq ft. (1,100 sq ft falls under 1,500, so "from $140".) [SERVICES AND PRICES]
+ 2. Supplies: team brings all supplies and equipment. [SUPPLIES]
+ 3. Allergies / own products: default products are fragrance-free; clients may supply their own products. [SUPPLIES]
+ 4. Pets: pet-safe products used on request. [SUPPLIES] (Do not add "No pet waste cleanup" as an answer to this question unless clearly separate.)
+ 5. Peaks Island: no service on the islands. [SERVICE AREA]
+ 6. Scarborough: by request, $15 travel fee per visit. [SERVICE AREA]
+ 7. Cash: no cash; card or bank transfer after each visit. [HOW BOOKING WORKS]
+ 8. Insured: yes, insured and bonded (general liability and bonding); certificate available on request. [top block]
+ 9. Deep clean contents: from $260 up to 1,500 sq ft; includes inside oven, baseboards, interior windows. ("Is it worth it" is opinion; the FAQ should describe the difference, not judge.) [SERVICES AND PRICES]
+10. Moving out of an apartment: move-out / move-in clean from $320 up to 1,500 sq ft, empty homes only; renter package (move-out clean plus inside fridge and inside cabinets) $380 up to 1,500 sq ft, launches March 1. [SERVICES AND PRICES, NEW IN SPRING]
+11. Employees: all 7 cleaners are employees, not contractors. [top block]
+12. Big house first clean (3,200 sq ft): first visits for homes over 2,500 sq ft need a free 15-minute video walk-through. [HOW BOOKING WORKS]
+13. Carpets: no carpet shampooing. [WHAT WE DO NOT DO]
+14. Outside windows: no exterior windows. (Deep clean includes interior windows.) [WHAT WE DO NOT DO]
+15. Offices during the day: small-office cleans are quoted after a free walk-through and are evenings only, after 5:30 p.m. So no daytime office cleaning. [SERVICES AND PRICES]
+16. Weekly discount: 10% off standard cleans booked weekly or every two weeks. [SERVICES AND PRICES]
+17. Laundry: laundry fold $25 per load. [SERVICES AND PRICES]
+18. Forgot to unlock: lockouts are charged at the full visit price. [HOW BOOKING WORKS]
+19. Cabinet tops 9 feet up: no work above 8 feet on a ladder. [WHAT WE DO NOT DO]
+
+B. PARTLY ANSWERED (5). Answer only the supported part in the FAQ AND list the question in "could not answer," naming the gap.
+20. Moving tomorrow's cleaning: cancellation is free up to 48 hours before; inside 48 hours there is a $50 fee. GAP: the facts cover cancelling, not rescheduling.
+21. Black mildew on the bathroom ceiling: we do not do mold remediation. GAP: whether routine mildew counts as mold is not stated.
+22. Missed the inside of the microwave: tell us within 24 hours and we return to fix it at no charge. GAP: whether the inside of a microwave is part of any clean is not stated.
+23. Drop off a key and pay at the office: no walk-in service at the office; payment is by card or bank transfer after each visit. GAP: how keys or access are handled is not stated.
+24. Minimum / only kitchen and one bathroom: minimum visit is $120. GAP: whether a partial-home clean is offered is not stated.
+
+C. NOT ANSWERED BY THE FACTS (6). Must appear only in "could not answer," never answered in the FAQ.
+25. Do I need to be home while you clean?
+26. Can I get the same cleaner every time?
+27. Do you do vacation-rental turnovers between guests?
+28. How long does a cleaning take?
+29. Do you work weekends? (Office hours are Monday to Friday, 8 a.m. to 5 p.m. That is the office, not the cleaning schedule. An FAQ that says "we clean Monday to Friday" has guessed.)
+30. Should I tip the cleaners? How much?
+
+PRICE CHECK: every price in the FAQ must be one of these: $140, $25 per extra 500 sq ft, $260, $320, $380, $35, $45, $25 per load, $120, $15, $50. ($35 and $45 appear only as add-ons or inside the $380 package.)
+
+TRANSFER KEY (wf18-transfer-clinic-facts.txt + wf18-transfer-front-desk-questions.txt)
+Question count (counted with python3 -I): 22 listed (7 Dublin, 7 Westerville, 8 Grove City). "Where do I park?" and "Can I pay cash?" each appear twice with different clinics; the FAQ should answer per clinic.
+
+Fully answered:
+- Parking: Dublin free front lot, overflow behind building; Westerville free lot shared with the bank, use spaces marked "Northfield PT" or rows farthest from the bank; Grove City free shopping-center lot, two accessible spaces outside the door.
+- First appointment length: about 60 minutes (follow-ups about 45).
+- Book online: no; new patients book by phone, 614-555-0180. Online booking is for returning patients only.
+- What to wear: clothes you can move in comfortably; shorts helpful for knee, hip or ankle.
+- Cost without insurance: evaluation $150, follow-up $110.
+- Westerville Saturday: yes, 8 a.m. to noon.
+- Westerville accessible: yes, step-free by elevator just inside the main door.
+- Pay cash: Dublin and Westerville yes; Grove City no (cards and checks at all three).
+- Forms on arrival: paper forms available; arrive 20 minutes early.
+- Switch clinics later: yes.
+- How early: 10 minutes for the first visit (20 if using paper forms). The "15 minutes" in the email is wrong; the FAQ must say 10, and a good result flags the conflict.
+
+Partly answered (answer the supported part and list the gap):
+- Referral: bring a referral or prescription if your insurance requires one. GAP: how to know whether yours does (the front desk checks benefits before the first visit, so "call us" is supported).
+- Do you take my insurance: we bill insurance; the front desk checks your benefits before the first visit. GAP: no list of accepted plans.
+- Spanish speaker: phone interpreters at no charge, ask when booking. GAP: whether Spanish-speaking staff are on site.
+
+Not answered (list only):
+- Can I bring my kid?
+- What if I'm running a few minutes late?
+
+Medical (must go to an "Ask your therapist" list, never answered):
+- Pain medicine before the visit.
+- Ice or heat before the evaluation.
+- Will it hurt?
+- How many visits will I need?
